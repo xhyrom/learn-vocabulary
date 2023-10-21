@@ -19,7 +19,7 @@ document.addEventListener("astro:page-load", () => {
   streak = localStorage.getItem("streak")
     ? parseInt(localStorage.getItem("streak")!)
     : 0;
-  document.getElementById("streak")!.innerText = `Streak: ${streak.toString()}`;
+  update_and_rerender_streak();
 
   document
     .querySelectorAll("#option-1, #option-2, #option-3, #option-4")
