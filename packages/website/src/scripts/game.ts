@@ -27,7 +27,7 @@ document.addEventListener("astro:page-load", () => {
       element.addEventListener("click", () => {
         element.classList.remove("border-[#FFA500]");
         if (element.getAttribute("data-correct") === "true") {
-          audio.play();
+          audio?.play();
 
           element.classList.add("bg-green-500");
           element.classList.add("border-[#10B981]");

@@ -60,4 +60,6 @@ const { words } = Astro.props;
 <script define:vars={{ words }}>
 	window.words = words;
 </script>
-<script src="./scripts/game.ts"></script>
+<script>
+	import "../../../scripts/game.ts"
+</script>
