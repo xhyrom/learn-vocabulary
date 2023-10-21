@@ -1,0 +1,517 @@
+[
+  {
+    "word": "das Abonnement",
+    "article": null,
+    "translation": "predplatné"
+  },
+  {
+    "word": "am Ende des Schuljahres",
+    "article": null,
+    "translation": "na konci školského roka"
+  },
+  {
+    "word": "Argentinien",
+    "article": null,
+    "translation": "Argentína"
+  },
+  {
+    "word": "das Armband",
+    "article": "das",
+    "translation": {
+      "singular": "náramok",
+      "plural": null
+    },
+    "plural": "die Armbandrmbänder"
+  },
+  {
+    "word": "arrogant",
+    "article": null,
+    "translation": "arogantný"
+  },
+  {
+    "word": "das Aussehen",
+    "article": "das",
+    "translation": "vzhľad, zovňajšok"
+  },
+  {
+    "word": "besichtigen",
+    "article": null,
+    "translation": "prehliadnuť si"
+  },
+  {
+    "word": "die Beziehung",
+    "article": "die",
+    "translation": {
+      "singular": "vzťah",
+      "plural": null
+    },
+    "plural": "die Beziehungen"
+  },
+  {
+    "word": "die Blume",
+    "article": "die",
+    "translation": {
+      "singular": "kvet",
+      "plural": null
+    },
+    "plural": "die Blumen"
+  },
+  {
+    "word": "böse",
+    "article": null,
+    "translation": "zlý"
+  },
+  {
+    "word": "Das gefällt mir nicht.",
+    "article": null,
+    "translation": "To sa mi nepáči."
+  },
+  {
+    "word": "dick",
+    "article": null,
+    "translation": "tučný"
+  },
+  {
+    "word": "doof",
+    "article": null,
+    "translation": "hlúpy, sprostý"
+  },
+  {
+    "word": "echt",
+    "article": null,
+    "translation": "pravý, skutočný, naozaj"
+  },
+  {
+    "word": "die Eigenschaft",
+    "article": "die",
+    "translation": {
+      "singular": "vlastnosť",
+      "plural": null
+    },
+    "plural": "die Eigenschaften"
+  },
+  {
+    "word": "einmal",
+    "article": null,
+    "translation": "raz"
+  },
+  {
+    "word": "fair",
+    "article": null,
+    "translation": "fér, slušný, čestný"
+  },
+  {
+    "word": "der Fanatiker",
+    "article": "der",
+    "translation": {
+      "singular": "fanatik",
+      "plural": null
+    },
+    "plural": "die Fanatiker"
+  },
+  {
+    "word": "das Fotografieren",
+    "article": "das",
+    "translation": "fotografovanie"
+  },
+  {
+    "word": "frech",
+    "article": null,
+    "translation": "drzý"
+  },
+  {
+    "word": "die Freundesliste",
+    "article": "die",
+    "translation": {
+      "singular": "zoznam priateľov",
+      "plural": null
+    },
+    "plural": "die Freundeslisten"
+  },
+  {
+    "word": "gefallen",
+    "article": null,
+    "translation": "páčiť sa"
+  },
+  {
+    "word": "gehören",
+    "article": null,
+    "translation": "patriť"
+  },
+  {
+    "word": "der Gutschein",
+    "article": "der",
+    "translation": {
+      "singular": "poukážka na nákup tovaru",
+      "plural": null
+    },
+    "plural": "die Gutscheine"
+  },
+  {
+    "word": "die Handyfolie",
+    "article": "die",
+    "translation": {
+      "singular": "obal na mobilný telefón",
+      "plural": null
+    },
+    "plural": "die Handyfolien"
+  },
+  {
+    "word": "hässlich",
+    "article": null,
+    "translation": "škaredý"
+  },
+  {
+    "word": "helfen",
+    "article": null,
+    "translation": "pomáhať, pomôcť (niekomu)"
+  },
+  {
+    "word": "hilfsbereit",
+    "article": null,
+    "translation": "ochotný pomôcť"
+  },
+  {
+    "word": "hübsch",
+    "article": null,
+    "translation": "pekný, pôvabný"
+  },
+  {
+    "word": "humorvoll",
+    "article": null,
+    "translation": "vtipný"
+  },
+  {
+    "word": "der Charakter",
+    "article": "der",
+    "translation": {
+      "singular": "charakter",
+      "plural": null
+    },
+    "plural": "die Charaktere"
+  },
+  {
+    "word": "insgesamt",
+    "article": null,
+    "translation": "spolu, dovedna"
+  },
+  {
+    "word": "der Kalender",
+    "article": "der",
+    "translation": {
+      "singular": "kalendár",
+      "plural": null
+    },
+    "plural": "die Kalender"
+  },
+  {
+    "word": "die Klamotte",
+    "article": "die",
+    "translation": {
+      "singular": "oblečenie, háby",
+      "plural": null
+    },
+    "plural": "die Klamotten"
+  },
+  {
+    "word": "klein",
+    "article": null,
+    "translation": "malý"
+  },
+  {
+    "word": "klicken",
+    "article": null,
+    "translation": "kliknúť"
+  },
+  {
+    "word": "die Kosmetik",
+    "article": "die",
+    "translation": "kozmetika"
+  },
+  {
+    "word": "das Kosmetik-Set",
+    "article": "das",
+    "translation": {
+      "singular": "kozmetický balíček",
+      "plural": null
+    },
+    "plural": "die Kosmetik-Sets"
+  },
+  {
+    "word": "das Ladegerät",
+    "article": "das",
+    "translation": {
+      "singular": "nabíjačka",
+      "plural": null
+    },
+    "plural": "die Ladegeräte"
+  },
+  {
+    "word": "lachen",
+    "article": null,
+    "translation": "smiať sa"
+  },
+  {
+    "word": "laufen",
+    "article": null,
+    "translation": "behať, utekať"
+  },
+  {
+    "word": "der Lautsprecher",
+    "article": "der",
+    "translation": {
+      "singular": "reproduktor",
+      "plural": null
+    },
+    "plural": "die Lautsprecher"
+  },
+  {
+    "word": "leer",
+    "article": null,
+    "translation": "prázdny"
+  },
+  {
+    "word": "lieben",
+    "article": null,
+    "translation": "milovať, mať rád"
+  },
+  {
+    "word": "lustig",
+    "article": null,
+    "translation": "veselý, zábavný"
+  },
+  {
+    "word": "das Märchen",
+    "article": "das",
+    "translation": {
+      "singular": "rozprávka",
+      "plural": null
+    },
+    "plural": "die Märchen"
+  },
+  {
+    "word": "die Medizin",
+    "article": "die",
+    "translation": "medicína"
+  },
+  {
+    "word": "die Mode",
+    "article": "die",
+    "translation": {
+      "singular": "móda",
+      "plural": null
+    },
+    "plural": "die Moden"
+  },
+  {
+    "word": "der Muttertag",
+    "article": "der",
+    "translation": {
+      "singular": "Deň matiek",
+      "plural": null
+    },
+    "plural": "die Muttertage"
+  },
+  {
+    "word": "originell",
+    "article": null,
+    "translation": "originálny, osobitý"
+  },
+  {
+    "word": "per + podst. jm.",
+    "article": null,
+    "translation": "čím, prostredníctvom čoho"
+  },
+  {
+    "word": "per E-Mail/WhatsApp",
+    "article": null,
+    "translation": "e-mailom/prostredníctvom WhatsApp"
+  },
+  {
+    "word": "die Persönlichkeit",
+    "article": "die",
+    "translation": {
+      "singular": "osobnosť",
+      "plural": null
+    },
+    "plural": "die Persönlichkeiten"
+  },
+  {
+    "word": "das Problem",
+    "article": "das",
+    "translation": {
+      "singular": "problém",
+      "plural": null
+    },
+    "plural": "die Probleme"
+  },
+  {
+    "word": "das Prozent",
+    "article": "das",
+    "translation": {
+      "singular": "percento",
+      "plural": null
+    },
+    "plural": "die Prozente"
+  },
+  {
+    "word": "Rad fahren",
+    "article": null,
+    "translation": "bicyklovať sa, jazdiť na bicykli"
+  },
+  {
+    "word": "das Radfahren",
+    "article": "das",
+    "translation": "bicyklovanie (cyklistika)"
+  },
+  {
+    "word": "das Reisen",
+    "article": "das",
+    "translation": "cestovanie"
+  },
+  {
+    "word": "die Selfie-Stange",
+    "article": "die",
+    "translation": {
+      "singular": "tyč na selfie",
+      "plural": null
+    },
+    "plural": "die Selfie-Stangen"
+  },
+  {
+    "word": "schenken",
+    "article": null,
+    "translation": "darovať"
+  },
+  {
+    "word": "schicken",
+    "article": null,
+    "translation": "poslať"
+  },
+  {
+    "word": "schlank",
+    "article": null,
+    "translation": "štíhly"
+  },
+  {
+    "word": "das Schuljahr",
+    "article": "das",
+    "translation": {
+      "singular": "školský rok",
+      "plural": null
+    },
+    "plural": "die Schuljahre"
+  },
+  {
+    "word": "die Sofortbildkamera",
+    "article": "die",
+    "translation": {
+      "singular": "polaroid",
+      "plural": null
+    },
+    "plural": "die Sofortbildkameras"
+  },
+  {
+    "word": "die Spielkarte",
+    "article": "die",
+    "translation": {
+      "singular": "hracia karta",
+      "plural": null
+    },
+    "plural": "die Spielkarten"
+  },
+  {
+    "word": "streng",
+    "article": null,
+    "translation": "prísny"
+  },
+  {
+    "word": "die Süßigkeit",
+    "article": "die",
+    "translation": {
+      "singular": "sladkosť, maškrta",
+      "plural": null
+    },
+    "plural": "die Süßigkeiten"
+  },
+  {
+    "word": "sympathisch",
+    "article": null,
+    "translation": "sympatický"
+  },
+  {
+    "word": "das Ticket",
+    "article": "das",
+    "translation": {
+      "singular": "vstupenka",
+      "plural": null
+    },
+    "plural": "die Tickets"
+  },
+  {
+    "word": "das T-Shirt",
+    "article": "das",
+    "translation": {
+      "singular": "tričko",
+      "plural": null
+    },
+    "plural": "die T-Shirts"
+  },
+  {
+    "word": "unfair",
+    "article": null,
+    "translation": "neférový, nečestný"
+  },
+  {
+    "word": "unsympathisch",
+    "article": null,
+    "translation": "nesympatický"
+  },
+  {
+    "word": "unzufrieden",
+    "article": null,
+    "translation": "nespokojný"
+  },
+  {
+    "word": "verschieden",
+    "article": null,
+    "translation": "rozdielny, rozmanitý, rôzny"
+  },
+  {
+    "word": "der Wald",
+    "article": "der",
+    "translation": {
+      "singular": "les",
+      "plural": null
+    },
+    "plural": "die Waldälder"
+  },
+  {
+    "word": "das Weihnachten",
+    "article": "das",
+    "translation": "Vianoce"
+  },
+  {
+    "word": "der Witz",
+    "article": "der",
+    "translation": {
+      "singular": "vtip",
+      "plural": null
+    },
+    "plural": "die Witze"
+  },
+  {
+    "word": "witzig",
+    "article": null,
+    "translation": "vtipný"
+  },
+  {
+    "word": "die Zeitschrift",
+    "article": "die",
+    "translation": {
+      "singular": "časopis",
+      "plural": null
+    },
+    "plural": "die Zeitschriften"
+  }
+]

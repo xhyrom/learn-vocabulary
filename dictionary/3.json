@@ -1,0 +1,1028 @@
+[
+  {
+    "word": "5-Gänge-Menü",
+    "article": null,
+    "translation": "päťchodové menu"
+  },
+  {
+    "word": "die Aktivität",
+    "article": "die",
+    "translation": {
+      "singular": "aktivita",
+      "plural": null
+    },
+    "plural": "die Aktivitäten"
+  },
+  {
+    "word": "am Wochenende",
+    "article": null,
+    "translation": "cez víkend"
+  },
+  {
+    "word": "Am Wochenende fahren wir an einen See.",
+    "article": null,
+    "translation": "Cez víkend pôjdeme k (nejakému) jazeru."
+  },
+  {
+    "word": "der Ausflug",
+    "article": "der",
+    "translation": {
+      "singular": "výlet",
+      "plural": null
+    },
+    "plural": "die Ausflugusflüge"
+  },
+  {
+    "word": "die Ausstellung",
+    "article": "die",
+    "translation": {
+      "singular": "výstava",
+      "plural": null
+    },
+    "plural": "die Ausstellungen"
+  },
+  {
+    "word": "bald",
+    "article": null,
+    "translation": "skoro"
+  },
+  {
+    "word": "bitte",
+    "article": null,
+    "translation": "prosím"
+  },
+  {
+    "word": "der Bruder",
+    "article": "der",
+    "translation": {
+      "singular": "brat",
+      "plural": null
+    },
+    "plural": "die Bruderrüder"
+  },
+  {
+    "word": "die Burg",
+    "article": "die",
+    "translation": {
+      "singular": "hrad",
+      "plural": null
+    },
+    "plural": "die Burgen"
+  },
+  {
+    "word": "cool",
+    "article": null,
+    "translation": "cool, super"
+  },
+  {
+    "word": "der Cousin",
+    "article": "der",
+    "translation": {
+      "singular": "bratranec",
+      "plural": null
+    },
+    "plural": "die Cousins"
+  },
+  {
+    "word": "die Cousine",
+    "article": "die",
+    "translation": {
+      "singular": "sesternica",
+      "plural": null
+    },
+    "plural": "die Cousinen"
+  },
+  {
+    "word": "dann",
+    "article": null,
+    "translation": "potom"
+  },
+  {
+    "word": "das Haus",
+    "article": "das",
+    "translation": {
+      "singular": "dom",
+      "plural": null
+    },
+    "plural": "die Hausäuser"
+  },
+  {
+    "word": "dauern",
+    "article": null,
+    "translation": "trvať",
+    "plural": "die dauernr dauert"
+  },
+  {
+    "word": "dein",
+    "article": null,
+    "translation": "tvoj, tvoja, tvoje",
+    "plural": "die deineine"
+  },
+  {
+    "word": "die Feier",
+    "article": "die",
+    "translation": {
+      "singular": "oslava, slávnosť",
+      "plural": null
+    },
+    "plural": "die Feiern"
+  },
+  {
+    "word": "Die Vorbereitung dauert nicht so lange.",
+    "article": null,
+    "translation": "Príprava netrvá tak dlho."
+  },
+  {
+    "word": "die Vorbereitung",
+    "article": "die",
+    "translation": {
+      "singular": "príprava",
+      "plural": null
+    },
+    "plural": "die Vorbereitungen"
+  },
+  {
+    "word": "diese Woche",
+    "article": null,
+    "translation": "tento týždeň"
+  },
+  {
+    "word": "dieses Wochenende",
+    "article": null,
+    "translation": "tento víkend"
+  },
+  {
+    "word": "doch",
+    "article": null,
+    "translation": "predsa"
+  },
+  {
+    "word": "die Ehefrau",
+    "article": "die",
+    "translation": {
+      "singular": "manželka",
+      "plural": null
+    },
+    "plural": "die Ehefrauen"
+  },
+  {
+    "word": "der Ehemann",
+    "article": "der",
+    "translation": {
+      "singular": "manžel",
+      "plural": null
+    },
+    "plural": "die Ehemannhemänner"
+  },
+  {
+    "word": "ein|laden",
+    "article": null,
+    "translation": "pozvať",
+    "plural": "die ein|ladenr lädt ein"
+  },
+  {
+    "word": "das Einkaufszentrum",
+    "article": "das",
+    "translation": "nákupné centrum"
+  },
+  {
+    "word": "das Einzelkind",
+    "article": "das",
+    "translation": {
+      "singular": "jedináčik",
+      "plural": null
+    },
+    "plural": "die Einzelkinder"
+  },
+  {
+    "word": "die Eltern(Pl)",
+    "article": "die",
+    "translation": "rodičia"
+  },
+  {
+    "word": "Er gehört zur Familie",
+    "article": null,
+    "translation": "(On) Patrí k rodine."
+  },
+  {
+    "word": "Er ist leider schon tot",
+    "article": null,
+    "translation": "(On) Je už žiaľ mŕtvy."
+  },
+  {
+    "word": "es gibt",
+    "article": null,
+    "translation": "je, existuje"
+  },
+  {
+    "word": "euer",
+    "article": null,
+    "translation": "váš, vaša, vaše",
+    "plural": "die euerure"
+  },
+  {
+    "word": "die Familie",
+    "article": "die",
+    "translation": {
+      "singular": "rodina",
+      "plural": null
+    },
+    "plural": "die Familien"
+  },
+  {
+    "word": "feiern",
+    "article": null,
+    "translation": "sláviť, oslavovať",
+    "plural": "die feiernr feiert"
+  },
+  {
+    "word": "das Fest",
+    "article": "das",
+    "translation": {
+      "singular": "oslava, slávnosť",
+      "plural": null
+    },
+    "plural": "die Feste"
+  },
+  {
+    "word": "fragen",
+    "article": null,
+    "translation": "pýtať sa, opýtať sa",
+    "plural": "die fragenr fragt"
+  },
+  {
+    "word": "der Garten",
+    "article": "der",
+    "translation": {
+      "singular": "záhrada",
+      "plural": null
+    },
+    "plural": "die Gartenärten"
+  },
+  {
+    "word": "der Geburtstag",
+    "article": "der",
+    "translation": {
+      "singular": "narodeniny",
+      "plural": null
+    },
+    "plural": "die Geburtstage"
+  },
+  {
+    "word": "die Geburtstagsparty",
+    "article": "die",
+    "translation": {
+      "singular": "narodeninová oslava",
+      "plural": null
+    },
+    "plural": "die Geburtstagspartys"
+  },
+  {
+    "word": "gehören zu",
+    "article": null,
+    "translation": "patriť k"
+  },
+  {
+    "word": "gehören",
+    "article": null,
+    "translation": "patriť",
+    "plural": "die gehörenr gehört"
+  },
+  {
+    "word": "geschieden",
+    "article": null,
+    "translation": "rozvedený"
+  },
+  {
+    "word": "die Geschwister",
+    "article": null,
+    "translation": "súrodenci",
+    "plural": "die die Geschwister"
+  },
+  {
+    "word": "gleich",
+    "article": null,
+    "translation": "rovnaký"
+  },
+  {
+    "word": "der Goldfisch",
+    "article": "der",
+    "translation": {
+      "singular": "akváriová rybka",
+      "plural": null
+    },
+    "plural": "die Goldfische"
+  },
+  {
+    "word": "grillen",
+    "article": null,
+    "translation": "grilovať",
+    "plural": "die grillenr grillt"
+  },
+  {
+    "word": "groß",
+    "article": null,
+    "translation": "veľký"
+  },
+  {
+    "word": "haben",
+    "article": null,
+    "translation": "mať",
+    "plural": "die habenr hat"
+  },
+  {
+    "word": "der Hamster",
+    "article": "der",
+    "translation": {
+      "singular": "škrečok",
+      "plural": null
+    },
+    "plural": "die Hamster"
+  },
+  {
+    "word": "das Haustier",
+    "article": "das",
+    "translation": {
+      "singular": "domáce zviera",
+      "plural": null
+    },
+    "plural": "die Haustiere"
+  },
+  {
+    "word": "hier",
+    "article": null,
+    "translation": "tu"
+  },
+  {
+    "word": "das Hobby",
+    "article": "das",
+    "translation": {
+      "singular": "hobby, záľuba, koníček",
+      "plural": null
+    },
+    "plural": "die Hobbys"
+  },
+  {
+    "word": "das Hochzeitsfest",
+    "article": "das",
+    "translation": {
+      "singular": "svadobná hostina",
+      "plural": null
+    },
+    "plural": "die Hochzeitsfeste"
+  },
+  {
+    "word": "die Hochzeitstorte",
+    "article": "die",
+    "translation": {
+      "singular": "svadobná torta",
+      "plural": null
+    },
+    "plural": "die Hochzeitstorten"
+  },
+  {
+    "word": "der Hund",
+    "article": "der",
+    "translation": {
+      "singular": "pes",
+      "plural": null
+    },
+    "plural": "die Hunde"
+  },
+  {
+    "word": "das Chamäleon",
+    "article": "das",
+    "translation": {
+      "singular": "chameleón",
+      "plural": null
+    },
+    "plural": "die Chamäleons"
+  },
+  {
+    "word": "die Idee",
+    "article": "die",
+    "translation": {
+      "singular": "nápad, myšlienka",
+      "plural": null
+    },
+    "plural": "die Ideen"
+  },
+  {
+    "word": "ihr",
+    "article": null,
+    "translation": "jej (môže znamenať aj ich )",
+    "plural": "die ihrhre"
+  },
+  {
+    "word": "ihr",
+    "article": null,
+    "translation": "ich (môže znamenať aj jej)",
+    "plural": "die ihrhre"
+  },
+  {
+    "word": "Ich bin kein Einzelkind mehr",
+    "article": null,
+    "translation": "Už nie som (viac) jedináčik."
+  },
+  {
+    "word": "Ich fahre nach Wien",
+    "article": null,
+    "translation": "Idem do Viedne."
+  },
+  {
+    "word": "Ich frage meine Schwester",
+    "article": null,
+    "translation": "Opýtam sa mojej sestry."
+  },
+  {
+    "word": "Ich wandere gern",
+    "article": null,
+    "translation": "Rád/a putujem."
+  },
+  {
+    "word": "die Inliner",
+    "article": "die",
+    "translation": "kolieskové korčule"
+  },
+  {
+    "word": "der Iran",
+    "article": "der",
+    "translation": "Írán"
+  },
+  {
+    "word": "Ja",
+    "article": null,
+    "translation": "Áno, súhlasí.  Áno, správne.",
+    "plural": "die Jatimmt"
+  },
+  {
+    "word": "der Job",
+    "article": "der",
+    "translation": {
+      "singular": "práca, zamestnanie",
+      "plural": null
+    },
+    "plural": "die Jobs"
+  },
+  {
+    "word": "der Kanarienvogel",
+    "article": "der",
+    "translation": {
+      "singular": "kanárik",
+      "plural": null
+    },
+    "plural": "die Kanarienvogelanarienvögel"
+  },
+  {
+    "word": "das Kaninchen",
+    "article": "das",
+    "translation": {
+      "singular": "králik",
+      "plural": null
+    },
+    "plural": "die Kaninchen"
+  },
+  {
+    "word": "der Kater",
+    "article": "der",
+    "translation": {
+      "singular": "kocúr",
+      "plural": null
+    },
+    "plural": "die Kater"
+  },
+  {
+    "word": "die Katze",
+    "article": "die",
+    "translation": {
+      "singular": "mačka",
+      "plural": null
+    },
+    "plural": "die Katzen"
+  },
+  {
+    "word": "die Köchin",
+    "article": "die",
+    "translation": {
+      "singular": "kuchárka",
+      "plural": null
+    },
+    "plural": "die Köchinnen"
+  },
+  {
+    "word": "der Kuchen",
+    "article": "der",
+    "translation": {
+      "singular": "koláč, múčnik",
+      "plural": null
+    },
+    "plural": "die Kuchen"
+  },
+  {
+    "word": "lange",
+    "article": null,
+    "translation": "dlho"
+  },
+  {
+    "word": "manchmal",
+    "article": null,
+    "translation": "niekedy, občas"
+  },
+  {
+    "word": "die Männer-Wohngemeinschaft",
+    "article": "die",
+    "translation": "tu: mužská domácnosť"
+  },
+  {
+    "word": "das Meerschweinchen",
+    "article": "das",
+    "translation": {
+      "singular": "morča",
+      "plural": null
+    },
+    "plural": "die Meerschweinchen"
+  },
+  {
+    "word": "mehr",
+    "article": null,
+    "translation": "viac, viacej"
+  },
+  {
+    "word": "Meine Eltern sind geschieden.",
+    "article": null,
+    "translation": "Moji rodičia sú rozvedení."
+  },
+  {
+    "word": "Meine Mutter schwimmt gern.",
+    "article": null,
+    "translation": "Moja mama pláva rada."
+  },
+  {
+    "word": "das Menü",
+    "article": "das",
+    "translation": {
+      "singular": "menu",
+      "plural": null
+    },
+    "plural": "die Menüs"
+  },
+  {
+    "word": "nach",
+    "article": null,
+    "translation": "do, na, po"
+  },
+  {
+    "word": "nächsten Monat / nächste Woche / nächstes Jahr",
+    "article": null,
+    "translation": "(kedy?) nasledujúci mesiac/nasledujúci týždeň/nasledujúci rok"
+  },
+  {
+    "word": "nächster",
+    "article": null,
+    "translation": "nasledujúci, budúci",
+    "plural": "die nächsterächste"
+  },
+  {
+    "word": "nämlich",
+    "article": null,
+    "translation": "totiž"
+  },
+  {
+    "word": "natürlich",
+    "article": null,
+    "translation": "samozrejmý, prirodzený"
+  },
+  {
+    "word": "neu",
+    "article": null,
+    "translation": "nový"
+  },
+  {
+    "word": "ob",
+    "article": null,
+    "translation": "či"
+  },
+  {
+    "word": "die Oma",
+    "article": "die",
+    "translation": {
+      "singular": "babka, babička",
+      "plural": null
+    },
+    "plural": "die Omas"
+  },
+  {
+    "word": "der Onkel",
+    "article": "der",
+    "translation": {
+      "singular": "strýko",
+      "plural": null
+    },
+    "plural": "die Onkel"
+  },
+  {
+    "word": "der Opa",
+    "article": "der",
+    "translation": {
+      "singular": "dedko",
+      "plural": null
+    },
+    "plural": "die Opas"
+  },
+  {
+    "word": "der Papa",
+    "article": "der",
+    "translation": {
+      "singular": "otec, ocko",
+      "plural": null
+    },
+    "plural": "die Papas"
+  },
+  {
+    "word": "die Party",
+    "article": "die",
+    "translation": {
+      "singular": "párty, večierok",
+      "plural": null
+    },
+    "plural": "die Partys"
+  },
+  {
+    "word": "die Patchworkfamilie",
+    "article": "die",
+    "translation": {
+      "singular": "patchworková rodina",
+      "plural": null
+    },
+    "plural": "die Patchworkfamilien"
+  },
+  {
+    "word": "Persisch",
+    "article": null,
+    "translation": "perzština"
+  },
+  {
+    "word": "die Person",
+    "article": "die",
+    "translation": {
+      "singular": "osoba",
+      "plural": null
+    },
+    "plural": "die Personen"
+  },
+  {
+    "word": "das Pferd",
+    "article": "das",
+    "translation": {
+      "singular": "kôň",
+      "plural": null
+    },
+    "plural": "die Pferde"
+  },
+  {
+    "word": "das Restaurant",
+    "article": "das",
+    "translation": {
+      "singular": "reštaurácia",
+      "plural": null
+    },
+    "plural": "die Restaurants"
+  },
+  {
+    "word": "der See",
+    "article": "der",
+    "translation": {
+      "singular": "jazero",
+      "plural": null
+    },
+    "plural": "die Seen"
+  },
+  {
+    "word": "sehen",
+    "article": null,
+    "translation": "vidieť",
+    "plural": "die sehenr sieht"
+  },
+  {
+    "word": "sein",
+    "article": null,
+    "translation": "jeho",
+    "plural": "die seineine"
+  },
+  {
+    "word": "shoppen",
+    "article": null,
+    "translation": "nakupovať",
+    "plural": "die shoppenr shoppt"
+  },
+  {
+    "word": "die Schildkröte",
+    "article": "die",
+    "translation": {
+      "singular": "korytnačka",
+      "plural": null
+    },
+    "plural": "die Schildkröten"
+  },
+  {
+    "word": "das Schloss",
+    "article": "das",
+    "translation": {
+      "singular": "zámok",
+      "plural": null
+    },
+    "plural": "die Schlosschlösser"
+  },
+  {
+    "word": "schrecklich",
+    "article": null,
+    "translation": "strašný, hrozný"
+  },
+  {
+    "word": "die Schwarzwälder",
+    "article": "die",
+    "translation": "Schwarzwaldská čerešňová torta"
+  },
+  {
+    "word": "die Schwester",
+    "article": "die",
+    "translation": {
+      "singular": "sestra",
+      "plural": null
+    },
+    "plural": "die Schwestern"
+  },
+  {
+    "word": "das Schwimmbad",
+    "article": "das",
+    "translation": {
+      "singular": "plaváreň, bazén",
+      "plural": null
+    },
+    "plural": "die Schwimmbadchwimmbäder"
+  },
+  {
+    "word": "der Schwimmbadbesuch",
+    "article": "der",
+    "translation": {
+      "singular": "návšteva plaveckého bazénu",
+      "plural": null
+    },
+    "plural": "die Schwimmbadbesuche"
+  },
+  {
+    "word": "schwimmen",
+    "article": null,
+    "translation": "plávať",
+    "plural": "die schwimmenr schwimmt"
+  },
+  {
+    "word": "Sie fährt Inliner.",
+    "article": null,
+    "translation": "(Ona) Jazdí na kolieskových korčuliach."
+  },
+  {
+    "word": "singen",
+    "article": null,
+    "translation": "spievať",
+    "plural": "die singenr singt"
+  },
+  {
+    "word": "das Sportevent",
+    "article": "das",
+    "translation": {
+      "singular": "športová akcia (zápas, preteky)",
+      "plural": null
+    },
+    "plural": "die Sportevents"
+  },
+  {
+    "word": "der Stammbaum",
+    "article": "der",
+    "translation": {
+      "singular": "rodokmeň",
+      "plural": null
+    },
+    "plural": "die Stammbaumtammbäume"
+  },
+  {
+    "word": "die Stiefmutter",
+    "article": "die",
+    "translation": {
+      "singular": "nevlastní matka",
+      "plural": null
+    },
+    "plural": "die Stiefmuttertiefmütter"
+  },
+  {
+    "word": "die Stiefschwester",
+    "article": "die",
+    "translation": {
+      "singular": "nevlastná sestra",
+      "plural": null
+    },
+    "plural": "die Stiefschwestern"
+  },
+  {
+    "word": "stimmen",
+    "article": null,
+    "translation": "súhlasiť",
+    "plural": "die stimmenr stimmt"
+  },
+  {
+    "word": "die Tante",
+    "article": "die",
+    "translation": {
+      "singular": "teta",
+      "plural": null
+    },
+    "plural": "die Tanten"
+  },
+  {
+    "word": "das Tier",
+    "article": "das",
+    "translation": {
+      "singular": "zviera",
+      "plural": null
+    },
+    "plural": "die Tiere"
+  },
+  {
+    "word": "die Tochter",
+    "article": "die",
+    "translation": {
+      "singular": "dcéra",
+      "plural": null
+    },
+    "plural": "die Tochteröchter"
+  },
+  {
+    "word": "tot",
+    "article": null,
+    "translation": "mŕtvy"
+  },
+  {
+    "word": "typisch",
+    "article": null,
+    "translation": "typický"
+  },
+  {
+    "word": "Unser Haus hat einen großen Garten.",
+    "article": null,
+    "translation": "Náš dom má veľkú záhradu."
+  },
+  {
+    "word": "unser",
+    "article": null,
+    "translation": "náš, naša, naše",
+    "plural": "die unsernsere"
+  },
+  {
+    "word": "der Vater",
+    "article": "der",
+    "translation": {
+      "singular": "otec",
+      "plural": null
+    },
+    "plural": "die Vateräter"
+  },
+  {
+    "word": "der Vergnügungspark",
+    "article": "der",
+    "translation": {
+      "singular": "zábavný park",
+      "plural": null
+    },
+    "plural": "die Vergnügungsparks"
+  },
+  {
+    "word": "verstehen sich",
+    "article": null,
+    "translation": "tu: rozumieť, chápať"
+  },
+  {
+    "word": "der/die Verwandte",
+    "article": null,
+    "translation": "príbuzný/príbuzná",
+    "plural": "die der/die Verwandten"
+  },
+  {
+    "word": "wandern",
+    "article": null,
+    "translation": "putovať, chodiť, túlať sa",
+    "plural": "die wandernr wandert"
+  },
+  {
+    "word": "wieder",
+    "article": null,
+    "translation": "opäť, zase, znova"
+  },
+  {
+    "word": "Wir fahren dieses Wochenende ins Wochenendhaus.",
+    "article": null,
+    "translation": "Tento víkend ideme na chatu."
+  },
+  {
+    "word": "Wir gehen in den Vergnügungspark.",
+    "article": null,
+    "translation": "Ideme do zábavného parku."
+  },
+  {
+    "word": "Wir gehen shoppen.",
+    "article": null,
+    "translation": "Ideme nakupovať."
+  },
+  {
+    "word": "Wir laden Oma und Opa ein.",
+    "article": null,
+    "translation": "Pozveme babičku a dedka."
+  },
+  {
+    "word": "Wir sehen sie manchmal in den Ferien.",
+    "article": null,
+    "translation": "Vidíme ju/ich niekedy cez prázdniny."
+  },
+  {
+    "word": "Wir singen Happy Birthday.",
+    "article": null,
+    "translation": "Zaspievame Happy Birthday."
+  },
+  {
+    "word": "Wir verstehen uns alle sehr gut.",
+    "article": null,
+    "translation": "Všetci si veľmi dobre rozumieme."
+  },
+  {
+    "word": "die Wohngemeinschaft",
+    "article": "die",
+    "translation": {
+      "singular": "spoločné bývanie (študentov)",
+      "plural": null
+    },
+    "plural": "die Wohngemeinschaften"
+  },
+  {
+    "word": "die Woche",
+    "article": "die",
+    "translation": {
+      "singular": "týždeň",
+      "plural": null
+    },
+    "plural": "die Wochen"
+  },
+  {
+    "word": "das Wochenende",
+    "article": "das",
+    "translation": {
+      "singular": "víkend",
+      "plural": null
+    },
+    "plural": "die Wochenenden"
+  },
+  {
+    "word": "das Wochenendhaus",
+    "article": "das",
+    "translation": {
+      "singular": "víkendový domček, chata",
+      "plural": null
+    },
+    "plural": "die Wochenendhausochenendhäuser"
+  },
+  {
+    "word": "der Zoo",
+    "article": "der",
+    "translation": {
+      "singular": "zoo",
+      "plural": null
+    },
+    "plural": "die Zoos"
+  },
+  {
+    "word": "der Zoobesuch",
+    "article": "der",
+    "translation": {
+      "singular": "návštěva zoo",
+      "plural": null
+    },
+    "plural": "die Zoobesuche"
+  },
+  {
+    "word": "zu Hause",
+    "article": null,
+    "translation": "doma"
+  },
+  {
+    "word": "zusammen",
+    "article": null,
+    "translation": "spolu, spoločne"
+  },
+  {
+    "word": "der Zwilling",
+    "article": "der",
+    "translation": {
+      "singular": "dvojča",
+      "plural": null
+    },
+    "plural": "die Zwillinge"
+  }
+]

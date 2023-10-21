@@ -1,0 +1,25 @@
+---
+interface Props {
+  name?: string;
+  href?: string;
+  id?: string;
+}
+
+const { name, href, id } = Astro.props;
+---
+
+{href &&
+<a
+  href={href}
+  id={id}
+  class="broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white shadow-2xl shadow-[#FFA500]/25 transition-colors ease-out hover:bg-[#FFA500]/40 hover:shadow-[#FFA500]/30"
+>
+  {name ?? <slot />}
+</a> ||
+<button
+  id={id}
+  class="broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white shadow-2xl shadow-[#FFA500]/25 transition-colors ease-out hover:shadow-[#FFA500]/30"
+>
+  {name ?? <slot />}
+</button>
+}

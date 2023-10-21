@@ -7,9 +7,9 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "@xhyrom/configs": "^0.1.0",
     "eslint": "^8.48.0",
-    "prettier": "^3.0.3",
-    "tsconfig": "workspace:*",
+    "prettier": "^3.0.3", 
     "turbo": "latest"
   },
   "packageManager": "pnpm@8.6.10",
