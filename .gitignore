@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,node,intellij,webstorm,webstorm+all,webstorm+iml,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,node,intellij,webstorm,webstorm+all,webstorm+iml,dotenv
 
+
+### Turbo ###
+# Turborepo task cache
+.turbo
+
+
 ### dotenv ###
 .env
 
