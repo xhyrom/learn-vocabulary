@@ -5,6 +5,7 @@ import Layout from "../../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
   const dictionary = await getCollection("dictionary");
+  console.log(dictionary);
 
   return dictionary.map((entry) => {
     return {

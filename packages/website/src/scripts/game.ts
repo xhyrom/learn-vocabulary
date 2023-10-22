@@ -8,13 +8,14 @@ import {
 const audio = new Audio("/audio/correct.wav");
 
 let streak = 0;
-window.words = [...dictionary];
 
 let give_word_again = false;
 
 document.addEventListener("astro:page-load", () => {
   const url = new URL(window.location.href);
   if (!url.pathname.includes("lektion")) return;
+
+  window.words = [...dictionary];
   update_estimated_count();
 
   streak = localStorage.getItem("streak")
