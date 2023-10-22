@@ -8,18 +8,21 @@ interface Props {
 const { name, href, id } = Astro.props;
 ---
 
-{href &&
-<a
-  href={href}
-  id={id}
-  class="broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white transition-colors ease-out hover:bg-[#FFA500]/40"
->
-  {name ?? <slot />}
-</a> ||
-<button
-  id={id}
-  class="broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white transition-colors ease-out"
->
-  {name ?? <slot />}
-</button>
+{
+  (href && (
+    <a
+      href={href}
+      id={id}
+      class="broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white transition-colors ease-out hover:bg-[#FFA500]/40"
+    >
+      {name ?? <slot />}
+    </a>
+  )) || (
+    <button
+      id={id}
+      class="broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white transition-colors ease-out"
+    >
+      {name ?? <slot />}
+    </button>
+  )
 }

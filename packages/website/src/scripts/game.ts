@@ -109,7 +109,7 @@ function select_de2sk() {
 
   for (const option of options) {
     const button = document.getElementById(
-      `option-${options.indexOf(option) + 1}`
+      `option-${options.indexOf(option) + 1}`,
     )!;
     button.innerText =
       typeof option.translation === "string"
@@ -159,7 +159,7 @@ function select_sk2de() {
 
   for (const option of options) {
     const button = document.getElementById(
-      `option-${options.indexOf(option) + 1}`
+      `option-${options.indexOf(option) + 1}`,
     )!;
     button.innerText = option.word;
 

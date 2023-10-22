@@ -1,67 +1,59 @@
 ---
-import Button from '../../../components/Button.astro';
-import Layout from '../../../layouts/Layout.astro';
+import Button from "../../../components/Button.astro";
+import Layout from "../../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
-	const dictionary = await Astro.glob("../../../../../../dictionary/*.json");
+  const dictionary = await Astro.glob("../../../../../../dictionary/*.json");
 
   return dictionary.map((entry, i) => {
-		return {
-			params: {
-				id: ++i,
-			},
-			props: {
-				words: entry.default
-			},
-		};
-	});
+    return {
+      params: {
+        id: ++i,
+      },
+      props: {
+        words: entry.default,
+      },
+    };
+  });
 }
 
 interface Word {
-	word: string;
-	article: string | null;
-	translation: string | {
-		singular: string;
-		plural: string;
-	};
-	plural?: string;
+  word: string;
+  article: string | null;
+  translation:
+    | string
+    | {
+        singular: string;
+        plural: string;
+      };
+  plural?: string;
 }
 
 interface Props {
-	words: Word[]
+  words: Word[];
 }
 
 const { words } = Astro.props;
 ---
 
 <Layout title="Sprachspaß">
-	<main class="h-full overflow-hidden pb-4 text-white">
-		<div class="flex h-full flex-col items-center justify-center gap-y-6">
-			<h1 class="text-white text-6xl font-bold mb-5" id="word">
-				Vokabel
-			</h2>
+  <main class="h-full overflow-hidden pb-4 text-white">
+    <div class="flex h-full flex-col items-center justify-center gap-y-6">
+      <h1 class="text-white text-6xl font-bold mb-5" id="word">Vokabel</h1>
 
-			<div class="flex flex-wrap justify-around gap-6">
-				<Button id="option-1">
-					1
-				</Button>
-				<Button id="option-2">
-					2
-				</Button>
-				<Button id="option-3">
-					3
-				</Button>
-				<Button id="option-4">
-					4
-				</Button>
-			</div>
-		</div>
-	</main>
+      <div class="flex flex-wrap justify-around gap-6">
+        <Button id="option-1">1</Button>
+        <Button id="option-2">2</Button>
+        <Button id="option-3">3</Button>
+        <Button id="option-4">4</Button>
+      </div>
+    </div>
+  </main>
 </Layout>
 
 <script define:vars={{ words }}>
-	window.words = words;
+  window.words = words;
 </script>
 <script>
-	import "../../../scripts/game.ts"
+  import "../../../scripts/game.ts";
 </script>

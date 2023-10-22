@@ -1,9 +1,9 @@
 ---
-import { ViewTransitions } from 'astro:transitions';
-import Navbar from '../components/Navbar.astro';
+import { ViewTransitions } from "astro:transitions";
+import Navbar from "../components/Navbar.astro";
 
 interface Props {
-	title: string;
+  title: string;
 }
 
 const { title } = Astro.props;
@@ -11,28 +11,28 @@ const { title } = Astro.props;
 
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="description" content="Astro description" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Astro description" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
     <ViewTransitions />
-	</head>
-	<body class="bg-dark">
-		<div
-			class="flex min-h-screen flex-col md:h-screen md:w-screen md:justify-between"
-		>
-			<div>
-				<div class="h-[9px] cursor-pointer bg-yellow"></div>
-			</div>
+  </head>
+  <body class="bg-dark">
+    <div
+      class="flex min-h-screen flex-col md:h-screen md:w-screen md:justify-between"
+    >
+      <div>
+        <div class="h-[9px] cursor-pointer bg-yellow"></div>
+      </div>
 
-			<div class="flex-grow md:mt-0 mt-12">
-				<slot />
-			</div>
+      <div class="flex-grow md:mt-0 mt-12">
+        <slot />
+      </div>
 
-			<Navbar />
-		</div>
-	</body>
+      <Navbar />
+    </div>
+  </body>
 </html>
