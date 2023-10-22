@@ -1,17 +1,18 @@
 ---
+import { getCollection } from "astro:content";
 import Button from "../../../components/Button.astro";
 import Layout from "../../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
-  const dictionary = await Astro.glob("../../../../../../dictionary/*.json");
+  const dictionary = await getCollection("dictionary");
 
-  return dictionary.map((entry, i) => {
+  return dictionary.map((entry) => {
     return {
       params: {
-        id: ++i,
+        id: entry.id,
       },
       props: {
-        words: entry.default,
+        words: entry.data.words,
       },
     };
   });
@@ -52,7 +53,7 @@ const { words } = Astro.props;
 </Layout>
 
 <script define:vars={{ words }}>
-  window.words = words;
+  window.dictionary = words;
 </script>
 <script>
   import "../../../scripts/game.ts";

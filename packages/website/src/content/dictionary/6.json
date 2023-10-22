@@ -1,0 +1,722 @@
+{
+  "id": 6,
+  "words": [
+    {
+      "word": "ab|holen",
+      "article": null,
+      "translation": "vyzdvihnúť, ísť po (niekoho)"
+    },
+    {
+      "word": "am liebsten",
+      "article": null,
+      "translation": "najradšej"
+    },
+    {
+      "word": "am Nachmittag",
+      "article": null,
+      "translation": "popoludní (kedy?)"
+    },
+    {
+      "word": "am Vormittag",
+      "article": null,
+      "translation": "dopoludnia (kedy?)"
+    },
+    {
+      "word": "an|fangen",
+      "article": null,
+      "translation": "začať, začínať"
+    },
+    {
+      "word": "an|machen",
+      "article": null,
+      "translation": "zapnúť, pustiť"
+    },
+    {
+      "word": "an|rufen",
+      "article": null,
+      "translation": "(za)volať"
+    },
+    {
+      "word": "auf|räumen",
+      "article": null,
+      "translation": "upratať, upratovať"
+    },
+    {
+      "word": "auf|stehen",
+      "article": null,
+      "translation": "vstať, vstávať"
+    },
+    {
+      "word": "auf|wachen",
+      "article": null,
+      "translation": "prebudiť sa, zobudiť sa"
+    },
+    {
+      "word": "aus|leeren",
+      "article": null,
+      "translation": "vysypať, vyprázdniť"
+    },
+    {
+      "word": "aus|räumen",
+      "article": null,
+      "translation": "vyprázdniť, odstrániť"
+    },
+    {
+      "word": "aus|sehen",
+      "article": null,
+      "translation": "vyzerať"
+    },
+    {
+      "word": "aus|schalten",
+      "article": null,
+      "translation": "vypnúť"
+    },
+    {
+      "word": "das Bad",
+      "article": "das",
+      "translation": {
+        "singular": "kúpeľňa",
+        "plural": null
+      },
+      "plural": "die Badäder"
+    },
+    {
+      "word": "das Badezimmer",
+      "article": "das",
+      "translation": {
+        "singular": "kúpeľňa",
+        "plural": null
+      },
+      "plural": "die Badezimmer"
+    },
+    {
+      "word": "die Berufsschule",
+      "article": "die",
+      "translation": "(odborná) učňovská škola"
+    },
+    {
+      "word": "das Bett",
+      "article": "das",
+      "translation": {
+        "singular": "posteľ",
+        "plural": null
+      },
+      "plural": "die Betten"
+    },
+    {
+      "word": "das Bild",
+      "article": "das",
+      "translation": {
+        "singular": "obraz",
+        "plural": null
+      },
+      "plural": "die Bilder"
+    },
+    {
+      "word": "der Blogger",
+      "article": "der",
+      "translation": {
+        "singular": "bloger",
+        "plural": null
+      },
+      "plural": "die Blogger"
+    },
+    {
+      "word": "dabei",
+      "article": null,
+      "translation": "pri tom, pritom"
+    },
+    {
+      "word": "Der Unterricht ist um 13 Uhr zu Ende.",
+      "article": null,
+      "translation": "Vyučovanie končí o 13.00."
+    },
+    {
+      "word": "dienstags",
+      "article": null,
+      "translation": "každý utorok"
+    },
+    {
+      "word": "donnerstags",
+      "article": null,
+      "translation": "každý štvrtok"
+    },
+    {
+      "word": "drehen",
+      "article": null,
+      "translation": "natáčať, točiť"
+    },
+    {
+      "word": "dumm",
+      "article": null,
+      "translation": "hlúpy"
+    },
+    {
+      "word": "durch",
+      "article": null,
+      "translation": "cez, skrz"
+    },
+    {
+      "word": "duschen",
+      "article": null,
+      "translation": "sprchovať (sa)"
+    },
+    {
+      "word": "die Ecke",
+      "article": "die",
+      "translation": "roh"
+    },
+    {
+      "word": "ein|kaufen",
+      "article": null,
+      "translation": "nakupovať, nakúpiť"
+    },
+    {
+      "word": "ein|schalten",
+      "article": null,
+      "translation": "zapnúť"
+    },
+    {
+      "word": "ein|schlafen",
+      "article": null,
+      "translation": "zaspať"
+    },
+    {
+      "word": "das Ende",
+      "article": "das",
+      "translation": {
+        "singular": "koniec",
+        "plural": null
+      },
+      "plural": "die Enden"
+    },
+    {
+      "word": "endlich",
+      "article": null,
+      "translation": "konečne"
+    },
+    {
+      "word": "entdecken",
+      "article": null,
+      "translation": "objaviť, nájsť"
+    },
+    {
+      "word": "(sich) entschuldigen",
+      "article": null,
+      "translation": "ospravedlniť (sa)"
+    },
+    {
+      "word": "Er sieht oft fern.",
+      "article": null,
+      "translation": "Pozerá často televíziu."
+    },
+    {
+      "word": "Er sieht super aus.",
+      "article": null,
+      "translation": "Vyzerá super."
+    },
+    {
+      "word": "erzählen",
+      "article": null,
+      "translation": "rozprávať"
+    },
+    {
+      "word": "Es ist Viertel vor acht.",
+      "article": null,
+      "translation": "Je trištvrte na osem."
+    },
+    {
+      "word": "die Fachschule",
+      "article": "die",
+      "translation": {
+        "singular": "odborná škola",
+        "plural": null
+      },
+      "plural": "die Fachschulen"
+    },
+    {
+      "word": "fern|sehen",
+      "article": null,
+      "translation": "pozerať televíziu"
+    },
+    {
+      "word": "fertig",
+      "article": null,
+      "translation": "hotový"
+    },
+    {
+      "word": "freitags",
+      "article": null,
+      "translation": "každý piatok"
+    },
+    {
+      "word": "die Freizeitaktivität",
+      "article": "die",
+      "translation": {
+        "singular": "voľnočasová aktivita",
+        "plural": null
+      },
+      "plural": "die Freizeitaktivitäten"
+    },
+    {
+      "word": "gegen",
+      "article": null,
+      "translation": "proti, okolo (časový údaj)"
+    },
+    {
+      "word": "halb",
+      "article": null,
+      "translation": "pol"
+    },
+    {
+      "word": "der Horror",
+      "article": "der",
+      "translation": "horor"
+    },
+    {
+      "word": "Hurra!",
+      "article": null,
+      "translation": "Hurá!"
+    },
+    {
+      "word": "Ich bin schon um die Ecke.",
+      "article": null,
+      "translation": "Už som za rohom."
+    },
+    {
+      "word": "Ich hab´ dich lieb.",
+      "article": null,
+      "translation": "Mám ťa rád/rada. Milujem ťa."
+    },
+    {
+      "word": "Ich muss noch Zähne putzen.",
+      "article": null,
+      "translation": "Musím si ešte vyčistiť zuby."
+    },
+    {
+      "word": "ins Bett gehen",
+      "article": null,
+      "translation": "ísť do postele"
+    },
+    {
+      "word": "jobben",
+      "article": null,
+      "translation": "brigádovať"
+    },
+    {
+      "word": "die Kamera",
+      "article": "die",
+      "translation": {
+        "singular": "kamera, fotoaparát",
+        "plural": null
+      },
+      "plural": "die Kameras"
+    },
+    {
+      "word": "der Kanal",
+      "article": "der",
+      "translation": {
+        "singular": "program, kanál",
+        "plural": null
+      },
+      "plural": "die Kanalanäle"
+    },
+    {
+      "word": "Kein Stress!",
+      "article": null,
+      "translation": "Žiaden stres!"
+    },
+    {
+      "word": "der Kindergarten",
+      "article": "der",
+      "translation": {
+        "singular": "materská škola",
+        "plural": null
+      },
+      "plural": "die Kindergartenindergärten"
+    },
+    {
+      "word": "klingeln",
+      "article": null,
+      "translation": "zvoniť"
+    },
+    {
+      "word": "kommentieren",
+      "article": null,
+      "translation": "komentovať"
+    },
+    {
+      "word": "das Krankenhaus",
+      "article": "das",
+      "translation": {
+        "singular": "nemocnica",
+        "plural": null
+      },
+      "plural": "die Krankenhausrankenhäuser"
+    },
+    {
+      "word": "lieb",
+      "article": null,
+      "translation": "milý, drahý"
+    },
+    {
+      "word": "Lieblings- (kanal ...)",
+      "article": null,
+      "translation": "obľúbený (kanál)"
+    },
+    {
+      "word": "das Lieblingsfach",
+      "article": "das",
+      "translation": {
+        "singular": "obľúbený predmet",
+        "plural": null
+      },
+      "plural": "die Lieblingsfachieblingsfächer"
+    },
+    {
+      "word": "liken",
+      "article": null,
+      "translation": "lajkovať"
+    },
+    {
+      "word": "das Mädchen",
+      "article": "das",
+      "translation": {
+        "singular": "dievča",
+        "plural": null
+      },
+      "plural": "die Mädchen"
+    },
+    {
+      "word": "mit|nehmen",
+      "article": null,
+      "translation": "vziať so sebou"
+    },
+    {
+      "word": "die Mitternacht",
+      "article": "die",
+      "translation": {
+        "singular": "polnoc",
+        "plural": null
+      },
+      "plural": "die Mitternachtitternächte"
+    },
+    {
+      "word": "mittwochs",
+      "article": null,
+      "translation": "každú stredu"
+    },
+    {
+      "word": "montags",
+      "article": null,
+      "translation": "každý pondelok"
+    },
+    {
+      "word": "die Morgenroutine",
+      "article": "die",
+      "translation": {
+        "singular": "ranná rutina",
+        "plural": null
+      },
+      "plural": "die Morgenroutinen"
+    },
+    {
+      "word": "morgens",
+      "article": null,
+      "translation": "každé ráno"
+    },
+    {
+      "word": "müde",
+      "article": null,
+      "translation": "unavený"
+    },
+    {
+      "word": "der Mülleimer",
+      "article": "der",
+      "translation": {
+        "singular": "odpadkový kôš",
+        "plural": null
+      },
+      "plural": "die Mülleimer"
+    },
+    {
+      "word": "der Nachmittag",
+      "article": "der",
+      "translation": {
+        "singular": "odpoludnie, popoludnie",
+        "plural": null
+      },
+      "plural": "die Nachmittage"
+    },
+    {
+      "word": "nachmittags",
+      "article": null,
+      "translation": "každé popoludnie"
+    },
+    {
+      "word": "ohne",
+      "article": null,
+      "translation": "bez"
+    },
+    {
+      "word": "der Park",
+      "article": "der",
+      "translation": {
+        "singular": "park",
+        "plural": null
+      },
+      "plural": "die Parks"
+    },
+    {
+      "word": "die Pflicht",
+      "article": "die",
+      "translation": {
+        "singular": "povinnosť",
+        "plural": null
+      },
+      "plural": "die Pflichten"
+    },
+    {
+      "word": "posten",
+      "article": null,
+      "translation": "postovať (príspevky)"
+    },
+    {
+      "word": "putzen",
+      "article": null,
+      "translation": "(vy)čistiť"
+    },
+    {
+      "word": "samstags",
+      "article": null,
+      "translation": "každú sobotu"
+    },
+    {
+      "word": "saugen",
+      "article": null,
+      "translation": "vysávať"
+    },
+    {
+      "word": "der Schatz",
+      "article": "der",
+      "translation": {
+        "singular": "poklad, miláčik",
+        "plural": null
+      },
+      "plural": "die Schatzchätze"
+    },
+    {
+      "word": "schlafen",
+      "article": null,
+      "translation": "zaspať"
+    },
+    {
+      "word": "(sich) schminken",
+      "article": null,
+      "translation": "líčiť sa"
+    },
+    {
+      "word": "Sie bereiten das Abendessen zu.",
+      "article": null,
+      "translation": "Pripravujú (varia) večeru."
+    },
+    {
+      "word": "Sie geht schlafen.",
+      "article": null,
+      "translation": "(Ona) Ide spať."
+    },
+    {
+      "word": "Sie kauft alles ein.",
+      "article": null,
+      "translation": "(Ona) Nakúpi všetko."
+    },
+    {
+      "word": "Sie leert den Mülleimer aus.",
+      "article": null,
+      "translation": "(Ona) Vysype kôš. (Ona) Vynesie kôš."
+    },
+    {
+      "word": "Sie macht die Kamera an.",
+      "article": null,
+      "translation": "(Ona) Zapne/pustí kameru."
+    },
+    {
+      "word": "Sie putzt das Bad.",
+      "article": null,
+      "translation": "(Ona) Čistí/umýva kúpeľňu."
+    },
+    {
+      "word": "Sie putzt sich die Zähne.",
+      "article": null,
+      "translation": "Čistí si zuby."
+    },
+    {
+      "word": "Sie räumt die Spülmaschine aus.",
+      "article": null,
+      "translation": "Vyprázdni umývačku. Odloží z umývačky riad."
+    },
+    {
+      "word": "Sie saugt Staub.",
+      "article": null,
+      "translation": "(Ona) Vysáva prach."
+    },
+    {
+      "word": "sich an|ziehen",
+      "article": null,
+      "translation": "obliecť sa"
+    },
+    {
+      "word": "sich treffen",
+      "article": null,
+      "translation": "stretnúť sa"
+    },
+    {
+      "word": "sonntags",
+      "article": null,
+      "translation": "každú nedeľu"
+    },
+    {
+      "word": "die Spülmaschine",
+      "article": "die",
+      "translation": {
+        "singular": "umývačka riadu",
+        "plural": null
+      },
+      "plural": "die Spülmaschinen"
+    },
+    {
+      "word": "der Staub",
+      "article": "der",
+      "translation": "prach"
+    },
+    {
+      "word": "das Training",
+      "article": "das",
+      "translation": {
+        "singular": "tréning",
+        "plural": null
+      },
+      "plural": "die Trainings"
+    },
+    {
+      "word": "der Trend",
+      "article": "der",
+      "translation": {
+        "singular": "trend",
+        "plural": null
+      },
+      "plural": "die Trends"
+    },
+    {
+      "word": "die Uhrzeit",
+      "article": "die",
+      "translation": {
+        "singular": "(presný) čas",
+        "plural": null
+      },
+      "plural": "die Uhrzeiten"
+    },
+    {
+      "word": "um Mitternacht",
+      "article": null,
+      "translation": "o polnoci"
+    },
+    {
+      "word": "der Unterricht",
+      "article": "der",
+      "translation": "vyučovanie"
+    },
+    {
+      "word": "verbringen",
+      "article": null,
+      "translation": "stráviť"
+    },
+    {
+      "word": "vergessen",
+      "article": null,
+      "translation": "zabudnúť"
+    },
+    {
+      "word": "der/das Viertel",
+      "article": null,
+      "translation": "štvrť"
+    },
+    {
+      "word": "vloggen",
+      "article": null,
+      "translation": "natáčať vlog (videoblog)"
+    },
+    {
+      "word": "(sich) vor|bereiten",
+      "article": null,
+      "translation": "pripravovať (sa)"
+    },
+    {
+      "word": "der Vormittag",
+      "article": "der",
+      "translation": {
+        "singular": "dopoludnie, predpoludnie",
+        "plural": null
+      },
+      "plural": "die Vormittage"
+    },
+    {
+      "word": "vormittags",
+      "article": null,
+      "translation": "každé dopoludnie"
+    },
+    {
+      "word": "der Wecker",
+      "article": "der",
+      "translation": {
+        "singular": "budík",
+        "plural": null
+      },
+      "plural": "die Wecker"
+    },
+    {
+      "word": "weiter",
+      "article": null,
+      "translation": "ďalej"
+    },
+    {
+      "word": "die Weltmeisterschaft",
+      "article": "die",
+      "translation": {
+        "singular": "majstrovstvá sveta",
+        "plural": null
+      },
+      "plural": "die Weltmeisterschaften"
+    },
+    {
+      "word": "wen",
+      "article": null,
+      "translation": "koho"
+    },
+    {
+      "word": "Wir treffen uns heute.",
+      "article": null,
+      "translation": "Stretneme sa dnes."
+    },
+    {
+      "word": "wissen",
+      "article": null,
+      "translation": "vedieť (mať vedomosť)"
+    },
+    {
+      "word": "zeigen",
+      "article": null,
+      "translation": "ukázať"
+    },
+    {
+      "word": "zu|bereiten",
+      "article": null,
+      "translation": "pripravovať (jedlo)"
+    },
+    {
+      "word": "zurück|kommen",
+      "article": null,
+      "translation": "vrátiť sa"
+    }
+  ]
+}

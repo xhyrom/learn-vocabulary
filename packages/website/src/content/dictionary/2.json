@@ -1,0 +1,941 @@
+{
+  "id": 2,
+  "words": [
+    {
+      "word": "das Abitur",
+      "article": "das",
+      "translation": {
+        "singular": "maturita",
+        "plural": "maturity"
+      },
+      "plural": "die Abiture"
+    },
+    {
+      "word": "das Afrika",
+      "article": "das",
+      "translation": "Afrika"
+    },
+    {
+      "word": "achtzig",
+      "article": null,
+      "translation": "80"
+    },
+    {
+      "word": "das Amerika",
+      "article": "das",
+      "translation": "Amerika"
+    },
+    {
+      "word": "die Arbeit",
+      "article": "die",
+      "translation": {
+        "singular": "práca",
+        "plural": "práce"
+      },
+      "plural": "die Arbeiten"
+    },
+    {
+      "word": "arbeiten",
+      "article": null,
+      "translation": "pracovať"
+    },
+    {
+      "word": "das Asien",
+      "article": "das",
+      "translation": "Asie"
+    },
+    {
+      "word": "die Assistentin",
+      "article": "die",
+      "translation": {
+        "singular": "asistentka",
+        "plural": "asistentky"
+      },
+      "plural": "die Assistẹntinnen"
+    },
+    {
+      "word": "der Austausch",
+      "article": "der",
+      "translation": {
+        "singular": "výmena",
+        "plural": "výmeny"
+      },
+      "plural": "die Austausche"
+    },
+    {
+      "word": "das Australien",
+      "article": "das",
+      "translation": "Austrália"
+    },
+    {
+      "word": "das Auto",
+      "article": "das",
+      "translation": {
+        "singular": "auto",
+        "plural": "autá"
+      },
+      "plural": "die Autos"
+    },
+    {
+      "word": "beginnen",
+      "article": null,
+      "translation": "začať, začínať"
+    },
+    {
+      "word": "der Beruf",
+      "article": "der",
+      "translation": {
+        "singular": "povolanie",
+        "plural": "povolania"
+      },
+      "plural": "die Berufe"
+    },
+    {
+      "word": "besuchen",
+      "article": null,
+      "translation": "navštevovať, navštíviť"
+    },
+    {
+      "word": "brauchen",
+      "article": null,
+      "translation": "potrebovať"
+    },
+    {
+      "word": "die Britin",
+      "article": "die",
+      "translation": {
+        "singular": "Britka",
+        "plural": "Britky"
+      },
+      "plural": "die Britinnen"
+    },
+    {
+      "word": "britisch",
+      "article": null,
+      "translation": "britský"
+    },
+    {
+      "word": "danke",
+      "article": null,
+      "translation": "ďakujem"
+    },
+    {
+      "word": "deutsch",
+      "article": null,
+      "translation": "nemecký"
+    },
+    {
+      "word": "das Deutsch",
+      "article": "das",
+      "translation": "nemčina"
+    },
+    {
+      "word": "Deutscher",
+      "article": null,
+      "translation": "Nemec"
+    },
+    {
+      "word": "Deutsche",
+      "article": null,
+      "translation": "Nemka"
+    },
+    {
+      "word": "Deutschland",
+      "article": null,
+      "translation": "Nemecko"
+    },
+    {
+      "word": "dort",
+      "article": null,
+      "translation": "tam"
+    },
+    {
+      "word": "dreifach",
+      "article": null,
+      "translation": "trojnásobný"
+    },
+    {
+      "word": "dreißig",
+      "article": null,
+      "translation": "30"
+    },
+    {
+      "word": "ein bisschen",
+      "article": null,
+      "translation": "trocha, trochu"
+    },
+    {
+      "word": "(ein)hundert",
+      "article": null,
+      "translation": "100"
+    },
+    {
+      "word": "(ein)tausend",
+      "article": null,
+      "translation": "1000"
+    },
+    {
+      "word": "die Eisschnellläuferin",
+      "article": "die",
+      "translation": {
+        "singular": "rýchlokorčuliarka",
+        "plural": "rýchlokorčuliarky"
+      },
+      "plural": "die Eisschnellläuferinnen"
+    },
+    {
+      "word": "England",
+      "article": null,
+      "translation": "Anglicko"
+    },
+    {
+      "word": "Engländer",
+      "article": null,
+      "translation": "Angličan"
+    },
+    {
+      "word": "Engländerin",
+      "article": null,
+      "translation": "Angličanka"
+    },
+    {
+      "word": "Europa",
+      "article": null,
+      "translation": "Európa"
+    },
+    {
+      "word": "fahren",
+      "article": null,
+      "translation": "cestovať, jazdiť"
+    },
+    {
+      "word": "finden",
+      "article": null,
+      "translation": "nájsť; považovať, myslieť si (čo o čom)"
+    },
+    {
+      "word": "die Flagge",
+      "article": "die",
+      "translation": {
+        "singular": "vlajka",
+        "plural": null
+      },
+      "plural": "die Flaggen"
+    },
+    {
+      "word": "Frankreich",
+      "article": null,
+      "translation": "Francúzsko"
+    },
+    {
+      "word": "Franzose",
+      "article": null,
+      "translation": "Francúz"
+    },
+    {
+      "word": "Französin",
+      "article": null,
+      "translation": "Francúzka"
+    },
+    {
+      "word": "fünfzig",
+      "article": null,
+      "translation": "50"
+    },
+    {
+      "word": "für",
+      "article": null,
+      "translation": "pre, za"
+    },
+    {
+      "word": "der Fußballspieler",
+      "article": "der",
+      "translation": {
+        "singular": "futbalista",
+        "plural": "futbalisti"
+      },
+      "plural": "die Fußballspieler"
+    },
+    {
+      "word": "ganz",
+      "article": null,
+      "translation": "celý"
+    },
+    {
+      "word": "gehen",
+      "article": null,
+      "translation": "ísť"
+    },
+    {
+      "word": "Wie geht es Ihnen?",
+      "article": null,
+      "translation": "Ako sa máte? (Vy)"
+    },
+    {
+      "word": "Wie geht es dir?",
+      "article": null,
+      "translation": "Ako sa máš?"
+    },
+    {
+      "word": "genau",
+      "article": null,
+      "translation": "presne, presný"
+    },
+    {
+      "word": "gewinnen",
+      "article": null,
+      "translation": "vyhrať, zvíťaziť"
+    },
+    {
+      "word": "die Goldmedaille",
+      "article": "die",
+      "translation": {
+        "singular": "zlatá medaila",
+        "plural": "zlaté medaily"
+      },
+      "plural": "die Gọldmedaillen"
+    },
+    {
+      "word": "Griechenland",
+      "article": null,
+      "translation": "Grécko"
+    },
+    {
+      "word": "das Griechisch",
+      "article": "das",
+      "translation": "gréčtina"
+    },
+    {
+      "word": "Großbritannien",
+      "article": null,
+      "translation": "Veľká Británia"
+    },
+    {
+      "word": "das Gymnasium",
+      "article": "das",
+      "translation": {
+        "singular": "gymnázium",
+        "plural": "gymnázia"
+      },
+      "plural": "die Gymnasiumymnasien"
+    },
+    {
+      "word": "die Herkunft",
+      "article": "die",
+      "translation": "pôvod"
+    },
+    {
+      "word": "heute",
+      "article": null,
+      "translation": "dnes"
+    },
+    {
+      "word": "interessant",
+      "article": null,
+      "translation": "zaujímavý"
+    },
+    {
+      "word": "Italien",
+      "article": null,
+      "translation": "Taliansko"
+    },
+    {
+      "word": "Italiener",
+      "article": null,
+      "translation": "Talian"
+    },
+    {
+      "word": "Italienerin",
+      "article": null,
+      "translation": "Talianka"
+    },
+    {
+      "word": "das Italienisch",
+      "article": "das",
+      "translation": "taliančina"
+    },
+    {
+      "word": "das Jahrhunderttalent",
+      "article": "das",
+      "translation": {
+        "singular": "talent storočia",
+        "plural": "talenty storočia"
+      },
+      "plural": "die Jahrhunderttalente"
+    },
+    {
+      "word": "das Kind",
+      "article": "das",
+      "translation": {
+        "singular": "dieťa",
+        "plural": "deti"
+      },
+      "plural": "die Kịder"
+    },
+    {
+      "word": "Kroatien",
+      "article": null,
+      "translation": "Chorvátsko"
+    },
+    {
+      "word": "das Kroatisch",
+      "article": "das",
+      "translation": "chorvátčina"
+    },
+    {
+      "word": "der Kurs",
+      "article": "der",
+      "translation": {
+        "singular": "kurz",
+        "plural": "kurzy"
+      },
+      "plural": "die Kurse"
+    },
+    {
+      "word": "das Land",
+      "article": "das",
+      "translation": {
+        "singular": "krajina, štát; vidiek",
+        "plural": "krajiny, štáty; vidieky"
+      },
+      "plural": "die Landänder"
+    },
+    {
+      "word": "leben",
+      "article": null,
+      "translation": "žiť"
+    },
+    {
+      "word": "der Lehrer",
+      "article": "der",
+      "translation": {
+        "singular": "učiteľ",
+        "plural": "učitelia"
+      },
+      "plural": "die Lehrer"
+    },
+    {
+      "word": "die Lehrerin",
+      "article": "die",
+      "translation": {
+        "singular": "učiteľka",
+        "plural": "učiteľky"
+      },
+      "plural": "die Lehrerinnen"
+    },
+    {
+      "word": "leider",
+      "article": null,
+      "translation": "žiaľ"
+    },
+    {
+      "word": "lesen",
+      "article": null,
+      "translation": "čítať"
+    },
+    {
+      "word": "der Manager",
+      "article": "der",
+      "translation": {
+        "singular": "manažér",
+        "plural": "manažéri"
+      },
+      "plural": "die Manager"
+    },
+    {
+      "word": "mein",
+      "article": null,
+      "translation": "môj"
+    },
+    {
+      "word": "meine",
+      "article": null,
+      "translation": "moja"
+    },
+    {
+      "word": "mein",
+      "article": null,
+      "translation": "moje"
+    },
+    {
+      "word": "der Mensch",
+      "article": "der",
+      "translation": {
+        "singular": "člověk",
+        "plural": "ľudia"
+      },
+      "plural": "die Menschen"
+    },
+    {
+      "word": "das Model",
+      "article": "das",
+      "translation": {
+        "singular": "model, modelka",
+        "plural": "modelky"
+      },
+      "plural": "die Models"
+    },
+    {
+      "word": "morgen",
+      "article": null,
+      "translation": "zajtra"
+    },
+    {
+      "word": "die Mutter",
+      "article": "die",
+      "translation": {
+        "singular": "matka",
+        "plural": "matky"
+      },
+      "plural": "die Mutterütter"
+    },
+    {
+      "word": "die Muttersprache",
+      "article": "die",
+      "translation": {
+        "singular": "rodný jazyk, materinská reč",
+        "plural": "rodné jazyky, materinské reči"
+      },
+      "plural": "die Muttersprachen"
+    },
+    {
+      "word": "die Nationalität",
+      "article": "die",
+      "translation": {
+        "singular": "národnosť",
+        "plural": "národnosti"
+      },
+      "plural": "die Nationalitäten"
+    },
+    {
+      "word": "neunzig",
+      "article": null,
+      "translation": "90"
+    },
+    {
+      "word": "noch",
+      "article": null,
+      "translation": "ešte"
+    },
+    {
+      "word": "die Nummer",
+      "article": "die",
+      "translation": {
+        "singular": "číslo",
+        "plural": "čísla"
+      },
+      "plural": "die Nummern"
+    },
+    {
+      "word": "nur",
+      "article": null,
+      "translation": "iba, len"
+    },
+    {
+      "word": "oft",
+      "article": null,
+      "translation": "často"
+    },
+    {
+      "word": "Österreich",
+      "article": null,
+      "translation": "Rakúsko"
+    },
+    {
+      "word": "Österreicher",
+      "article": null,
+      "translation": "Rakúšan"
+    },
+    {
+      "word": "Österreicherin",
+      "article": null,
+      "translation": "Rakúšanka"
+    },
+    {
+      "word": "Polen",
+      "article": null,
+      "translation": "Poľsko"
+    },
+    {
+      "word": "das Polnisch",
+      "article": "das",
+      "translation": "poľština"
+    },
+    {
+      "word": "Portugal",
+      "article": null,
+      "translation": "Portugalsko"
+    },
+    {
+      "word": "das Portugiesisch",
+      "article": "das",
+      "translation": "portugalčina"
+    },
+    {
+      "word": "die Radrennfahrerin",
+      "article": "die",
+      "translation": {
+        "singular": "cyklistka",
+        "plural": "cyklistky"
+      },
+      "plural": "die Radrennfahrerinnen"
+    },
+    {
+      "word": "der Rekord",
+      "article": "der",
+      "translation": {
+        "singular": "rekord",
+        "plural": "rekordy"
+      },
+      "plural": "die Rekorde"
+    },
+    {
+      "word": "Russe",
+      "article": null,
+      "translation": "Rus"
+    },
+    {
+      "word": "Russin",
+      "article": null,
+      "translation": "Ruska"
+    },
+    {
+      "word": "das Russisch",
+      "article": "das",
+      "translation": "ruština"
+    },
+    {
+      "word": "Russland",
+      "article": null,
+      "translation": "Rusko"
+    },
+    {
+      "word": "sehr",
+      "article": null,
+      "translation": "veľmi"
+    },
+    {
+      "word": "nicht sehr gut",
+      "article": null,
+      "translation": "nie veľmi dobre"
+    },
+    {
+      "word": "sehr gut",
+      "article": null,
+      "translation": "veľmi dobre"
+    },
+    {
+      "word": "sechzig",
+      "article": null,
+      "translation": "60"
+    },
+    {
+      "word": "das Semester",
+      "article": "das",
+      "translation": {
+        "singular": "semestr",
+        "plural": "semestre"
+      },
+      "plural": "die Semẹster"
+    },
+    {
+      "word": "die Schauspielerin",
+      "article": "die",
+      "translation": {
+        "singular": "herečka",
+        "plural": "herečky"
+      },
+      "plural": "die Schauspielerinnen"
+    },
+    {
+      "word": "schon",
+      "article": null,
+      "translation": "již, už"
+    },
+    {
+      "word": "der Schüler",
+      "article": "der",
+      "translation": {
+        "singular": "žiak",
+        "plural": "žiaci"
+      },
+      "plural": "die Schüler"
+    },
+    {
+      "word": "die Skifahrerin",
+      "article": "die",
+      "translation": {
+        "singular": "lyžiarka",
+        "plural": "lyžiarky"
+      },
+      "plural": "die Skifahrerinn"
+    },
+    {
+      "word": "Schweden",
+      "article": null,
+      "translation": "Švédsko"
+    },
+    {
+      "word": "das Schwedisch",
+      "article": "das",
+      "translation": "švédčina"
+    },
+    {
+      "word": "die Schweiz",
+      "article": "die",
+      "translation": "Švajčiarsko"
+    },
+    {
+      "word": "Schweizer",
+      "article": null,
+      "translation": "Švajčiar"
+    },
+    {
+      "word": "Schweizerin",
+      "article": null,
+      "translation": "Švajčiarka"
+    },
+    {
+      "word": "siebzig",
+      "article": null,
+      "translation": "70"
+    },
+    {
+      "word": "Slowake",
+      "article": null,
+      "translation": "Slovák"
+    },
+    {
+      "word": "Slovakin",
+      "article": null,
+      "translation": "Slovenka"
+    },
+    {
+      "word": "die Slowakei",
+      "article": "die",
+      "translation": "Slovensko"
+    },
+    {
+      "word": "das Slowakisch",
+      "article": "das",
+      "translation": "slovenčina"
+    },
+    {
+      "word": "Spanien",
+      "article": null,
+      "translation": "Španielsko"
+    },
+    {
+      "word": "Spanier",
+      "article": null,
+      "translation": "Španiel"
+    },
+    {
+      "word": "Spanierin",
+      "article": null,
+      "translation": "Španielka"
+    },
+    {
+      "word": "das Spanisch",
+      "article": "das",
+      "translation": "španielčina"
+    },
+    {
+      "word": "die Sportinitiative",
+      "article": "die",
+      "translation": {
+        "singular": "športová iniciatíva",
+        "plural": "športové iniciatívy"
+      },
+      "plural": "die Sportinitiativen"
+    },
+    {
+      "word": "die Sportlerin",
+      "article": "die",
+      "translation": {
+        "singular": "športovkyňa",
+        "plural": "športovkyne"
+      },
+      "plural": "die Spọrtlerinnen"
+    },
+    {
+      "word": "sportlich",
+      "article": null,
+      "translation": "športový"
+    },
+    {
+      "word": "die Sprache",
+      "article": "die",
+      "translation": {
+        "singular": "jazyk, reč",
+        "plural": "jazyky, reči"
+      },
+      "plural": "die Sprachen"
+    },
+    {
+      "word": "sprechen",
+      "article": null,
+      "translation": "hovoriť"
+    },
+    {
+      "word": "der Student",
+      "article": "der",
+      "translation": {
+        "singular": "študent",
+        "plural": null
+      },
+      "plural": "die Studẹnten"
+    },
+    {
+      "word": "die Studentin",
+      "article": "die",
+      "translation": {
+        "singular": "študentka",
+        "plural": "štúdentky"
+      },
+      "plural": "die Studentinnen"
+    },
+    {
+      "word": "studieren",
+      "article": null,
+      "translation": "študovať"
+    },
+    {
+      "word": "das Südamerika",
+      "article": "das",
+      "translation": "Južná Amerika"
+    },
+    {
+      "word": "super",
+      "article": null,
+      "translation": "super, skvelý"
+    },
+    {
+      "word": "der Trainer",
+      "article": "der",
+      "translation": {
+        "singular": "trenér",
+        "plural": "tréneri"
+      },
+      "plural": "die Trainer"
+    },
+    {
+      "word": "Tschechin",
+      "article": null,
+      "translation": "Češka"
+    },
+    {
+      "word": "Tscheche",
+      "article": null,
+      "translation": "Čech"
+    },
+    {
+      "word": "Tschechien",
+      "article": null,
+      "translation": "Česko"
+    },
+    {
+      "word": "das Tschechisch",
+      "article": "das",
+      "translation": "čeština, česky"
+    },
+    {
+      "word": "die Türkei",
+      "article": "die",
+      "translation": "Turecko"
+    },
+    {
+      "word": "das Türkisch",
+      "article": "das",
+      "translation": "turečtina"
+    },
+    {
+      "word": "das Ungarisch",
+      "article": "das",
+      "translation": "maďarčina"
+    },
+    {
+      "word": "Ungarn",
+      "article": null,
+      "translation": "Maďarsko"
+    },
+    {
+      "word": "die USA",
+      "article": "die",
+      "translation": "USA"
+    },
+    {
+      "word": "die Verkäuferin",
+      "article": "die",
+      "translation": {
+        "singular": "predavačka",
+        "plural": "predavačky"
+      },
+      "plural": "die Verkäuferinnen"
+    },
+    {
+      "word": "viel",
+      "article": null,
+      "translation": "veľa"
+    },
+    {
+      "word": "wie viel",
+      "article": null,
+      "translation": "koľko"
+    },
+    {
+      "word": "vierzig",
+      "article": null,
+      "translation": "40"
+    },
+    {
+      "word": "welcher",
+      "article": null,
+      "translation": "ktorý"
+    },
+    {
+      "word": "welche",
+      "article": null,
+      "translation": "ktorá"
+    },
+    {
+      "word": "welches",
+      "article": null,
+      "translation": "ktoré"
+    },
+    {
+      "word": "Welche Sprachen sprechen sie?",
+      "article": null,
+      "translation": "Akými jazykmi hovoria? (oni)"
+    },
+    {
+      "word": "die Welt",
+      "article": "die",
+      "translation": "svet"
+    },
+    {
+      "word": "aus der ganzen Welt",
+      "article": null,
+      "translation": "z celého sveta"
+    },
+    {
+      "word": "wenig",
+      "article": null,
+      "translation": "málo"
+    },
+    {
+      "word": "ein wenig",
+      "article": null,
+      "translation": "trochu"
+    },
+    {
+      "word": "das Wort",
+      "article": "das",
+      "translation": {
+        "singular": "slovo",
+        "plural": "slová"
+      },
+      "plural": "Wörter"
+    }
+  ]
+}

@@ -1,0 +1,1428 @@
+{
+  "id": 5,
+  "words": [
+    {
+      "word": "das Abendessen",
+      "article": "das",
+      "translation": {
+        "singular": "večera",
+        "plural": null
+      },
+      "plural": "die Abendessen"
+    },
+    {
+      "word": "die Adresse",
+      "article": "die",
+      "translation": {
+        "singular": "adresa",
+        "plural": null
+      },
+      "plural": "die Adressen"
+    },
+    {
+      "word": "alkoholfrei",
+      "article": null,
+      "translation": "nealkoholický"
+    },
+    {
+      "word": "am besten",
+      "article": null,
+      "translation": "najlepšie"
+    },
+    {
+      "word": "das Ambiente",
+      "article": "das",
+      "translation": "prostredie, atmosféra"
+    },
+    {
+      "word": "der Apfel",
+      "article": "der",
+      "translation": {
+        "singular": "jablko",
+        "plural": null
+      },
+      "plural": "die Apfelpfel"
+    },
+    {
+      "word": "die Apfelschorle",
+      "article": "die",
+      "translation": {
+        "singular": "jablčný strek",
+        "plural": null
+      },
+      "plural": "die Apfelschorlen"
+    },
+    {
+      "word": "der Apfelstrudel",
+      "article": "der",
+      "translation": {
+        "singular": "jablkový závin",
+        "plural": null
+      },
+      "plural": "die Apfelstrudel"
+    },
+    {
+      "word": "ausgezeichnet",
+      "article": null,
+      "translation": "výborný, skvelý"
+    },
+    {
+      "word": "die Banane",
+      "article": "die",
+      "translation": {
+        "singular": "banán",
+        "plural": null
+      },
+      "plural": "die Bananen"
+    },
+    {
+      "word": "der Bauernsalat",
+      "article": "der",
+      "translation": {
+        "singular": "(zeleninový) šalát",
+        "plural": null
+      },
+      "plural": "die Bauernsalate"
+    },
+    {
+      "word": "beidseitig",
+      "article": null,
+      "translation": "obojstranný, z oboch strán"
+    },
+    {
+      "word": "der Bescheid",
+      "article": "der",
+      "translation": {
+        "singular": "informácia, správa",
+        "plural": null
+      },
+      "plural": "die Bescheide"
+    },
+    {
+      "word": "Gib mir bitte Bescheid.",
+      "article": null,
+      "translation": "Daj mi, prosím, vedieť."
+    },
+    {
+      "word": "das Besteck",
+      "article": "das",
+      "translation": {
+        "singular": "príbor",
+        "plural": null
+      },
+      "plural": "die Bestecke"
+    },
+    {
+      "word": "bezahlen",
+      "article": null,
+      "translation": "(za)platiť",
+      "plural": "die bezahlenr bezahlt"
+    },
+    {
+      "word": "das Bier",
+      "article": "das",
+      "translation": "pivo"
+    },
+    {
+      "word": "das/der Biskuit",
+      "article": null,
+      "translation": "biskvit, sušienka",
+      "plural": "die das/der Biskuits/-e"
+    },
+    {
+      "word": "bitter",
+      "article": null,
+      "translation": "horký"
+    },
+    {
+      "word": "der Blattspinat",
+      "article": "der",
+      "translation": "listový špenát"
+    },
+    {
+      "word": "die Blaubeere",
+      "article": "die",
+      "translation": {
+        "singular": "čučoriedka",
+        "plural": null
+      },
+      "plural": "die Blaubeeren"
+    },
+    {
+      "word": "Brat- (wurst",
+      "article": null,
+      "translation": "pečený (klobása, zemiaky)",
+      "plural": "die Brat- (wurstartoffeln)"
+    },
+    {
+      "word": "der Braten",
+      "article": "der",
+      "translation": {
+        "singular": "pečené, pečené mäso",
+        "plural": null
+      },
+      "plural": "die Braten"
+    },
+    {
+      "word": "braten",
+      "article": null,
+      "translation": "piecť",
+      "plural": "die bratenr brät"
+    },
+    {
+      "word": "das Brot",
+      "article": "das",
+      "translation": {
+        "singular": "chlieb",
+        "plural": null
+      },
+      "plural": "die Brote"
+    },
+    {
+      "word": "das Brötchen",
+      "article": "das",
+      "translation": {
+        "singular": "žemľa",
+        "plural": null
+      },
+      "plural": "die Brötchen"
+    },
+    {
+      "word": "die Butter",
+      "article": "die",
+      "translation": "maslo"
+    },
+    {
+      "word": "der Caesar-Salat",
+      "article": "der",
+      "translation": {
+        "singular": "Caesar šalát",
+        "plural": null
+      },
+      "plural": "die Caesar-Salate"
+    },
+    {
+      "word": "die Cola",
+      "article": "die",
+      "translation": "kola"
+    },
+    {
+      "word": "das Currypulver",
+      "article": "das",
+      "translation": {
+        "singular": "karí prášok",
+        "plural": null
+      },
+      "plural": "die Currypulver"
+    },
+    {
+      "word": "die Currywurst",
+      "article": "die",
+      "translation": {
+        "singular": "Currywurst (klobása poliata kečupom a posypaná karí korením)",
+        "plural": null
+      },
+      "plural": "die Currywursturrywürste"
+    },
+    {
+      "word": "dazu",
+      "article": null,
+      "translation": "k tomu"
+    },
+    {
+      "word": "der Döner",
+      "article": "der",
+      "translation": {
+        "singular": "döner (kebab)",
+        "plural": null
+      },
+      "plural": "die Döner"
+    },
+    {
+      "word": "der Durst",
+      "article": "der",
+      "translation": "smäd"
+    },
+    {
+      "word": "das Ei",
+      "article": "das",
+      "translation": {
+        "singular": "vajce",
+        "plural": null
+      },
+      "plural": "die Eier"
+    },
+    {
+      "word": "das Eis",
+      "article": "das",
+      "translation": "zmrzlina"
+    },
+    {
+      "word": "ekelhaft",
+      "article": null,
+      "translation": "hnusný, odporný"
+    },
+    {
+      "word": "erhitzen",
+      "article": null,
+      "translation": "rozpáliť, rozohriať",
+      "plural": "die erhitzenr erhitzt"
+    },
+    {
+      "word": "essen",
+      "article": null,
+      "translation": "jesť",
+      "plural": "die essenr isst"
+    },
+    {
+      "word": "Zu Abend esse ich Brot mit Schinken.",
+      "article": null,
+      "translation": "Večeriam chlieb so šunkou."
+    },
+    {
+      "word": "Zu Mittag esse ich Pizza.",
+      "article": null,
+      "translation": "Obedujem pizzu."
+    },
+    {
+      "word": "der Essig",
+      "article": "der",
+      "translation": {
+        "singular": "ocot",
+        "plural": null
+      },
+      "plural": "die Essige"
+    },
+    {
+      "word": "fade",
+      "article": null,
+      "translation": "fádny, mdlý, bez chuti"
+    },
+    {
+      "word": "der Fisch",
+      "article": "der",
+      "translation": {
+        "singular": "ryba",
+        "plural": null
+      },
+      "plural": "die Fische"
+    },
+    {
+      "word": "das Fleisch",
+      "article": "das",
+      "translation": "mäso"
+    },
+    {
+      "word": "die Frikadelle",
+      "article": "die",
+      "translation": {
+        "singular": "fašírka, karbonátka",
+        "plural": null
+      },
+      "plural": "die Frikadellen"
+    },
+    {
+      "word": "das Frühstück",
+      "article": "das",
+      "translation": {
+        "singular": "raňajky",
+        "plural": null
+      },
+      "plural": "die Frühstücke"
+    },
+    {
+      "word": "die Gabel",
+      "article": "die",
+      "translation": {
+        "singular": "vidlička",
+        "plural": null
+      },
+      "plural": "die Gabeln"
+    },
+    {
+      "word": "der Gasthof",
+      "article": "der",
+      "translation": {
+        "singular": "hostinec",
+        "plural": null
+      },
+      "plural": "die Gasthofasthöfe"
+    },
+    {
+      "word": "gegrillt",
+      "article": null,
+      "translation": "grilovaný"
+    },
+    {
+      "word": "gemischt",
+      "article": null,
+      "translation": "miešaný"
+    },
+    {
+      "word": "das Gemüse",
+      "article": "das",
+      "translation": {
+        "singular": "zelenina",
+        "plural": null
+      },
+      "plural": "die Gemüse"
+    },
+    {
+      "word": "gemütlich",
+      "article": null,
+      "translation": "útulný, príjemný"
+    },
+    {
+      "word": "das Gericht",
+      "article": "das",
+      "translation": {
+        "singular": "jedlo, pokrm",
+        "plural": null
+      },
+      "plural": "die Gerichte"
+    },
+    {
+      "word": "das Geschenk",
+      "article": "das",
+      "translation": {
+        "singular": "darček",
+        "plural": null
+      },
+      "plural": "die Geschenke"
+    },
+    {
+      "word": "der Geschmack",
+      "article": "der",
+      "translation": {
+        "singular": "chuť",
+        "plural": null
+      },
+      "plural": "die Geschmackeschmäcke"
+    },
+    {
+      "word": "geschnitten",
+      "article": null,
+      "translation": "nakrájaný"
+    },
+    {
+      "word": "gesund",
+      "article": null,
+      "translation": "zdravý"
+    },
+    {
+      "word": "das Getränk",
+      "article": "das",
+      "translation": {
+        "singular": "nápoj",
+        "plural": null
+      },
+      "plural": "die Getränke"
+    },
+    {
+      "word": "das Glas",
+      "article": "das",
+      "translation": {
+        "singular": "pohár",
+        "plural": null
+      },
+      "plural": "die Glasläser"
+    },
+    {
+      "word": "die Grapefruit",
+      "article": "die",
+      "translation": {
+        "singular": "grapefruit",
+        "plural": null
+      },
+      "plural": "die Grapefruits"
+    },
+    {
+      "word": "das Grillhähnchen",
+      "article": "das",
+      "translation": {
+        "singular": "grilované kura",
+        "plural": null
+      },
+      "plural": "die Grillhähnchen"
+    },
+    {
+      "word": "das/der Gulasch",
+      "article": null,
+      "translation": "guláš, guľáš",
+      "plural": "die das/der Gulasche/-s"
+    },
+    {
+      "word": "die Gulaschsuppe",
+      "article": "die",
+      "translation": {
+        "singular": "guľášová polievka",
+        "plural": null
+      },
+      "plural": "die Gulaschsuppen"
+    },
+    {
+      "word": "das Hähnchen",
+      "article": "das",
+      "translation": {
+        "singular": "kura, kurča",
+        "plural": null
+      },
+      "plural": "die Hähnchen"
+    },
+    {
+      "word": "der Hamburger",
+      "article": "der",
+      "translation": {
+        "singular": "hamburger",
+        "plural": null
+      },
+      "plural": "die Hamburger"
+    },
+    {
+      "word": "hausgemacht",
+      "article": null,
+      "translation": "domáci"
+    },
+    {
+      "word": "der Honig",
+      "article": "der",
+      "translation": {
+        "singular": "med",
+        "plural": null
+      },
+      "plural": "die Honig"
+    },
+    {
+      "word": "der Hunger",
+      "article": "der",
+      "translation": "hlad"
+    },
+    {
+      "word": "der Chili",
+      "article": "der",
+      "translation": {
+        "singular": "čili (korenie)",
+        "plural": null
+      },
+      "plural": "die Chilis"
+    },
+    {
+      "word": "international",
+      "article": null,
+      "translation": "medzinárodný"
+    },
+    {
+      "word": "der/das Joghurt",
+      "article": null,
+      "translation": "jogurt",
+      "plural": "die der/das Joghurts"
+    },
+    {
+      "word": "der Kaffee",
+      "article": "der",
+      "translation": {
+        "singular": "káva",
+        "plural": null
+      },
+      "plural": "die Kaffees"
+    },
+    {
+      "word": "das Kalbfleisch",
+      "article": "das",
+      "translation": "teľacie mäso"
+    },
+    {
+      "word": "kalt",
+      "article": null,
+      "translation": "chladný, studený"
+    },
+    {
+      "word": "die Kartoffel",
+      "article": "die",
+      "translation": {
+        "singular": "zemiak",
+        "plural": null
+      },
+      "plural": "die Kartoffeln"
+    },
+    {
+      "word": "der Kartoffelsalat",
+      "article": "der",
+      "translation": {
+        "singular": "zemiakový šalát",
+        "plural": null
+      },
+      "plural": "die Kartoffelsalate"
+    },
+    {
+      "word": "der Käse",
+      "article": "der",
+      "translation": {
+        "singular": "syr",
+        "plural": null
+      },
+      "plural": "die Käse"
+    },
+    {
+      "word": "kaufen",
+      "article": null,
+      "translation": "kúpiť, kupovať",
+      "plural": "die kaufenr kauft"
+    },
+    {
+      "word": "Kaufst du die Torte?",
+      "article": null,
+      "translation": "Kúpiš tortu?"
+    },
+    {
+      "word": "die Kerze",
+      "article": "die",
+      "translation": {
+        "singular": "sviečka",
+        "plural": null
+      },
+      "plural": "die Kerzen"
+    },
+    {
+      "word": "der/das Ketchup",
+      "article": null,
+      "translation": "kečup",
+      "plural": "die der/das Ketchups"
+    },
+    {
+      "word": "die Kirsche",
+      "article": "die",
+      "translation": {
+        "singular": "čerešňa",
+        "plural": null
+      },
+      "plural": "die Kirschen"
+    },
+    {
+      "word": "der Knödel",
+      "article": "der",
+      "translation": {
+        "singular": "knedľa",
+        "plural": null
+      },
+      "plural": "die Knödel"
+    },
+    {
+      "word": "kochen",
+      "article": null,
+      "translation": "variť",
+      "plural": "die kochenr kocht"
+    },
+    {
+      "word": "der Kopfsalat",
+      "article": "der",
+      "translation": {
+        "singular": "hlávkový šalát",
+        "plural": null
+      },
+      "plural": "die Kopfsalate"
+    },
+    {
+      "word": "das Kraut",
+      "article": "das",
+      "translation": {
+        "singular": "kapusta",
+        "plural": null
+      },
+      "plural": "die Krauträuter"
+    },
+    {
+      "word": "die Küche",
+      "article": "die",
+      "translation": {
+        "singular": "kuchyňa",
+        "plural": null
+      },
+      "plural": "die Küchen"
+    },
+    {
+      "word": "der Kuchen",
+      "article": "der",
+      "translation": {
+        "singular": "koláč, múčnik",
+        "plural": null
+      },
+      "plural": "die Kuchen"
+    },
+    {
+      "word": "das Lachsfilet",
+      "article": "das",
+      "translation": {
+        "singular": "filé z lososa",
+        "plural": null
+      },
+      "plural": "die Lachsfilets"
+    },
+    {
+      "word": "langweilig",
+      "article": null,
+      "translation": "nudný"
+    },
+    {
+      "word": "die Lasagne",
+      "article": "die",
+      "translation": {
+        "singular": "lasagne",
+        "plural": null
+      },
+      "plural": "die Lasagne"
+    },
+    {
+      "word": "die Lebensmittel",
+      "article": "die",
+      "translation": "potraviny"
+    },
+    {
+      "word": "lecker",
+      "article": null,
+      "translation": "chutný, lahodný"
+    },
+    {
+      "word": "die Limonade",
+      "article": "die",
+      "translation": {
+        "singular": "limonáda",
+        "plural": null
+      },
+      "plural": "die Limonaden"
+    },
+    {
+      "word": "der Löffel",
+      "article": "der",
+      "translation": {
+        "singular": "lyžica",
+        "plural": null
+      },
+      "plural": "die Löffel"
+    },
+    {
+      "word": "man",
+      "article": null,
+      "translation": "(všeobecný podmet/neosobné zámeno)"
+    },
+    {
+      "word": "Schwarzwälder Kirschtorte macht man aus …",
+      "article": null,
+      "translation": "Schwarzwaldská torta sa pripravuje z ..."
+    },
+    {
+      "word": "die Marmelade",
+      "article": "die",
+      "translation": {
+        "singular": "marmeláda",
+        "plural": null
+      },
+      "plural": "die Marmeladen"
+    },
+    {
+      "word": "die Meeresfrüchte",
+      "article": "die",
+      "translation": "plody mora"
+    },
+    {
+      "word": "das Messer",
+      "article": "das",
+      "translation": {
+        "singular": "nôž",
+        "plural": null
+      },
+      "plural": "die Messer"
+    },
+    {
+      "word": "mild",
+      "article": null,
+      "translation": "jemný"
+    },
+    {
+      "word": "die Milch",
+      "article": "die",
+      "translation": "mlieko"
+    },
+    {
+      "word": "das Mineralwasser",
+      "article": "das",
+      "translation": {
+        "singular": "minerálna voda",
+        "plural": null
+      },
+      "plural": "die Mineralwasserineralwässer"
+    },
+    {
+      "word": "die Minute",
+      "article": "die",
+      "translation": {
+        "singular": "minúta",
+        "plural": null
+      },
+      "plural": "die Minuten"
+    },
+    {
+      "word": "mischen",
+      "article": null,
+      "translation": "(s)miešať",
+      "plural": "die mischenr mischt"
+    },
+    {
+      "word": "das Mittagessen",
+      "article": "das",
+      "translation": {
+        "singular": "obed",
+        "plural": null
+      },
+      "plural": "die Mittagessen"
+    },
+    {
+      "word": "mögen",
+      "article": null,
+      "translation": "mať rád",
+      "plural": "die mögenr mag"
+    },
+    {
+      "word": "Ich mag Pommes.",
+      "article": null,
+      "translation": "Mám rád/rada hranolky."
+    },
+    {
+      "word": "möcht-",
+      "article": null,
+      "translation": "chcieť",
+      "plural": "die möcht-r möchte"
+    },
+    {
+      "word": "Was möchtest du?",
+      "article": null,
+      "translation": "Čo by si chcel?"
+    },
+    {
+      "word": "das Müsli",
+      "article": "das",
+      "translation": {
+        "singular": "müsli",
+        "plural": null
+      },
+      "plural": "die Müsli/-s"
+    },
+    {
+      "word": "die Nachspeise",
+      "article": "die",
+      "translation": {
+        "singular": "múčnik, zákusok",
+        "plural": null
+      },
+      "plural": "die Nachspeisen"
+    },
+    {
+      "word": "nehmen",
+      "article": null,
+      "translation": "vziať so sebou",
+      "plural": "die nehmenr nimmt"
+    },
+    {
+      "word": "Ich nehme die Frikadellen.",
+      "article": null,
+      "translation": "Dám si karbonátky/fašírky."
+    },
+    {
+      "word": "die Nudel",
+      "article": "die",
+      "translation": {
+        "singular": "rezanec, cestovina",
+        "plural": null
+      },
+      "plural": "die Nudeln"
+    },
+    {
+      "word": "das Obst",
+      "article": "das",
+      "translation": "ovocie"
+    },
+    {
+      "word": "der Pfannkuchen",
+      "article": "der",
+      "translation": {
+        "singular": "šiška, dolka",
+        "plural": null
+      },
+      "plural": "die Pfannkuchen"
+    },
+    {
+      "word": "der Pfeffer",
+      "article": "der",
+      "translation": "čierne korenie"
+    },
+    {
+      "word": "die Pizza",
+      "article": "die",
+      "translation": {
+        "singular": "pizza",
+        "plural": null
+      },
+      "plural": "die Pizzas/Pizzen"
+    },
+    {
+      "word": "die Platte",
+      "article": "die",
+      "translation": {
+        "singular": "misa, podnos",
+        "plural": null
+      },
+      "plural": "die Platten"
+    },
+    {
+      "word": "der Platz",
+      "article": "der",
+      "translation": {
+        "singular": "miesto; námestie",
+        "plural": null
+      },
+      "plural": "die Platzlätze"
+    },
+    {
+      "word": "die Pommes",
+      "article": "die",
+      "translation": "hranolky"
+    },
+    {
+      "word": "die Prüfung",
+      "article": "die",
+      "translation": {
+        "singular": "skúška",
+        "plural": null
+      },
+      "plural": "die Prüfungen"
+    },
+    {
+      "word": "das/der Radler",
+      "article": null,
+      "translation": "radler (nápoj z piva a limonády)",
+      "plural": "die das/der Radler"
+    },
+    {
+      "word": "der Reis",
+      "article": "der",
+      "translation": "ryža"
+    },
+    {
+      "word": "reservieren",
+      "article": null,
+      "translation": "rezervovať",
+      "plural": "die reservierenr reserviert"
+    },
+    {
+      "word": "das/der Rindergulasch",
+      "article": null,
+      "translation": "hovädzí guláš",
+      "plural": "die das/der Rindergulasche/-s"
+    },
+    {
+      "word": "die Röstzwiebel",
+      "article": "die",
+      "translation": {
+        "singular": "opekaná, opražená cibuľa",
+        "plural": null
+      },
+      "plural": "die Röstzwiebeln"
+    },
+    {
+      "word": "der Ruhetag",
+      "article": "der",
+      "translation": {
+        "singular": "voľný deň",
+        "plural": null
+      },
+      "plural": "die Ruhetage"
+    },
+    {
+      "word": "das Rührei",
+      "article": "das",
+      "translation": {
+        "singular": "praženica",
+        "plural": null
+      },
+      "plural": "die Rühreier"
+    },
+    {
+      "word": "der Saft",
+      "article": "der",
+      "translation": {
+        "singular": "šťava, džús",
+        "plural": null
+      },
+      "plural": "die Saftäfte"
+    },
+    {
+      "word": "die Sahne",
+      "article": "die",
+      "translation": "smotana"
+    },
+    {
+      "word": "der Salat",
+      "article": "der",
+      "translation": {
+        "singular": "šalát",
+        "plural": null
+      },
+      "plural": "die Salate"
+    },
+    {
+      "word": "das Salz",
+      "article": "das",
+      "translation": {
+        "singular": "soľ",
+        "plural": null
+      },
+      "plural": "die Salze"
+    },
+    {
+      "word": "salzig",
+      "article": null,
+      "translation": "slaný"
+    },
+    {
+      "word": "die Salzkartoffeln",
+      "article": "die",
+      "translation": "varené zemiaky"
+    },
+    {
+      "word": "sauer",
+      "article": null,
+      "translation": "kyslý"
+    },
+    {
+      "word": "der Senf",
+      "article": "der",
+      "translation": {
+        "singular": "horčica",
+        "plural": null
+      },
+      "plural": "die Senfe"
+    },
+    {
+      "word": "die Serviette",
+      "article": "die",
+      "translation": {
+        "singular": "servítka, obrúsok",
+        "plural": null
+      },
+      "plural": "die Servietten"
+    },
+    {
+      "word": "scharf",
+      "article": null,
+      "translation": "ostrý"
+    },
+    {
+      "word": "der Schinken",
+      "article": "der",
+      "translation": {
+        "singular": "šunka",
+        "plural": null
+      },
+      "plural": "die Schinken"
+    },
+    {
+      "word": "schmecken",
+      "article": null,
+      "translation": "chutiť",
+      "plural": "die schmeckenr schmeckt"
+    },
+    {
+      "word": "schneiden",
+      "article": null,
+      "translation": "(na)krájať, (na)rezať",
+      "plural": "die schneidenr schneidet"
+    },
+    {
+      "word": "das Schnitzel",
+      "article": "das",
+      "translation": {
+        "singular": "rezeň",
+        "plural": null
+      },
+      "plural": "die Schnitzel"
+    },
+    {
+      "word": "die Schokoladenraspeln",
+      "article": "die",
+      "translation": "čokoládové hobliny"
+    },
+    {
+      "word": "die Schüssel",
+      "article": "die",
+      "translation": {
+        "singular": "misa, miska",
+        "plural": null
+      },
+      "plural": "die Schüsseln"
+    },
+    {
+      "word": "der Schweinebraten/Schweinsbraten",
+      "article": "der",
+      "translation": {
+        "singular": "bravčové pečené mäso",
+        "plural": null
+      },
+      "plural": "die Schweinebraten/Schweinsbraten"
+    },
+    {
+      "word": "die Schweinshaxe",
+      "article": "die",
+      "translation": {
+        "singular": "(pečené) bravčové koleno",
+        "plural": null
+      },
+      "plural": "die Schweinshaxen"
+    },
+    {
+      "word": "die Soße",
+      "article": "die",
+      "translation": {
+        "singular": "omáčka",
+        "plural": null
+      },
+      "plural": "die Soßen"
+    },
+    {
+      "word": "die Spaghetti",
+      "article": "die",
+      "translation": {
+        "singular": "špagety",
+        "plural": null
+      },
+      "plural": "die Spaghetti"
+    },
+    {
+      "word": "die Spätzle",
+      "article": "die",
+      "translation": "halušky"
+    },
+    {
+      "word": "die Speisekarte",
+      "article": "die",
+      "translation": {
+        "singular": "jedálny lístok",
+        "plural": null
+      },
+      "plural": "die Speisekarten"
+    },
+    {
+      "word": "die Spezialität",
+      "article": "die",
+      "translation": {
+        "singular": "špecialita",
+        "plural": null
+      },
+      "plural": "die Spezialitäten"
+    },
+    {
+      "word": "speziell",
+      "article": null,
+      "translation": "špeciálny, zvláštny"
+    },
+    {
+      "word": "spritzig",
+      "article": null,
+      "translation": "perlivý"
+    },
+    {
+      "word": "das Steak",
+      "article": "das",
+      "translation": {
+        "singular": "steak",
+        "plural": null
+      },
+      "plural": "die Steaks"
+    },
+    {
+      "word": "still",
+      "article": null,
+      "translation": "neperlivý, tichý"
+    },
+    {
+      "word": "das Stück",
+      "article": "das",
+      "translation": {
+        "singular": "kus, kúsok",
+        "plural": null
+      },
+      "plural": "die Stücke"
+    },
+    {
+      "word": "die Suppe",
+      "article": "die",
+      "translation": {
+        "singular": "polievka",
+        "plural": null
+      },
+      "plural": "die Suppen"
+    },
+    {
+      "word": "süß",
+      "article": null,
+      "translation": "sladký"
+    },
+    {
+      "word": "täglich",
+      "article": null,
+      "translation": "denne"
+    },
+    {
+      "word": "die Tasse",
+      "article": "die",
+      "translation": {
+        "singular": "šálka",
+        "plural": null
+      },
+      "plural": "die Tassen"
+    },
+    {
+      "word": "der Tee",
+      "article": "der",
+      "translation": {
+        "singular": "čaj",
+        "plural": null
+      },
+      "plural": "die Tees"
+    },
+    {
+      "word": "der Teelöffel",
+      "article": "der",
+      "translation": {
+        "singular": "(čajová) lyžička",
+        "plural": null
+      },
+      "plural": "die Teelöffel"
+    },
+    {
+      "word": "der Teller",
+      "article": "der",
+      "translation": {
+        "singular": "tanier",
+        "plural": null
+      },
+      "plural": "die Teller"
+    },
+    {
+      "word": "der Tipp",
+      "article": "der",
+      "translation": {
+        "singular": "tip",
+        "plural": null
+      },
+      "plural": "die Tipps"
+    },
+    {
+      "word": "der Tisch",
+      "article": "der",
+      "translation": {
+        "singular": "stôl",
+        "plural": null
+      },
+      "plural": "die Tische"
+    },
+    {
+      "word": "toll",
+      "article": null,
+      "translation": "skvelý, úžasný"
+    },
+    {
+      "word": "die Tomate",
+      "article": "die",
+      "translation": {
+        "singular": "rajčina, paradajka",
+        "plural": null
+      },
+      "plural": "die Tomaten"
+    },
+    {
+      "word": "die Torte",
+      "article": "die",
+      "translation": {
+        "singular": "torta",
+        "plural": null
+      },
+      "plural": "die Torten"
+    },
+    {
+      "word": "trinken",
+      "article": null,
+      "translation": "piť",
+      "plural": "die trinkenr trinkt"
+    },
+    {
+      "word": "Zum Frühstück trinke ich Tee.",
+      "article": null,
+      "translation": "Na raňajky pijem čaj."
+    },
+    {
+      "word": "das Trinkgeld",
+      "article": "das",
+      "translation": {
+        "singular": "prepitné",
+        "plural": null
+      },
+      "plural": "die Trinkgelder"
+    },
+    {
+      "word": "trocknen",
+      "article": null,
+      "translation": "(o)sušiť",
+      "plural": "die trocknenr trocknet"
+    },
+    {
+      "word": "unappetitlich",
+      "article": null,
+      "translation": "nechutný, nevábny"
+    },
+    {
+      "word": "ungesund",
+      "article": null,
+      "translation": "nezdravý"
+    },
+    {
+      "word": "die Vanillesoße",
+      "article": "die",
+      "translation": {
+        "singular": "vanilková omáčka",
+        "plural": null
+      },
+      "plural": "die Vanillesoßen"
+    },
+    {
+      "word": "vegetarisch",
+      "article": null,
+      "translation": "vegetariánský"
+    },
+    {
+      "word": "verkaufen",
+      "article": null,
+      "translation": "predať, predávať",
+      "plural": "die verkaufenr verkauft"
+    },
+    {
+      "word": "vielleicht",
+      "article": null,
+      "translation": "snáď, asi, možno"
+    },
+    {
+      "word": "die Vorsicht",
+      "article": "die",
+      "translation": "opatrnosť, obozretnosť"
+    },
+    {
+      "word": "die Vorspeise",
+      "article": "die",
+      "translation": {
+        "singular": "predjedlo, predkrm",
+        "plural": null
+      },
+      "plural": "die Vorspeisen"
+    },
+    {
+      "word": "warm",
+      "article": null,
+      "translation": "teplý"
+    },
+    {
+      "word": "waschen",
+      "article": null,
+      "translation": "umyť, umývať; prať",
+      "plural": "die waschenr wäscht"
+    },
+    {
+      "word": "das Wasser",
+      "article": "das",
+      "translation": {
+        "singular": "voda",
+        "plural": null
+      },
+      "plural": "die Wasser/Wässer"
+    },
+    {
+      "word": "der Wein",
+      "article": "der",
+      "translation": {
+        "singular": "víno",
+        "plural": null
+      },
+      "plural": "die Weine"
+    },
+    {
+      "word": "wunderbar",
+      "article": null,
+      "translation": "nádherný, skvelý"
+    },
+    {
+      "word": "die Wurst",
+      "article": "die",
+      "translation": {
+        "singular": "klobása, saláma, jaternica",
+        "plural": null
+      },
+      "plural": "die Wurstürste"
+    },
+    {
+      "word": "das Würstchen",
+      "article": "das",
+      "translation": {
+        "singular": "párok",
+        "plural": null
+      },
+      "plural": "die Würstchen"
+    },
+    {
+      "word": "würzen",
+      "article": null,
+      "translation": "(o)koreniť",
+      "plural": "die würzenr würzt"
+    },
+    {
+      "word": "der Zahnstocher",
+      "article": "der",
+      "translation": {
+        "singular": "špáradlo (na zuby)",
+        "plural": null
+      },
+      "plural": "die Zahnstocher"
+    },
+    {
+      "word": "das Zanderfilet",
+      "article": "das",
+      "translation": {
+        "singular": "filé zo zubáča",
+        "plural": null
+      },
+      "plural": "die Zanderfilets"
+    },
+    {
+      "word": "die Zitrone",
+      "article": "die",
+      "translation": {
+        "singular": "citrón",
+        "plural": null
+      },
+      "plural": "die Zitronen"
+    },
+    {
+      "word": "der Zucker",
+      "article": "der",
+      "translation": "cukor"
+    },
+    {
+      "word": "zupfen",
+      "article": null,
+      "translation": "(na)trhať",
+      "plural": "die zupfenr zupft"
+    },
+    {
+      "word": "Zusammen oder getrennt?",
+      "article": null,
+      "translation": "Spolu alebo oddelene/zvlášť? (pri platení)"
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "id": 10,
+  "words": [
+    {
+      "word": "(sich) an|schauen",
+      "article": null,
+      "translation": "pozrieť si"
+    },
+    {
+      "word": "am Anfang",
+      "article": null,
+      "translation": "na začiatku"
+    },
+    {
+      "word": "die Amtssprache",
+      "article": "die",
+      "translation": {
+        "singular": "úradný jazyk",
+        "plural": null
+      },
+      "plural": "die Amtssprachen"
+    },
+    {
+      "word": "der Anfang",
+      "article": "der",
+      "translation": {
+        "singular": "začiatok",
+        "plural": null
+      },
+      "plural": "die Anfangnfänge"
+    },
+    {
+      "word": "das Angebot",
+      "article": "das",
+      "translation": {
+        "singular": "ponuka",
+        "plural": null
+      },
+      "plural": "die Angebote"
+    },
+    {
+      "word": "aus|ruhen",
+      "article": null,
+      "translation": "odpočívať, oddychovať"
+    },
+    {
+      "word": "baden",
+      "article": null,
+      "translation": "kúpať sa"
+    },
+    {
+      "word": "der Beachvolleyball",
+      "article": "der",
+      "translation": "plážový volejbal"
+    },
+    {
+      "word": "der Berg",
+      "article": "der",
+      "translation": {
+        "singular": "vrch, kopec",
+        "plural": null
+      },
+      "plural": "die Berge"
+    },
+    {
+      "word": "berg|steigen",
+      "article": null,
+      "translation": "chodiť po horách, venovať sa horolezectvu"
+    },
+    {
+      "word": "die Bergsicht",
+      "article": "die",
+      "translation": {
+        "singular": "výhľad na hory",
+        "plural": null
+      },
+      "plural": "die Bergsichten"
+    },
+    {
+      "word": "der beste",
+      "article": "der",
+      "translation": "najlepší deň"
+    },
+    {
+      "word": "billiger",
+      "article": null,
+      "translation": "lacnejší"
+    },
+    {
+      "word": "das Bobfahren",
+      "article": "das",
+      "translation": "jazda na boboch"
+    },
+    {
+      "word": "der Bodensee",
+      "article": "der",
+      "translation": "Bodamské jazero"
+    },
+    {
+      "word": "das Bundesland",
+      "article": "das",
+      "translation": {
+        "singular": "spolková krajina",
+        "plural": null
+      },
+      "plural": "die Bundeslandundesländer"
+    },
+    {
+      "word": "der Campingplatz",
+      "article": "der",
+      "translation": {
+        "singular": "kemp",
+        "plural": null
+      },
+      "plural": "die Campingplatzampingplätze"
+    },
+    {
+      "word": "deswegen",
+      "article": null,
+      "translation": "preto, z tej príčiny"
+    },
+    {
+      "word": "einen Schneemann bauen",
+      "article": null,
+      "translation": "stavať snehuliaka"
+    },
+    {
+      "word": "die Einwohnerzahl",
+      "article": "die",
+      "translation": {
+        "singular": "počet obyvateľov",
+        "plural": null
+      },
+      "plural": "die Einwohnerzahlen"
+    },
+    {
+      "word": "eis|laufen",
+      "article": null,
+      "translation": "korčuľovať sa"
+    },
+    {
+      "word": "das Eishockey",
+      "article": "das",
+      "translation": "ľadový hokej"
+    },
+    {
+      "word": "das Eislaufen",
+      "article": "das",
+      "translation": "korčuľovanie"
+    },
+    {
+      "word": "endlich",
+      "article": null,
+      "translation": "konečne, nakoniec"
+    },
+    {
+      "word": "die Erholung",
+      "article": "die",
+      "translation": "zotavenie, oddych"
+    },
+    {
+      "word": "erleben",
+      "article": null,
+      "translation": "zažiť"
+    },
+    {
+      "word": "die Ermäßigung",
+      "article": "die",
+      "translation": {
+        "singular": "zľava",
+        "plural": null
+      },
+      "plural": "die Ermäßigungen"
+    },
+    {
+      "word": "der Experte",
+      "article": "der",
+      "translation": {
+        "singular": "expert",
+        "plural": null
+      },
+      "plural": "die Experten"
+    },
+    {
+      "word": "der Fan",
+      "article": "der",
+      "translation": {
+        "singular": "fanúšik",
+        "plural": null
+      },
+      "plural": "die Fans"
+    },
+    {
+      "word": "die Ferien",
+      "article": "die",
+      "translation": "prázdniny"
+    },
+    {
+      "word": "die Fläche",
+      "article": "die",
+      "translation": {
+        "singular": "plocha",
+        "plural": null
+      },
+      "plural": "die Flächen"
+    },
+    {
+      "word": "fliegen",
+      "article": null,
+      "translation": "letieť"
+    },
+    {
+      "word": "das Flugzeug",
+      "article": "das",
+      "translation": {
+        "singular": "lietadlo",
+        "plural": null
+      },
+      "plural": "die Flugzeuge"
+    },
+    {
+      "word": "früher",
+      "article": null,
+      "translation": "predtým, skôr"
+    },
+    {
+      "word": "gelten",
+      "article": null,
+      "translation": "platiť, mať cenu/hodnotu"
+    },
+    {
+      "word": "der Germknödel",
+      "article": "der",
+      "translation": {
+        "singular": "veľká kysnutá knedľa, plnená slivkovým lekvárom (rak.)",
+        "plural": null
+      },
+      "plural": "die Germknödel"
+    },
+    {
+      "word": "geschlossen",
+      "article": null,
+      "translation": "zatvorený"
+    },
+    {
+      "word": "gestern",
+      "article": null,
+      "translation": "včera"
+    },
+    {
+      "word": "das Glück",
+      "article": "das",
+      "translation": "šťastie"
+    },
+    {
+      "word": "gratis",
+      "article": null,
+      "translation": "zadarmo, zdarma"
+    },
+    {
+      "word": "grenzen",
+      "article": null,
+      "translation": "hraničiť, susediť"
+    },
+    {
+      "word": "der größte",
+      "article": "der",
+      "translation": "najväčšie jazero"
+    },
+    {
+      "word": "die Grundschule",
+      "article": "die",
+      "translation": {
+        "singular": "základná škola",
+        "plural": null
+      },
+      "plural": "die Grundschulen"
+    },
+    {
+      "word": "die Hauptstadt",
+      "article": "die",
+      "translation": {
+        "singular": "hlavné mesto",
+        "plural": null
+      },
+      "plural": "die Hauptstadtauptstädte"
+    },
+    {
+      "word": "der höchste",
+      "article": "der",
+      "translation": "najvyšší vrch"
+    },
+    {
+      "word": "ideal",
+      "article": null,
+      "translation": "ideálny"
+    },
+    {
+      "word": "im Norden",
+      "article": null,
+      "translation": "na severe"
+    },
+    {
+      "word": "im Osten",
+      "article": null,
+      "translation": "na východe"
+    },
+    {
+      "word": "im Süden",
+      "article": null,
+      "translation": "na juhu"
+    },
+    {
+      "word": "im Westen",
+      "article": null,
+      "translation": "na západe"
+    },
+    {
+      "word": "der Infostand",
+      "article": "der",
+      "translation": {
+        "singular": "informačný stánok",
+        "plural": null
+      },
+      "plural": "die Infostandnfostände"
+    },
+    {
+      "word": "die Internet-TLD",
+      "article": "die",
+      "translation": {
+        "singular": "internetová doména najvyššieho radu (top-level domain)",
+        "plural": null
+      },
+      "plural": "die Internet-TLDs"
+    },
+    {
+      "word": "das Kfz",
+      "article": "das",
+      "translation": {
+        "singular": "motorové vozidlo",
+        "plural": null
+      },
+      "plural": "die Kfze"
+    },
+    {
+      "word": "das Kfz-Kennzeichen",
+      "article": "das",
+      "translation": {
+        "singular": "ŠPZ, registračná značka",
+        "plural": null
+      },
+      "plural": "die Kfz-Kennzeichen"
+    },
+    {
+      "word": "klappen",
+      "article": null,
+      "translation": "klapnúť, vyjsť, podariť sa"
+    },
+    {
+      "word": "klettern",
+      "article": null,
+      "translation": "liezť, šplhať sa"
+    },
+    {
+      "word": "km² =",
+      "article": null,
+      "translation": "km²"
+    },
+    {
+      "word": "die Lage",
+      "article": "die",
+      "translation": {
+        "singular": "poloha",
+        "plural": null
+      },
+      "plural": "die Lagen"
+    },
+    {
+      "word": "der längste",
+      "article": "der",
+      "translation": "najdlhšia rieka"
+    },
+    {
+      "word": "die Laune",
+      "article": "die",
+      "translation": {
+        "singular": "nálada",
+        "plural": null
+      },
+      "plural": "die Launen"
+    },
+    {
+      "word": "letzter",
+      "article": null,
+      "translation": "posledný, posledná, posledné"
+    },
+    {
+      "word": "lieber",
+      "article": null,
+      "translation": "radšej"
+    },
+    {
+      "word": "der Liebhaber",
+      "article": "der",
+      "translation": {
+        "singular": "milovník, nadšenec",
+        "plural": null
+      },
+      "plural": "die Liebhaber"
+    },
+    {
+      "word": "das Mitteleuropa",
+      "article": "das",
+      "translation": "stredná Európa"
+    },
+    {
+      "word": "morgen",
+      "article": null,
+      "translation": "zítra"
+    },
+    {
+      "word": "die Natur",
+      "article": "die",
+      "translation": "príroda"
+    },
+    {
+      "word": "nervös",
+      "article": null,
+      "translation": "nervózny"
+    },
+    {
+      "word": "der Norden",
+      "article": "der",
+      "translation": "sever"
+    },
+    {
+      "word": "nötig",
+      "article": null,
+      "translation": "nutný, potrebný"
+    },
+    {
+      "word": "die Olympiahalle",
+      "article": "die",
+      "translation": {
+        "singular": "olympijská hala",
+        "plural": null
+      },
+      "plural": "die Olympiahallen"
+    },
+    {
+      "word": "der Olympionike",
+      "article": "der",
+      "translation": {
+        "singular": "olympionik",
+        "plural": null
+      },
+      "plural": "die Olympioniken"
+    },
+    {
+      "word": "der Osten",
+      "article": "der",
+      "translation": "východ"
+    },
+    {
+      "word": "passieren",
+      "article": null,
+      "translation": "stať sa, prihodiť sa"
+    },
+    {
+      "word": "planen",
+      "article": null,
+      "translation": "plánovať"
+    },
+    {
+      "word": "die Postkarte",
+      "article": "die",
+      "translation": {
+        "singular": "pohľadnica",
+        "plural": null
+      },
+      "plural": "die Postkarten"
+    },
+    {
+      "word": "prima",
+      "article": null,
+      "translation": "príma, výborný"
+    },
+    {
+      "word": "der Quadratkilometer",
+      "article": "der",
+      "translation": {
+        "singular": "kilometer štvorcový",
+        "plural": null
+      },
+      "plural": "die Quadratkilometer"
+    },
+    {
+      "word": "das Quiz",
+      "article": "das",
+      "translation": {
+        "singular": "kvíz",
+        "plural": null
+      },
+      "plural": "die Quiz"
+    },
+    {
+      "word": "die Rodelbahn",
+      "article": "die",
+      "translation": {
+        "singular": "sánkarská dráha, trať",
+        "plural": null
+      },
+      "plural": "die Rodelbahnen"
+    },
+    {
+      "word": "rodeln",
+      "article": null,
+      "translation": "sánkovať sa"
+    },
+    {
+      "word": "ruhig",
+      "article": null,
+      "translation": "pokojný, tichý"
+    },
+    {
+      "word": "die Sehenswürdigkeit",
+      "article": "die",
+      "translation": {
+        "singular": "pamätihodnosť",
+        "plural": null
+      },
+      "plural": "die Sehenswürdigkeiten"
+    },
+    {
+      "word": "schaffen",
+      "article": null,
+      "translation": "stihnúť, zvládnuť"
+    },
+    {
+      "word": "schließlich",
+      "article": null,
+      "translation": "konečne, koniec koncov"
+    },
+    {
+      "word": "Schlittschuh laufen",
+      "article": null,
+      "translation": "korčuľovať"
+    },
+    {
+      "word": "der Schlittschuh",
+      "article": "der",
+      "translation": {
+        "singular": "korčuľa",
+        "plural": null
+      },
+      "plural": "die Schlittschuhe"
+    },
+    {
+      "word": "der Schnee",
+      "article": "der",
+      "translation": "sneh"
+    },
+    {
+      "word": "der Schneemann",
+      "article": "der",
+      "translation": {
+        "singular": "snehuliak",
+        "plural": null
+      },
+      "plural": "die Schneemannchneemänner"
+    },
+    {
+      "word": "Ski fahren",
+      "article": null,
+      "translation": "lyžovať"
+    },
+    {
+      "word": "Ski laufen",
+      "article": null,
+      "translation": "jazdiť na bežkách"
+    },
+    {
+      "word": "der Ski",
+      "article": "der",
+      "translation": {
+        "singular": "lyža",
+        "plural": null
+      },
+      "plural": "die Ski"
+    },
+    {
+      "word": "das Skigebiet",
+      "article": "das",
+      "translation": {
+        "singular": "lyžiarsky areál",
+        "plural": null
+      },
+      "plural": "die Skigebiete"
+    },
+    {
+      "word": "Snowboard fahren",
+      "article": null,
+      "translation": "jazdiť na snowboarde"
+    },
+    {
+      "word": "das Snowboard",
+      "article": "das",
+      "translation": {
+        "singular": "snowboard",
+        "plural": null
+      },
+      "plural": "die Snowboards"
+    },
+    {
+      "word": "der Sommer",
+      "article": "der",
+      "translation": {
+        "singular": "leto",
+        "plural": null
+      },
+      "plural": "die Sommer"
+    },
+    {
+      "word": "sparen",
+      "article": null,
+      "translation": "sporiť, šetriť"
+    },
+    {
+      "word": "der Spaß",
+      "article": "der",
+      "translation": {
+        "singular": "zábava; žart, vtip",
+        "plural": null
+      },
+      "plural": "die Spaßpäße"
+    },
+    {
+      "word": "später",
+      "article": null,
+      "translation": "neskôr"
+    },
+    {
+      "word": "die Sportart",
+      "article": "die",
+      "translation": {
+        "singular": "druh športu",
+        "plural": null
+      },
+      "plural": "die Sportarten"
+    },
+    {
+      "word": "der Sportler",
+      "article": "der",
+      "translation": {
+        "singular": "športovec",
+        "plural": null
+      },
+      "plural": "die Sportler"
+    },
+    {
+      "word": "der Süden",
+      "article": "der",
+      "translation": "juh"
+    },
+    {
+      "word": "das Symbol",
+      "article": "das",
+      "translation": {
+        "singular": "symbol",
+        "plural": null
+      },
+      "plural": "die Symbole"
+    },
+    {
+      "word": "der Taxifahrer",
+      "article": "der",
+      "translation": {
+        "singular": "taxikár",
+        "plural": null
+      },
+      "plural": "die Taxifahrer"
+    },
+    {
+      "word": "die Telefonvorwahl",
+      "article": "die",
+      "translation": {
+        "singular": "telefónna predvoľba",
+        "plural": null
+      },
+      "plural": "die Telefonvorwahlen"
+    },
+    {
+      "word": "der Traum",
+      "article": "der",
+      "translation": {
+        "singular": "sen",
+        "plural": null
+      },
+      "plural": "die Traumräume"
+    },
+    {
+      "word": "traurig",
+      "article": null,
+      "translation": "smutný"
+    },
+    {
+      "word": "der Turm",
+      "article": "der",
+      "translation": {
+        "singular": "veža",
+        "plural": null
+      },
+      "plural": "die Turmürme"
+    },
+    {
+      "word": "überall",
+      "article": null,
+      "translation": "všade"
+    },
+    {
+      "word": "übermorgen",
+      "article": null,
+      "translation": "pozajtra"
+    },
+    {
+      "word": "ungefähr",
+      "article": null,
+      "translation": "približne, asi"
+    },
+    {
+      "word": "der Urlaub",
+      "article": "der",
+      "translation": {
+        "singular": "dovolenka",
+        "plural": null
+      },
+      "plural": "die Urlaube"
+    },
+    {
+      "word": "verlieren",
+      "article": null,
+      "translation": "stratiť"
+    },
+    {
+      "word": "verschlafen",
+      "article": null,
+      "translation": "zaspať"
+    },
+    {
+      "word": "die Verspätung",
+      "article": "die",
+      "translation": {
+        "singular": "oneskorenie, meškanie",
+        "plural": null
+      },
+      "plural": "die Verspätungen"
+    },
+    {
+      "word": "virtuell",
+      "article": null,
+      "translation": "virtuálny"
+    },
+    {
+      "word": "die Voranmeldung",
+      "article": "die",
+      "translation": {
+        "singular": "výzva",
+        "plural": null
+      },
+      "plural": "die Voranmeldungen"
+    },
+    {
+      "word": "vorgestern",
+      "article": null,
+      "translation": "predvčerom"
+    },
+    {
+      "word": "wählen",
+      "article": null,
+      "translation": "zvoliť, vybrať (si)"
+    },
+    {
+      "word": "die Währung",
+      "article": "die",
+      "translation": {
+        "singular": "mena",
+        "plural": null
+      },
+      "plural": "die Währungen"
+    },
+    {
+      "word": "das Wappen",
+      "article": "das",
+      "translation": {
+        "singular": "erb, znak",
+        "plural": null
+      },
+      "plural": "die Wappen"
+    },
+    {
+      "word": "der Westen",
+      "article": "der",
+      "translation": "západ"
+    },
+    {
+      "word": "der Winter",
+      "article": "der",
+      "translation": {
+        "singular": "zima",
+        "plural": null
+      },
+      "plural": "die Winter"
+    },
+    {
+      "word": "zelten",
+      "article": null,
+      "translation": "stanovať"
+    },
+    {
+      "word": "zuerst",
+      "article": null,
+      "translation": "najprv"
+    },
+    {
+      "word": "zuletzt",
+      "article": null,
+      "translation": "nakoniec"
+    },
+    {
+      "word": "zum Glück",
+      "article": null,
+      "translation": "našťastie"
+    }
+  ]
+}

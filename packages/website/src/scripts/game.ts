@@ -1,34 +1,34 @@
-interface Word {
-  word: string;
-  article: string | null;
-  translation:
-    | string
-    | {
-        singular: string;
-        plural: string;
-      };
-  plural?: string;
-}
-declare const words: Word[];
+import {
+  select_random_word,
+  reset_buttons,
+  update_and_rerender_streak,
+  update_estimated_count,
+} from "./utils";
 
 const audio = new Audio("/audio/correct.wav");
 
 let streak = 0;
+window.words = [...dictionary];
+
+let give_word_again = false;
 
 document.addEventListener("astro:page-load", () => {
   const url = new URL(window.location.href);
   if (!url.pathname.includes("lektion")) return;
+  update_estimated_count();
 
   streak = localStorage.getItem("streak")
     ? parseInt(localStorage.getItem("streak")!)
     : 0;
-  update_and_rerender_streak();
+  update_and_rerender_streak(streak);
 
   document
     .querySelectorAll("#option-1, #option-2, #option-3, #option-4")
     .forEach((element) => {
       element.addEventListener("click", () => {
         element.classList.remove("border-[#FFA500]");
+        element.classList.remove("hover:bg-[#FFA500]/40");
+
         if (element.getAttribute("data-correct") === "true") {
           audio.pause();
           audio.currentTime = 0;
@@ -39,7 +39,17 @@ document.addEventListener("astro:page-load", () => {
           element.classList.add("border-[#10B981]");
 
           streak++;
-          update_and_rerender_streak();
+          update_and_rerender_streak(streak);
+
+          if (!give_word_again) {
+            words = words.filter(
+              (word) => word.word !== element.getAttribute("data-word"),
+            );
+          }
+
+          give_word_again = false;
+
+          update_estimated_count();
 
           setTimeout(() => {
             select();
@@ -49,18 +59,15 @@ document.addEventListener("astro:page-load", () => {
           element.classList.add("border-[#EF4444]");
 
           streak = 0;
-          update_and_rerender_streak();
+          update_and_rerender_streak(streak);
+
+          give_word_again = true;
         }
       });
     });
 
   select();
 });
-
-function update_and_rerender_streak() {
-  localStorage.setItem("streak", streak.toString());
-  document.getElementById("streak")!.innerText = `streak: ${streak.toString()}`;
-}
 
 let last_type = 0;
 let same_type = 0;
@@ -86,26 +93,9 @@ function select_de2sk() {
   }
 
   // reset
-  document
-    .querySelectorAll("#option-1, #option-2, #option-3, #option-4")
-    .forEach((element) => {
-      element.classList.remove("bg-green-500");
-      element.setAttribute("data-correct", "false");
-      element.classList.remove("border-[#10B981]");
-      element.classList.remove("bg-red-500");
-      element.classList.remove("border-[#EF4444]");
-      element.classList.add("border-[#FFA500]");
-    });
+  reset_buttons();
 
-  const set: Set<Word> = new Set();
-  while (set.size < 4) {
-    set.add(words[Math.floor(Math.random() * 100) % words.length]!);
-  }
-  const options: Word[] = Array.from(set);
-  const correct: Word =
-    options[Math.floor(Math.random() * 100) % options.length]!;
-
-  document.getElementById("word")!.innerText = correct.word;
+  const { options, correct } = select_random_word();
 
   for (const option of options) {
     const button = document.getElementById(
@@ -116,13 +106,10 @@ function select_de2sk() {
         ? option.translation
         : option.translation.singular;
 
-    if (
-      option.word === correct.word ||
-      (typeof option.translation === "string"
-        ? option.translation
-        : option.translation.singular) === correct.word
-    )
+    if (option.word === correct.word) {
       button.setAttribute("data-correct", "true");
+      button.setAttribute("data-word", correct.word);
+    }
   }
 }
 
@@ -134,23 +121,9 @@ function select_sk2de() {
   }
 
   // reset
-  document
-    .querySelectorAll("#option-1, #option-2, #option-3, #option-4")
-    .forEach((element) => {
-      element.classList.remove("bg-green-500");
-      element.classList.remove("border-[#10B981]");
-      element.classList.remove("bg-red-500");
-      element.classList.remove("border-[#EF4444]");
-      element.classList.add("border-[#FFA500]");
-    });
+  reset_buttons();
 
-  const set: Set<Word> = new Set();
-  while (set.size < 4) {
-    set.add(words[Math.floor(Math.random() * 100) % words.length]!);
-  }
-  const options: Word[] = Array.from(set);
-  const correct: Word =
-    options[Math.floor(Math.random() * 100) % options.length]!;
+  const { options, correct } = select_random_word();
 
   document.getElementById("word")!.innerText =
     typeof correct.translation === "string"
@@ -163,12 +136,9 @@ function select_sk2de() {
     )!;
     button.innerText = option.word;
 
-    if (
-      option.word === correct.word ||
-      (typeof option.translation === "string"
-        ? option.translation
-        : option.translation.singular) === correct.word
-    )
+    if (option.word === correct.word) {
       button.setAttribute("data-correct", "true");
+      button.setAttribute("data-word", correct.word);
+    }
   }
 }

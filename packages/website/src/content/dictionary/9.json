@@ -1,0 +1,1136 @@
+{
+  "id": 9,
+  "words": [
+    {
+      "word": "ab|biegen",
+      "article": null,
+      "translation": "odbočiť, zabočiť"
+    },
+    {
+      "word": "der Abstellraum",
+      "article": "der",
+      "translation": {
+        "singular": "komora, sklad",
+        "plural": null
+      },
+      "plural": "die Abstellraumbstellräume"
+    },
+    {
+      "word": "allein",
+      "article": null,
+      "translation": "sám"
+    },
+    {
+      "word": "der Altbau",
+      "article": "der",
+      "translation": {
+        "singular": "stará budova",
+        "plural": null
+      },
+      "plural": "die Altbaultbauten"
+    },
+    {
+      "word": "die Ampel",
+      "article": "die",
+      "translation": {
+        "singular": "semafor",
+        "plural": null
+      },
+      "plural": "die Ampeln"
+    },
+    {
+      "word": "das Appartement",
+      "article": "das",
+      "translation": {
+        "singular": "apartmán",
+        "plural": null
+      },
+      "plural": "die Appartements/-e"
+    },
+    {
+      "word": "das Arbeitszimmer",
+      "article": "das",
+      "translation": {
+        "singular": "pracovňa",
+        "plural": null
+      },
+      "plural": "die Arbeitszimmer"
+    },
+    {
+      "word": "der Aufsatz",
+      "article": "der",
+      "translation": {
+        "singular": "slohová práca",
+        "plural": null
+      },
+      "plural": "die Aufsatzufsätze"
+    },
+    {
+      "word": "der Aufzug",
+      "article": "der",
+      "translation": {
+        "singular": "výťah",
+        "plural": null
+      },
+      "plural": "die Aufzugufzüge"
+    },
+    {
+      "word": "die Badewanne",
+      "article": "die",
+      "translation": {
+        "singular": "vaňa",
+        "plural": null
+      },
+      "plural": "die Badewannen"
+    },
+    {
+      "word": "der Balkon",
+      "article": "der",
+      "translation": {
+        "singular": "balkón",
+        "plural": null
+      },
+      "plural": "die Balkons/-e"
+    },
+    {
+      "word": "die Bank",
+      "article": "die",
+      "translation": {
+        "singular": "banka",
+        "plural": null
+      },
+      "plural": "die Banken"
+    },
+    {
+      "word": "das Bauernhaus",
+      "article": "das",
+      "translation": "dedinský, gazdovský dom"
+    },
+    {
+      "word": "bequem",
+      "article": null,
+      "translation": "pohodlný"
+    },
+    {
+      "word": "besser",
+      "article": null,
+      "translation": "lepší"
+    },
+    {
+      "word": "bisschen",
+      "article": null,
+      "translation": "trochu, trošku"
+    },
+    {
+      "word": "der Blick",
+      "article": "der",
+      "translation": {
+        "singular": "pohľad, výhľad",
+        "plural": null
+      },
+      "plural": "die Blicke"
+    },
+    {
+      "word": "die Brücke",
+      "article": "die",
+      "translation": {
+        "singular": "most",
+        "plural": null
+      },
+      "plural": "die Brücken"
+    },
+    {
+      "word": "der Bücherschrank",
+      "article": "der",
+      "translation": {
+        "singular": "knižnica (skriňa)",
+        "plural": null
+      },
+      "plural": "die Bücherschrankücherschränke"
+    },
+    {
+      "word": "die Couch",
+      "article": "die",
+      "translation": {
+        "singular": "gauč",
+        "plural": null
+      },
+      "plural": "die Couch(e)s"
+    },
+    {
+      "word": "das Dachgeschoss",
+      "article": "das",
+      "translation": {
+        "singular": "podkrovie",
+        "plural": null
+      },
+      "plural": "die Dachgeschosse"
+    },
+    {
+      "word": "die Diele",
+      "article": "die",
+      "translation": {
+        "singular": "predsieň, chodba",
+        "plural": null
+      },
+      "plural": "die Dielen"
+    },
+    {
+      "word": "dunkel",
+      "article": null,
+      "translation": "tmavý"
+    },
+    {
+      "word": "der Ehrengast",
+      "article": "der",
+      "translation": {
+        "singular": "čestný hosť",
+        "plural": null
+      },
+      "plural": "die Ehrengasthrengäste"
+    },
+    {
+      "word": "eigentlich",
+      "article": null,
+      "translation": "vlastne"
+    },
+    {
+      "word": "ein bisschen",
+      "article": null,
+      "translation": "trochu"
+    },
+    {
+      "word": "einfach",
+      "article": null,
+      "translation": "jednoduchý, jednoducho"
+    },
+    {
+      "word": "das Einfamilienhaus",
+      "article": "das",
+      "translation": {
+        "singular": "rodinný dom",
+        "plural": null
+      },
+      "plural": "die Einfamilienhausinfamilienhäuser"
+    },
+    {
+      "word": "endlich",
+      "article": null,
+      "translation": "konečne"
+    },
+    {
+      "word": "entlang",
+      "article": null,
+      "translation": "pozdĺž, popri, pri"
+    },
+    {
+      "word": "erforderlich",
+      "article": null,
+      "translation": "potrebný, žiadúci, nutný"
+    },
+    {
+      "word": "die Essecke",
+      "article": "die",
+      "translation": {
+        "singular": "jedálenský kút",
+        "plural": null
+      },
+      "plural": "die Essecken"
+    },
+    {
+      "word": "der Esstisch",
+      "article": "der",
+      "translation": {
+        "singular": "jedálenský stôl",
+        "plural": null
+      },
+      "plural": "die Esstische"
+    },
+    {
+      "word": "extra",
+      "article": null,
+      "translation": "extra, zvlášť"
+    },
+    {
+      "word": "das Fachwerkhaus",
+      "article": "das",
+      "translation": {
+        "singular": "dom s priehradovou konštrukciou",
+        "plural": null
+      },
+      "plural": "die Fachwerkhausachwerkhäuser"
+    },
+    {
+      "word": "fantastisch",
+      "article": null,
+      "translation": "fantastický"
+    },
+    {
+      "word": "der Fernseher",
+      "article": "der",
+      "translation": {
+        "singular": "televízor",
+        "plural": null
+      },
+      "plural": "die Fernseher"
+    },
+    {
+      "word": "der Fluss",
+      "article": "der",
+      "translation": {
+        "singular": "rieka",
+        "plural": null
+      },
+      "plural": "die Flusslüsse"
+    },
+    {
+      "word": "die Fußgängerzone",
+      "article": "die",
+      "translation": {
+        "singular": "pešia zóna",
+        "plural": null
+      },
+      "plural": "die Fußgängerzonen"
+    },
+    {
+      "word": "gar nicht",
+      "article": null,
+      "translation": "vôbec nie"
+    },
+    {
+      "word": "das Gästezimmer",
+      "article": "das",
+      "translation": {
+        "singular": "hosťovská izba",
+        "plural": null
+      },
+      "plural": "die Gästezimmer"
+    },
+    {
+      "word": "die Geige",
+      "article": "die",
+      "translation": {
+        "singular": "husle",
+        "plural": null
+      },
+      "plural": "die Geigen"
+    },
+    {
+      "word": "geradeaus",
+      "article": null,
+      "translation": "priamo, rovno"
+    },
+    {
+      "word": "das Grundstück",
+      "article": "das",
+      "translation": {
+        "singular": "pozemok",
+        "plural": null
+      },
+      "plural": "die Grundstücke"
+    },
+    {
+      "word": "die Haltestelle",
+      "article": "die",
+      "translation": {
+        "singular": "zastávka",
+        "plural": null
+      },
+      "plural": "die Haltestellen"
+    },
+    {
+      "word": "die Hand",
+      "article": "die",
+      "translation": {
+        "singular": "ruka",
+        "plural": null
+      },
+      "plural": "die Handände"
+    },
+    {
+      "word": "hängen",
+      "article": null,
+      "translation": "visieť; zavesiť"
+    },
+    {
+      "word": "der Herd",
+      "article": "der",
+      "translation": {
+        "singular": "sporák",
+        "plural": null
+      },
+      "plural": "die Herde"
+    },
+    {
+      "word": "hinter",
+      "article": null,
+      "translation": "za"
+    },
+    {
+      "word": "das Hochhaus",
+      "article": "das",
+      "translation": {
+        "singular": "výškový dom, vežiak",
+        "plural": null
+      },
+      "plural": "die Hochhausochhäuser"
+    },
+    {
+      "word": "holen",
+      "article": null,
+      "translation": "priniesť"
+    },
+    {
+      "word": "das Holzhaus",
+      "article": "das",
+      "translation": {
+        "singular": "dom z dreva",
+        "plural": null
+      },
+      "plural": "die Holzhausolzhäuser"
+    },
+    {
+      "word": "chaotisch",
+      "article": null,
+      "translation": "chaotický"
+    },
+    {
+      "word": "Ich muss meine Hände waschen.",
+      "article": null,
+      "translation": "Musím si umyť ruky."
+    },
+    {
+      "word": "jung",
+      "article": null,
+      "translation": "mladý"
+    },
+    {
+      "word": "die Kaltmiete",
+      "article": "die",
+      "translation": {
+        "singular": "nájomné bez energií",
+        "plural": null
+      },
+      "plural": "die Kaltmieten"
+    },
+    {
+      "word": "der Keller",
+      "article": "der",
+      "translation": {
+        "singular": "pivnica",
+        "plural": null
+      },
+      "plural": "die Keller"
+    },
+    {
+      "word": "das Kinderbett",
+      "article": "das",
+      "translation": {
+        "singular": "detská postieľka",
+        "plural": null
+      },
+      "plural": "die Kinderbetten"
+    },
+    {
+      "word": "das Kinderzimmer",
+      "article": "das",
+      "translation": {
+        "singular": "detská izba",
+        "plural": null
+      },
+      "plural": "die Kinderzimmer"
+    },
+    {
+      "word": "die Kirche",
+      "article": "die",
+      "translation": {
+        "singular": "kostol",
+        "plural": null
+      },
+      "plural": "die Kirchen"
+    },
+    {
+      "word": "der Kleiderschrank",
+      "article": "der",
+      "translation": {
+        "singular": "skriňa na šaty",
+        "plural": null
+      },
+      "plural": "die Kleiderschrankleiderschränke"
+    },
+    {
+      "word": "die Kochecke",
+      "article": "die",
+      "translation": {
+        "singular": "kuchynský kút",
+        "plural": null
+      },
+      "plural": "die Kochecken"
+    },
+    {
+      "word": "die Kommode",
+      "article": "die",
+      "translation": {
+        "singular": "komoda",
+        "plural": null
+      },
+      "plural": "die Kommoden"
+    },
+    {
+      "word": "die Kreuzung",
+      "article": "die",
+      "translation": {
+        "singular": "križovatka",
+        "plural": null
+      },
+      "plural": "die Kreuzungen"
+    },
+    {
+      "word": "der Kühlschrank",
+      "article": "der",
+      "translation": {
+        "singular": "chladnička",
+        "plural": null
+      },
+      "plural": "die Kühlschrankühlschränke"
+    },
+    {
+      "word": "die Küche",
+      "article": "die",
+      "translation": {
+        "singular": "kuchyňa",
+        "plural": null
+      },
+      "plural": "die Küchen"
+    },
+    {
+      "word": "das Land",
+      "article": "das",
+      "translation": {
+        "singular": "krajina; vidiek",
+        "plural": null
+      },
+      "plural": "die Landänder"
+    },
+    {
+      "word": "das Landhaus",
+      "article": "das",
+      "translation": {
+        "singular": "vidiecky dom",
+        "plural": null
+      },
+      "plural": "die Landhausandhäuser"
+    },
+    {
+      "word": "legen",
+      "article": null,
+      "translation": "položiť"
+    },
+    {
+      "word": "die Linie",
+      "article": "die",
+      "translation": {
+        "singular": "linka",
+        "plural": null
+      },
+      "plural": "die Linien"
+    },
+    {
+      "word": "malen",
+      "article": null,
+      "translation": "maľovať"
+    },
+    {
+      "word": "das Mehrfamilienhaus",
+      "article": "das",
+      "translation": {
+        "singular": "obytný dom",
+        "plural": null
+      },
+      "plural": "die Mehrfamilienhausehrfamilienhäuser"
+    },
+    {
+      "word": "die Miete",
+      "article": "die",
+      "translation": {
+        "singular": "nájomné, nájom",
+        "plural": null
+      },
+      "plural": "die Mieten"
+    },
+    {
+      "word": "das Mietshaus",
+      "article": "das",
+      "translation": {
+        "singular": "nájomný dom",
+        "plural": null
+      },
+      "plural": "die Mietshausietshäuser"
+    },
+    {
+      "word": "die Mietwohnung",
+      "article": "die",
+      "translation": {
+        "singular": "nájomný byt",
+        "plural": null
+      },
+      "plural": "die Mietwohnungen"
+    },
+    {
+      "word": "die Mikrowelle",
+      "article": "die",
+      "translation": {
+        "singular": "mikrovlnná rúra",
+        "plural": null
+      },
+      "plural": "die Mikrowellen"
+    },
+    {
+      "word": "modern",
+      "article": null,
+      "translation": "moderný"
+    },
+    {
+      "word": "der Nachbar",
+      "article": "der",
+      "translation": {
+        "singular": "sused",
+        "plural": null
+      },
+      "plural": "die Nachbarn"
+    },
+    {
+      "word": "der Neubau",
+      "article": "der",
+      "translation": {
+        "singular": "novostavba",
+        "plural": null
+      },
+      "plural": "die Neubauten"
+    },
+    {
+      "word": "normalerweise",
+      "article": null,
+      "translation": "normálne"
+    },
+    {
+      "word": "die Orientierung",
+      "article": "die",
+      "translation": {
+        "singular": "orientácia",
+        "plural": null
+      },
+      "plural": "die Orientierungen"
+    },
+    {
+      "word": "die Panik",
+      "article": "die",
+      "translation": "panika"
+    },
+    {
+      "word": "das Paradies",
+      "article": "das",
+      "translation": {
+        "singular": "raj",
+        "plural": null
+      },
+      "plural": "die Paradiese"
+    },
+    {
+      "word": "der Plattenbau",
+      "article": "der",
+      "translation": {
+        "singular": "panelový dom, panelák",
+        "plural": null
+      },
+      "plural": "die Plattenbauten"
+    },
+    {
+      "word": "der Platz",
+      "article": "der",
+      "translation": {
+        "singular": "námestie, miesto",
+        "plural": null
+      },
+      "plural": "die Platzlätze"
+    },
+    {
+      "word": "die Polizeidienststelle",
+      "article": "die",
+      "translation": {
+        "singular": "policajná stanica",
+        "plural": null
+      },
+      "plural": "die Polizeidienststellen"
+    },
+    {
+      "word": "das Poster",
+      "article": "das",
+      "translation": {
+        "singular": "plagát",
+        "plural": null
+      },
+      "plural": "die Poster"
+    },
+    {
+      "word": "praktisch",
+      "article": null,
+      "translation": "praktický"
+    },
+    {
+      "word": "der Preis",
+      "article": "der",
+      "translation": {
+        "singular": "cena",
+        "plural": null
+      },
+      "plural": "die Preise"
+    },
+    {
+      "word": "das Rathaus",
+      "article": "das",
+      "translation": {
+        "singular": "radnica",
+        "plural": null
+      },
+      "plural": "die Rathausathäuser"
+    },
+    {
+      "word": "das Regal",
+      "article": "das",
+      "translation": {
+        "singular": "regál, polica",
+        "plural": null
+      },
+      "plural": "die Regale"
+    },
+    {
+      "word": "das Reihenhaus",
+      "article": "das",
+      "translation": {
+        "singular": "radový dom",
+        "plural": null
+      },
+      "plural": "die Reihenhauseihenhäuser"
+    },
+    {
+      "word": "reichen",
+      "article": null,
+      "translation": "stačiť"
+    },
+    {
+      "word": "die Renovierung",
+      "article": "die",
+      "translation": {
+        "singular": "renovácia",
+        "plural": null
+      },
+      "plural": "die Renovierungen"
+    },
+    {
+      "word": "die Sache",
+      "article": "die",
+      "translation": {
+        "singular": "vec",
+        "plural": null
+      },
+      "plural": "die Sachen"
+    },
+    {
+      "word": "das Seniorenheim",
+      "article": "das",
+      "translation": {
+        "singular": "domov dôchodcov",
+        "plural": null
+      },
+      "plural": "die Seniorenheime"
+    },
+    {
+      "word": "der Sessel",
+      "article": "der",
+      "translation": {
+        "singular": "kreslo",
+        "plural": null
+      },
+      "plural": "die Sessel"
+    },
+    {
+      "word": "setzen",
+      "article": null,
+      "translation": "posadiť"
+    },
+    {
+      "word": "das Schlafzimmer",
+      "article": "das",
+      "translation": {
+        "singular": "spálňa",
+        "plural": null
+      },
+      "plural": "die Schlafzimmer"
+    },
+    {
+      "word": "der Schreibtisch",
+      "article": "der",
+      "translation": {
+        "singular": "písací stôl",
+        "plural": null
+      },
+      "plural": "die Schreibtische"
+    },
+    {
+      "word": "die Siedlung",
+      "article": "die",
+      "translation": {
+        "singular": "sídlisko",
+        "plural": null
+      },
+      "plural": "die Siedlungen"
+    },
+    {
+      "word": "das Sofa",
+      "article": "das",
+      "translation": {
+        "singular": "pohovka",
+        "plural": null
+      },
+      "plural": "die Sofas"
+    },
+    {
+      "word": "die Stadt",
+      "article": "die",
+      "translation": {
+        "singular": "mesto",
+        "plural": null
+      },
+      "plural": "die Stadttädte"
+    },
+    {
+      "word": "der Stadtplan",
+      "article": "der",
+      "translation": {
+        "singular": "plán/mapa mesta",
+        "plural": null
+      },
+      "plural": "die Stadtplantadtpläne"
+    },
+    {
+      "word": "der Stadtrand",
+      "article": "der",
+      "translation": {
+        "singular": "periféria, okraj mesta",
+        "plural": null
+      },
+      "plural": "die Stadtrandtadtränder"
+    },
+    {
+      "word": "stellen",
+      "article": null,
+      "translation": "postaviť"
+    },
+    {
+      "word": "der Stellplatz",
+      "article": "der",
+      "translation": {
+        "singular": "(parkovacie) miesto",
+        "plural": null
+      },
+      "plural": "die Stellplatztellplätze"
+    },
+    {
+      "word": "der Stock",
+      "article": "der",
+      "translation": {
+        "singular": "poschodie",
+        "plural": null
+      },
+      "plural": "die Stocktockwerke"
+    },
+    {
+      "word": "die Straßenbahn",
+      "article": "die",
+      "translation": {
+        "singular": "električka",
+        "plural": null
+      },
+      "plural": "die Straßenbahnen"
+    },
+    {
+      "word": "das Studentenwohnheim",
+      "article": "das",
+      "translation": {
+        "singular": "internát, študentský domov",
+        "plural": null
+      },
+      "plural": "die Studentenwohnheime"
+    },
+    {
+      "word": "der Swimmingpool",
+      "article": "der",
+      "translation": {
+        "singular": "bazén",
+        "plural": null
+      },
+      "plural": "die Swimmingpools"
+    },
+    {
+      "word": "das Taxi",
+      "article": "das",
+      "translation": {
+        "singular": "taxi",
+        "plural": null
+      },
+      "plural": "die Taxis"
+    },
+    {
+      "word": "das Tennis",
+      "article": "das",
+      "translation": "tenis"
+    },
+    {
+      "word": "der Teppich",
+      "article": "der",
+      "translation": {
+        "singular": "koberec",
+        "plural": null
+      },
+      "plural": "die Teppiche"
+    },
+    {
+      "word": "das Tor",
+      "article": "das",
+      "translation": {
+        "singular": "brána",
+        "plural": null
+      },
+      "plural": "die Tore"
+    },
+    {
+      "word": "die Treppe",
+      "article": "die",
+      "translation": {
+        "singular": "schodisko, schody",
+        "plural": null
+      },
+      "plural": "die Treppen"
+    },
+    {
+      "word": "die U-Bahn",
+      "article": "die",
+      "translation": {
+        "singular": "metro, podzemná dráha",
+        "plural": null
+      },
+      "plural": "die U-Bahnen"
+    },
+    {
+      "word": "über",
+      "article": null,
+      "translation": "nad"
+    },
+    {
+      "word": "unbequem",
+      "article": null,
+      "translation": "nepohodlný"
+    },
+    {
+      "word": "ungemütlich",
+      "article": null,
+      "translation": "neútulný, nepríjemný"
+    },
+    {
+      "word": "unmodern",
+      "article": null,
+      "translation": "nemoderný"
+    },
+    {
+      "word": "unter",
+      "article": null,
+      "translation": "pod"
+    },
+    {
+      "word": "die Unterführung",
+      "article": "die",
+      "translation": {
+        "singular": "podchod, podjazd",
+        "plural": null
+      },
+      "plural": "die Unterführungen"
+    },
+    {
+      "word": "vermieten",
+      "article": null,
+      "translation": "prenajať, prenajímať"
+    },
+    {
+      "word": "die Villa",
+      "article": "die",
+      "translation": {
+        "singular": "vila",
+        "plural": null
+      },
+      "plural": "die Villaillen"
+    },
+    {
+      "word": "vorbei",
+      "article": null,
+      "translation": "okolo, popri"
+    },
+    {
+      "word": "vorher",
+      "article": null,
+      "translation": "predtým, skôr"
+    },
+    {
+      "word": "warten",
+      "article": null,
+      "translation": "čakať"
+    },
+    {
+      "word": "das Waschbecken",
+      "article": "das",
+      "translation": {
+        "singular": "umývadlo",
+        "plural": null
+      },
+      "plural": "die Waschbecken"
+    },
+    {
+      "word": "waschen",
+      "article": null,
+      "translation": "umývať; prať"
+    },
+    {
+      "word": "die Waschmaschine",
+      "article": "die",
+      "translation": {
+        "singular": "práčka",
+        "plural": null
+      },
+      "plural": "die Waschmaschinen"
+    },
+    {
+      "word": "der Weg",
+      "article": "der",
+      "translation": {
+        "singular": "cesta",
+        "plural": null
+      },
+      "plural": "die Wege"
+    },
+    {
+      "word": "die Wegbeschreibung",
+      "article": "die",
+      "translation": {
+        "singular": "opis cesty",
+        "plural": null
+      },
+      "plural": "die Wegbeschreibungen"
+    },
+    {
+      "word": "wirklich",
+      "article": null,
+      "translation": "skutočný, skutočne"
+    },
+    {
+      "word": "der Wohnblock",
+      "article": "der",
+      "translation": {
+        "singular": "obytný blok",
+        "plural": null
+      },
+      "plural": "die Wohnblockohnblöcke/-s"
+    },
+    {
+      "word": "das Wohnen",
+      "article": "das",
+      "translation": "bývanie"
+    },
+    {
+      "word": "die Wohnfläche",
+      "article": "die",
+      "translation": {
+        "singular": "obytná plocha",
+        "plural": null
+      },
+      "plural": "die Wohnflächen"
+    },
+    {
+      "word": "das Wohnhaus",
+      "article": "das",
+      "translation": {
+        "singular": "obytný dom",
+        "plural": null
+      },
+      "plural": "die Wohnhausohnhäuser"
+    },
+    {
+      "word": "das Wohnheim",
+      "article": "das",
+      "translation": {
+        "singular": "domov, ubytovňa, internát",
+        "plural": null
+      },
+      "plural": "die Wohnheime"
+    },
+    {
+      "word": "das Wohnzimmer",
+      "article": "das",
+      "translation": {
+        "singular": "obývacia izba, obývačka",
+        "plural": null
+      },
+      "plural": "die Wohnzimmer"
+    },
+    {
+      "word": "der Wolkenkratzer",
+      "article": "der",
+      "translation": {
+        "singular": "mrakodrap",
+        "plural": null
+      },
+      "plural": "die Wolkenkratzer"
+    },
+    {
+      "word": "das Zentrum",
+      "article": "das",
+      "translation": {
+        "singular": "centrum",
+        "plural": null
+      },
+      "plural": "die Zentrumentren"
+    },
+    {
+      "word": "ziemlich",
+      "article": null,
+      "translation": "značne, dosť, pomerne"
+    },
+    {
+      "word": "das Zimmer",
+      "article": "das",
+      "translation": {
+        "singular": "izba",
+        "plural": null
+      },
+      "plural": "die Zimmer"
+    },
+    {
+      "word": "zusammen|wohnen",
+      "article": null,
+      "translation": "bývať spolu"
+    },
+    {
+      "word": "die Zwei-Zimmer-Wohnung",
+      "article": "die",
+      "translation": {
+        "singular": "dvojizbový byt",
+        "plural": null
+      },
+      "plural": "die Zwei-Zimmer-Wohnungen"
+    },
+    {
+      "word": "zwischen",
+      "article": null,
+      "translation": "medzi"
+    }
+  ]
+}

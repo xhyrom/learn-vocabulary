@@ -1,0 +1,548 @@
+{
+  "id": 1,
+  "words": [
+    {
+      "word": "der Abend",
+      "article": "der",
+      "translation": {
+        "singular": "večer",
+        "plural": "večery"
+      },
+      "plural": "die Abende"
+    },
+    {
+      "word": "du",
+      "article": null,
+      "translation": "ty"
+    },
+    {
+      "word": "gut",
+      "article": null,
+      "translation": "dobrý"
+    },
+    {
+      "word": "Hallo!",
+      "article": null,
+      "translation": "Ahoj!"
+    },
+    {
+      "word": "Hi!",
+      "article": null,
+      "translation": "Ahoj!"
+    },
+    {
+      "word": "heißen",
+      "article": null,
+      "translation": "volať sa"
+    },
+    {
+      "word": "ich",
+      "article": null,
+      "translation": "ja"
+    },
+    {
+      "word": "ihr",
+      "article": null,
+      "translation": "vy"
+    },
+    {
+      "word": "ja",
+      "article": null,
+      "translation": "áno"
+    },
+    {
+      "word": "Morgen",
+      "article": "der",
+      "translation": "ráno"
+    },
+    {
+      "word": "Name",
+      "article": "der",
+      "translation": {
+        "singular": "meno",
+        "plural": "mená"
+      },
+      "plural": "die Namen"
+    },
+    {
+      "word": "nein",
+      "article": null,
+      "translation": "nie"
+    },
+    {
+      "word": "sein",
+      "article": null,
+      "translation": "byť"
+    },
+    {
+      "word": "der Tag",
+      "article": "der",
+      "translation": {
+        "singular": "deň",
+        "plural": "dni"
+      },
+      "plural": "die Tage"
+    },
+    {
+      "word": "und",
+      "article": null,
+      "translation": "a"
+    },
+    {
+      "word": "wer",
+      "article": null,
+      "translation": "kto"
+    },
+    {
+      "word": "wie",
+      "article": null,
+      "translation": "ako"
+    },
+    {
+      "word": "wir",
+      "article": null,
+      "translation": "my"
+    },
+    {
+      "word": "in",
+      "article": null,
+      "translation": "v"
+    },
+    {
+      "word": "das Spiel",
+      "article": "das",
+      "translation": {
+        "singular": "hra",
+        "plural": "hry"
+      },
+      "plural": "die Spiele"
+    },
+    {
+      "word": "wo",
+      "article": null,
+      "translation": "kde"
+    },
+    {
+      "word": "wohnen",
+      "article": null,
+      "translation": "bývať"
+    },
+    {
+      "word": "alt",
+      "article": null,
+      "translation": "starý"
+    },
+    {
+      "word": "er",
+      "article": null,
+      "translation": "on"
+    },
+    {
+      "word": "der Monat",
+      "article": "der",
+      "translation": {
+        "singular": "mesiac",
+        "plural": "mesiace"
+      },
+      "plural": "die Monate"
+    },
+    {
+      "word": "sie",
+      "article": null,
+      "translation": "ona"
+    },
+    {
+      "word": "sie",
+      "article": null,
+      "translation": "oni, ony"
+    },
+    {
+      "word": "aber",
+      "article": null,
+      "translation": "ale"
+    },
+    {
+      "word": "das Alter",
+      "article": "das",
+      "translation": {
+        "singular": "vek",
+        "plural": "veky"
+      },
+      "plural": "die Alter"
+    },
+    {
+      "word": "auch",
+      "article": null,
+      "translation": "tiež, aj"
+    },
+    {
+      "word": "aus",
+      "article": null,
+      "translation": "z"
+    },
+    {
+      "word": "die Band",
+      "article": "die",
+      "translation": {
+        "singular": "hudobná skupina",
+        "plural": "hudobné skupiny"
+      },
+      "plural": "die Bands"
+    },
+    {
+      "word": "chatten",
+      "article": null,
+      "translation": "chatovať"
+    },
+    {
+      "word": "das Computerspiel",
+      "article": "das",
+      "translation": {
+        "singular": "počítačová hra",
+        "plural": "počítačové hry"
+      },
+      "plural": "die Computerspiele"
+    },
+    {
+      "word": "die/das E-Mail",
+      "article": ["die", "das"],
+      "translation": {
+        "singular": "e-mail",
+        "plural": "e-maily"
+      },
+      "plural": "die E-Mails"
+    },
+    {
+      "word": "das Englisch",
+      "article": "das",
+      "translation": "angličtina"
+    },
+    {
+      "word": "der Fan",
+      "article": "der",
+      "translation": {
+        "singular": "fanúšik",
+        "plural": "fanúšikovia"
+      },
+      "plural": "die Fans"
+    },
+    {
+      "word": "das Französisch",
+      "article": "das",
+      "translation": "francúzština"
+    },
+    {
+      "word": "der Freund",
+      "article": "der",
+      "translation": {
+        "singular": "kamarát, priateľ",
+        "plural": "kamaráti, priatelia"
+      },
+      "plural": "die Freunde"
+    },
+    {
+      "word": "die Freundin",
+      "article": "die",
+      "translation": {
+        "singular": "kamarátka, priateľka",
+        "plural": "kamarátky, priateľky"
+      },
+      "plural": "die Freundinnen"
+    },
+    {
+      "word": "der Fußball",
+      "article": "der",
+      "translation": "futbal"
+    },
+    {
+      "word": "gehen",
+      "article": null,
+      "translation": "ísť"
+    },
+    {
+      "word": "gern",
+      "article": null,
+      "translation": "rád/rada"
+    },
+    {
+      "word": "die Gitarre",
+      "article": "die",
+      "translation": {
+        "singular": "gitara",
+        "plural": "gitary"
+      },
+      "plural": "die Gitarren"
+    },
+    {
+      "word": "das Handy",
+      "article": "das",
+      "translation": {
+        "singular": "mobilný telefón",
+        "plural": "mobilné telefóny"
+      },
+      "plural": "die Handys"
+    },
+    {
+      "word": "das Hobby",
+      "article": "das",
+      "translation": {
+        "singular": "koníček",
+        "plural": "koníčky"
+      },
+      "plural": "die Hobbys"
+    },
+    {
+      "word": "hören",
+      "article": null,
+      "translation": "počúvať"
+    },
+    {
+      "word": "im Internet surfen",
+      "article": null,
+      "translation": "surfovať na internete"
+    },
+    {
+      "word": "immer",
+      "article": null,
+      "translation": "vždy, stále"
+    },
+    {
+      "word": "das Jahr",
+      "article": "das",
+      "translation": {
+        "singular": "rok",
+        "plural": "roky"
+      },
+      "plural": "die Jahre"
+    },
+    {
+      "word": "kein",
+      "article": null,
+      "translation": "žiadny"
+    },
+    {
+      "word": "keine",
+      "article": null,
+      "translation": "žiadna"
+    },
+    {
+      "word": "kein",
+      "article": null,
+      "translation": "žiadne"
+    },
+    {
+      "word": "das Klavier",
+      "article": "das",
+      "translation": {
+        "singular": "klavír",
+        "plural": "klavíry"
+      },
+      "plural": "die Klaviere"
+    },
+    {
+      "word": "kommen (aus)",
+      "article": null,
+      "translation": "tu: pochádzať (z)"
+    },
+    {
+      "word": "das Konzert",
+      "article": "das",
+      "translation": {
+        "singular": "koncert",
+        "plural": "koncerty"
+      },
+      "plural": "die Konzerte"
+    },
+    {
+      "word": "lernen",
+      "article": null,
+      "translation": "učiť sa"
+    },
+    {
+      "word": "liegen",
+      "article": null,
+      "translation": "ležať"
+    },
+    {
+      "word": "der Nachname",
+      "article": "der",
+      "translation": {
+        "singular": "priezvisko",
+        "plural": "priezviská"
+      },
+      "plural": "die Nachnamen"
+    },
+    {
+      "word": "nicht weit von",
+      "article": null,
+      "translation": "neďaleko (koho, čoho)"
+    },
+    {
+      "word": "reisen",
+      "article": null,
+      "translation": "cestovať"
+    },
+    {
+      "word": "schreiben",
+      "article": null,
+      "translation": "písať"
+    },
+    {
+      "word": "der Schule",
+      "article": "die",
+      "translation": {
+        "singular": "škola",
+        "plural": "školy"
+      },
+      "plural": "die Schulen"
+    },
+    {
+      "word": "spielen",
+      "article": null,
+      "translation": "hrať"
+    },
+    {
+      "word": "tanzen",
+      "article": null,
+      "translation": "tancovať"
+    },
+    {
+      "word": "der Vorname",
+      "article": "der",
+      "translation": {
+        "singular": "krstné meno",
+        "plural": "krstné mená"
+      },
+      "plural": "die Vornamen"
+    },
+    {
+      "word": "der Wohnort",
+      "article": "der",
+      "translation": {
+        "singular": "bydlisko",
+        "plural": "bydliská"
+      },
+      "plural": "die Wohnorte"
+    },
+    {
+      "word": "falsch",
+      "article": null,
+      "translation": "nesprávny, chybný"
+    },
+    {
+      "word": "der Flöte",
+      "article": "die",
+      "translation": {
+        "singular": "flauta",
+        "plural": "flauty"
+      },
+      "plural": "die Flöten"
+    },
+    {
+      "word": "haben",
+      "article": null,
+      "translation": "mať (vlastniť)"
+    },
+    {
+      "word": "das Instrument",
+      "article": "das",
+      "translation": {
+        "singular": "hudobný nástroj",
+        "plural": "hudobné nástroje"
+      },
+      "plural": "die Instrumente"
+    },
+    {
+      "word": "jetzt",
+      "article": null,
+      "translation": "teraz"
+    },
+    {
+      "word": "machen",
+      "article": null,
+      "translation": "robiť"
+    },
+    {
+      "word": "richtig",
+      "article": null,
+      "translation": "správny, správne"
+    },
+    {
+      "word": "der Sport",
+      "article": "der",
+      "translation": "šport"
+    },
+    {
+      "word": "Sport treiben",
+      "article": null,
+      "translation": "športovať"
+    },
+    {
+      "word": "das Squash",
+      "article": "das",
+      "translation": "squash"
+    },
+    {
+      "word": "das/der Yoga",
+      "article": ["das", "der"],
+      "translation": "joga"
+    },
+    {
+      "word": "bald",
+      "article": null,
+      "translation": "skoro"
+    },
+    {
+      "word": "bis",
+      "article": null,
+      "translation": "do"
+    },
+    {
+      "word": "die Frau",
+      "article": "die",
+      "translation": {
+        "singular": "žena, pani",
+        "plural": "ženy"
+      },
+      "plural": "die Frauen"
+    },
+    {
+      "word": "der Herr",
+      "article": "der",
+      "translation": {
+        "singular": "pán",
+        "plural": "páni, muži"
+      },
+      "plural": "die Herren"
+    },
+    {
+      "word": "das Museum",
+      "article": "das",
+      "translation": "múzeum"
+    },
+    {
+      "word": "schön",
+      "article": null,
+      "translation": "pekný"
+    },
+    {
+      "word": "Servus!",
+      "article": null,
+      "translation": "Ahoj!"
+    },
+    {
+      "word": "Tschüs!",
+      "article": null,
+      "translation": "Ahoj! (pri lúčení)"
+    },
+    {
+      "word": "das Wiedersehen",
+      "article": "das",
+      "translation": {
+        "singular": "znovustretnutie",
+        "plural": "znovustretnutia"
+      },
+      "plural": "die Wiedersehen"
+    }
+  ]
+}
