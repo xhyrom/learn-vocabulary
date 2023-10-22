@@ -39,11 +39,11 @@ const { words } = Astro.props;
 ---
 
 <Layout title="Sprachspaß">
-  <Container>
-    <main class="h-full overflow-hidden pb-4 text-white">
-      <div
-        class="flex h-full flex-col text-center items-center justify-center gap-y-6"
-      >
+  <main class="h-full overflow-hidden pb-4 text-white">
+    <div
+      class="flex h-full flex-col text-center items-center justify-center gap-y-6"
+    >
+      <Container>
         <h1 class="text-6xl font-bold mb-5" id="word">Vokabel</h1>
 
         <div class="flex flex-wrap justify-center gap-6">
@@ -52,9 +52,9 @@ const { words } = Astro.props;
           <Button id="option-3">3</Button>
           <Button id="option-4">4</Button>
         </div>
-      </div>
-    </main>
-  </Container>
+      </Container>
+    </div>
+  </main>
 </Layout>
 
 <script define:vars={{ words }}>
