@@ -4,19 +4,21 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="Sprachspaß">
-	<main class="flex flex-col h-screen items-center justify-center text-center">
-		<div class="mb-4">
-			<h1 class="text-6xl font-extrabold text-white md:text-7xl">
-				Sprachspaß
-			</h1>
-			<p class="max-w-3xl text-lg text-gray-300 md:text-xl">
-				Lerne die deutsche Sprache mit Spaß!
-			</p>
-		</div>
-		<div class="flex flex-wrap justify-around gap-6 md:flex-row">
-			{[1,2,3,4,5,6,7,8,9,10].map(i => {
-				return <Button name={`Lektion ${i}`} href={`lektion/${i}`} />
-			})}
+	<main class="h-full overflow-hidden pb-4 text-white">
+		<div class="flex h-full flex-col items-center justify-center gap-y-6">
+			<div class="mb-4">
+				<h1 class="text-6xl font-extrabold text-white md:text-7xl">
+					Sprachspaß
+				</h1>
+				<p class="max-w-3xl text-lg text-gray-300 md:text-xl">
+					Lerne die deutsche Sprache mit Spaß!
+				</p>
+			</div>
+			<div class="flex flex-wrap justify-around gap-6 md:flex-row">
+				{[1,2,3,4,5,6,7,8,9,10].map(i => {
+					return <Button name={`Lektion ${i}`} href={`lektion/${i}`} />
+				})}
+			</div>
 		</div>
 	</main>
 </Layout>

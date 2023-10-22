@@ -16,6 +16,9 @@ const audio = new Audio("/audio/correct.wav");
 let streak = 0;
 
 document.addEventListener("astro:page-load", () => {
+  const url = new URL(window.location.href);
+  if (!url.pathname.includes("lektion")) return;
+
   streak = localStorage.getItem("streak")
     ? parseInt(localStorage.getItem("streak")!)
     : 0;
@@ -27,7 +30,10 @@ document.addEventListener("astro:page-load", () => {
       element.addEventListener("click", () => {
         element.classList.remove("border-[#FFA500]");
         if (element.getAttribute("data-correct") === "true") {
-          audio?.play();
+          audio.pause();
+          audio.currentTime = 0;
+
+          audio.play();
 
           element.classList.add("bg-green-500");
           element.classList.add("border-[#10B981]");
