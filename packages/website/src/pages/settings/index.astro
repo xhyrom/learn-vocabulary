@@ -1,0 +1,155 @@
+---
+import Button from "../../components/Button.astro";
+import Select from "../../components/Select.astro";
+
+import Container from "../../components/Container.astro";
+import Layout from "../../layouts/Layout.astro";
+---
+
+<Layout title="Sprachspaß">
+  <main class="h-full pb-4 text-white">
+    <div
+      class="flex h-full flex-col items-center text-center justify-center gap-y-6"
+    >
+      <div class="mb-4">
+        <h1 class="text-6xl font-extrabold text-white md:text-7xl">
+          Sprachspaß
+        </h1>
+        <p class="max-w-3xl text-lg text-gray-300 md:text-xl">
+          Nach Bedarf anpassen
+        </p>
+      </div>
+      <Container>
+        <div class="flex flex-wrap justify-center gap-6">
+          <Select
+            label="Translation Direction"
+            id="translation_direction"
+            options={[
+              {
+                label: "German to Slovak",
+                value: "de->sk",
+              },
+              {
+                label: "Slovak to German",
+                value: "sk->de",
+              },
+              {
+                label: "Both",
+                value: "both",
+              },
+            ]}
+          />
+          <Select
+            label="Word Form"
+            id="word_form"
+            options={[
+              {
+                label: "Singular",
+                value: "singular",
+              },
+              {
+                label: "Plural",
+                value: "plural",
+              },
+              {
+                label: "Both",
+                value: "both",
+              },
+            ]}
+          />
+          <Select
+            label="Type"
+            id="type"
+            options={[
+              {
+                label: "Select",
+                value: "select",
+              },
+              {
+                label: "Input",
+                value: "input",
+              },
+              {
+                label: "Both",
+                value: "both",
+              },
+            ]}
+          />
+        </div>
+        <div class="flex flex-wrap justify-center mt-6">
+          <Button name="Save" id="save" href="/" />
+        </div>
+      </Container>
+    </div>
+  </main>
+</Layout>
+
+<script>
+  import { DictionarySettings } from "../../scripts/settings";
+
+  document.addEventListener("astro:page-load", () => {
+    DictionarySettings.load();
+    const url = new URL(window.location.href);
+    if (!url.pathname.includes("settings")) return;
+
+    {
+      const select = document.getElementById(
+        "translation_direction",
+      )! as HTMLSelectElement;
+      const translationDirection = DictionarySettings.getTranslationDirection();
+      if (translationDirection === "de->sk") {
+        select.selectedIndex = 0;
+      } else if (translationDirection === "sk->de") {
+        select.selectedIndex = 1;
+      } else if (translationDirection === "both") {
+        select.selectedIndex = 2;
+      }
+    }
+
+    {
+      const wordForm = document.getElementById(
+        "word_form",
+      )! as HTMLSelectElement;
+      const wordFormValue = DictionarySettings.getWordForm();
+      if (wordFormValue === "singular") {
+        wordForm.selectedIndex = 0;
+      } else if (wordFormValue === "plural") {
+        wordForm.selectedIndex = 1;
+      } else if (wordFormValue === "both") {
+        wordForm.selectedIndex = 2;
+      }
+    }
+
+    {
+      const type = document.getElementById("type")! as HTMLSelectElement;
+      const typeValue = DictionarySettings.getType();
+      if (typeValue === "select") {
+        type.selectedIndex = 0;
+      } else if (typeValue === "input") {
+        type.selectedIndex = 1;
+      } else if (typeValue === "both") {
+        type.selectedIndex = 2;
+      }
+    }
+
+    const saveButton = document.getElementById("save")!;
+    saveButton.addEventListener("click", () => {
+      const translationDirection = document.getElementById(
+        "translation_direction",
+      )! as HTMLSelectElement;
+      const wordForm = document.getElementById(
+        "word_form",
+      )! as HTMLSelectElement;
+      const type = document.getElementById("type")! as HTMLSelectElement;
+
+      DictionarySettings.setTranslationDirection(
+        translationDirection.value as DictionarySettings["translation_direction"],
+      );
+      DictionarySettings.setWordForm(
+        wordForm.value as DictionarySettings["word_form"],
+      );
+      DictionarySettings.setType(type.value as DictionarySettings["type"]);
+      DictionarySettings.save();
+    });
+  });
+</script>

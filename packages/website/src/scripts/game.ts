@@ -1,3 +1,4 @@
+import { DictionarySettings } from "./settings";
 import {
   select_random_word,
   reset_buttons,
@@ -14,6 +15,8 @@ let give_word_again = false;
 document.addEventListener("astro:page-load", () => {
   const url = new URL(window.location.href);
   if (!url.pathname.includes("lektion")) return;
+
+  DictionarySettings.load();
 
   window.words = [...dictionary];
   update_estimated_count();
@@ -75,6 +78,13 @@ let same_type = 0;
 
 function select() {
   const random = Math.floor(Math.random() * 100) % 2;
+  if (DictionarySettings.getTranslationDirection() === "sk->de") {
+    select_sk2de();
+    return;
+  } else if (DictionarySettings.getTranslationDirection() === "de->sk") {
+    select_de2sk();
+    return;
+  }
 
   if (same_type >= 3) {
     if (last_type === 0) select_sk2de();
@@ -98,14 +108,13 @@ function select_de2sk() {
 
   const { options, correct } = select_random_word();
 
+  document.getElementById("word")!.innerText = correct.word;
+
   for (const option of options) {
     const button = document.getElementById(
       `option-${options.indexOf(option) + 1}`,
     )!;
-    button.innerText =
-      typeof option.translation === "string"
-        ? option.translation
-        : option.translation.singular;
+    button.innerText = option.translation;
 
     if (option.word === correct.word) {
       button.setAttribute("data-correct", "true");
@@ -126,10 +135,7 @@ function select_sk2de() {
 
   const { options, correct } = select_random_word();
 
-  document.getElementById("word")!.innerText =
-    typeof correct.translation === "string"
-      ? correct.translation
-      : correct.translation.singular;
+  document.getElementById("word")!.innerText = correct.translation;
 
   for (const option of options) {
     const button = document.getElementById(

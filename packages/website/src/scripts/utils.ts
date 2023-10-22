@@ -1,3 +1,5 @@
+import { DictionarySettings } from "./settings";
+
 export function reset_buttons() {
   document
     .querySelectorAll("#option-1, #option-2, #option-3, #option-4")
@@ -36,7 +38,30 @@ export function update_estimated_count() {
   ).toFixed(2)}%)`;
 }
 
-export function select_random_word() {
+interface SpecializedWord {
+  word: string;
+  translation: string;
+}
+
+export function select_random_word(): {
+  options: SpecializedWord[];
+  correct: SpecializedWord;
+} {
+  if (DictionarySettings.getWordForm() === "both") {
+    const random = Math.floor(Math.random() * 100) % 2;
+    if (random === 0) {
+      return select_word_singular();
+    } else {
+      return select_word_plural();
+    }
+  } else if (DictionarySettings.getWordForm() === "singular") {
+    return select_word_singular();
+  }
+
+  return select_word_plural();
+}
+
+function select_word_singular() {
   const set: Set<Word> = new Set();
   while (set.size < 3) {
     set.add(dictionary[Math.floor(Math.random() * 100) % dictionary.length]!);
@@ -54,7 +79,71 @@ export function select_random_word() {
   options = Array.from(set);
   options.sort(() => Math.random() - 0.5);
 
-  document.getElementById("word")!.innerText = correct.word;
+  return {
+    options: options.map((o) => ({
+      word: o.word,
+      translation:
+        typeof o.translation === "object"
+          ? o.translation.singular
+          : o.translation,
+    })),
+    correct: {
+      word: correct.word,
+      translation:
+        typeof correct.translation === "object"
+          ? correct.translation.singular
+          : correct.translation,
+    },
+  };
+}
 
-  return { options, correct };
+function select_word_plural() {
+  const copied_words = words.filter((word) => {
+    return typeof word.translation === "object" && word.plural !== undefined;
+  });
+
+  const set: Set<Word> = new Set();
+  while (set.size < 2) {
+    set.add(dictionary[Math.floor(Math.random() * 100) % dictionary.length]!);
+  }
+
+  let options: Word[] = Array.from(set);
+
+  let correct: Word =
+    copied_words[Math.floor(Math.random() * 100) % copied_words.length]!;
+  while (options.some((option) => option.plural === correct.plural)) {
+    correct =
+      copied_words[Math.floor(Math.random() * 100) % copied_words.length]!;
+  }
+
+  set.add(correct);
+
+  options = Array.from(set);
+  options.sort(() => Math.random() - 0.5);
+
+  return {
+    options: [
+      ...options.map((o) => ({
+        word: o.plural!,
+        translation:
+          typeof o.translation === "object"
+            ? o.translation.plural
+            : o.translation,
+      })),
+      {
+        word: correct.word,
+        translation:
+          typeof correct.translation === "object"
+            ? correct.translation.singular
+            : correct.translation,
+      },
+    ],
+    correct: {
+      word: correct.plural!,
+      translation:
+        typeof correct.translation === "object"
+          ? correct.translation.plural
+          : correct.translation,
+    },
+  };
 }
