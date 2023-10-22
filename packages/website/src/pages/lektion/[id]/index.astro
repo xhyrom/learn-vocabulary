@@ -5,7 +5,6 @@ import Layout from "../../../layouts/Layout.astro";
 
 export async function getStaticPaths() {
   const dictionary = await getCollection("dictionary");
-  console.log(dictionary);
 
   return dictionary.map((entry) => {
     return {
@@ -40,10 +39,12 @@ const { words } = Astro.props;
 
 <Layout title="Sprachspaß">
   <main class="h-full overflow-hidden pb-4 text-white">
-    <div class="flex h-full flex-col items-center justify-center gap-y-6">
-      <h1 class="text-white text-6xl font-bold mb-5" id="word">Vokabel</h1>
+    <div
+      class="flex h-full flex-col text-center items-center justify-center gap-y-6"
+    >
+      <h1 class="text-6xl font-bold mb-5" id="word">Vokabel</h1>
 
-      <div class="flex flex-wrap justify-around gap-6">
+      <div class="flex flex-wrap justify-center gap-6">
         <Button id="option-1">1</Button>
         <Button id="option-2">2</Button>
         <Button id="option-3">3</Button>
