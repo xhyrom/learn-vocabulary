@@ -1,33 +1,44 @@
 ---
+import type { Word } from "../../../env";
 import Layout from "../../../layouts/Layout.astro";
 import Lection from "../../../components/lection/Lection.tsx";
-import { type CollectionEntry, getCollection } from "astro:content";
+import { getCollection } from "astro:content";
 import Container from "../../../components/Container.astro";
 
-export async function getStaticPaths() {
-  const dictionary = await getCollection("direkt");
+import { kebabCaseToTitleCase } from "../../../lib/util";
 
-  return dictionary.map((entry) => {
-    return {
-      params: {
-        book: entry.collection,
-        lection: entry.id,
-      },
-      props: {
-        data: entry.data as CollectionEntry<"direkt">,
-      },
-    };
-  });
+export async function getStaticPaths() {
+  const dictionary = await getCollection("direkt-interaktiv-1");
+
+  return dictionary
+    .sort((a, b) => {
+      const aId = parseInt(a.id);
+      const bId = parseInt(b.id);
+      return aId - bId;
+    })
+    .map((entry) => {
+      return {
+        params: {
+          book: entry.collection,
+          lection: entry.id,
+        },
+        props: {
+          title: kebabCaseToTitleCase(entry.collection),
+          data: entry.data,
+        },
+      };
+    });
 }
 
 interface Props {
-  data: CollectionEntry<"direkt">;
+  title: string;
+  data: Word[];
 }
 
-const { data } = Astro.props;
+const { title, data } = Astro.props;
 ---
 
-<Layout title="lol">
+<Layout title={title}>
   <main class="h-full pb-4 text-white">
     <div
       class="flex h-full flex-col text-center items-center justify-center gap-y-6"

@@ -1,13 +1,62 @@
 ---
+import { getCollection } from "astro:content";
+import Container from "../../components/Container.astro";
+import Layout from "../../layouts/Layout.astro";
+import { kebabCaseToTitleCase } from "../../lib/util";
+import Card from "../../components/Card.astro";
+
 export async function getStaticPaths() {
-  return ["direkt"].map((entry) => {
-    return {
+  const paths = [];
+
+  for (const book of ["direkt-interaktiv-1"]) {
+    const collection = await getCollection(book);
+
+    paths.push({
       params: {
-        book: entry,
+        book: book,
       },
-    };
-  });
+      props: {
+        title: kebabCaseToTitleCase(book),
+        lections: collection.map((l) => ({
+          id: l.id,
+          words: l.data.length,
+        })),
+      },
+    });
+  }
+
+  return paths;
 }
+
+interface Props {
+  title: string;
+  lections: {
+    id: string;
+    words: number;
+  }[];
+}
+
+const { title, lections } = Astro.props;
 ---
 
-hm
+<Layout title={title}>
+  <h1 class="w-full py-32 text-center text-5xl font-extrabold text-white">
+    {title}
+  </h1>
+
+  <Container class="pb-4">
+    <main class="text-white">
+      <section class="flex flex-wrap justify-center gap-12 pb-4">
+        {
+          lections.map((lection) => (
+            <Card
+              title={lection.id}
+              body={`${lection.words} words`}
+              href={`${Astro.url}/${lection.id}`}
+            />
+          ))
+        }
+      </section>
+    </main>
+  </Container>
+</Layout>

@@ -27,7 +27,9 @@ listItems.forEach((item) => {
     plural: plural,
     articles,
     translation: {
-      singular: translation,
+      singular: translation.includes(",")
+        ? [translation, ...translation.split(", ")]
+        : [translation],
       plural: null,
     },
   });

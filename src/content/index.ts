@@ -16,5 +16,5 @@ const direktCollection = defineCollection({
 });
 
 export const collections = {
-  direkt: direktCollection,
+  "direkt-interaktiv-1": direktCollection,
 };

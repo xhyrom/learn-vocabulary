@@ -1,12 +1,13 @@
 import type { Word } from "../../env";
 import { ButtonSelectForm } from "./forms/ButtonSelectForm";
-import { useState, useEffect, type Dispatch } from "preact/hooks";
+import { useState, useEffect } from "preact/hooks";
 import { InputForm } from "./forms/InputForm";
 import { addStreak, setStreak } from "../../lib/streak";
 import { updateEstimatedCount } from "../../lib/count";
 
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import { getInputType, getStrategy, Settings } from "./Settings";
 
 interface Props {
   data: Word[];
@@ -50,24 +51,32 @@ export default function Lection({ data }: Props) {
     setCorrectCount((prev) => prev + 1);
 
     if (correctCount + 1 === currentChunk.length) {
+      toast.success(`You've completed chunk ${currentChunkIndex + 1}! 🎉`);
+
       if (currentChunkIndex + 1 < chunks.length) {
         setCurrentChunkIndex((prev) => prev + 1);
         setCorrectCount(0);
       } else {
-        // All chunks completed
-        alert("Congratulations! You've completed all chunks.");
+        toast.success("You have completed the lection!");
       }
     }
 
     addStreak(1);
   }
 
-  function handleIncorrect(word: Word) {
+  function handleIncorrect(word: Word, strategy: string) {
     navigator.vibrate(200);
 
-    toast.error(
-      `The translation of ${word.singular} is ${word.translation.singular.join(" or ")}`,
-    );
+    if (strategy === "de-sk") {
+      toast.error(
+        `The translation of ${word.singular} is ${word.translation.singular.join(" or ")}`,
+      );
+    } else {
+      toast.error(
+        `The translation of ${word.translation.singular.join(" or ")} is ${word.articles.join("/") + " "}${word.singular}`,
+      );
+    }
+
     setCorrectCount(0);
 
     setStreak(0);
@@ -76,36 +85,50 @@ export default function Lection({ data }: Props) {
   const mainWord = currentChunk[correctCount]!;
   const others = getRandomOthers(data, [mainWord], 4);
 
-  const isButtonSelectForm = Math.random() < 0.5;
+  let inputType = getInputType();
+  inputType =
+    inputType === "both"
+      ? Math.random() < 0.5
+        ? "buttons"
+        : "inputs"
+      : inputType;
+
+  let strategy = getStrategy();
+  strategy =
+    strategy === "both" ? (Math.random() < 0.5 ? "sk-de" : "de-sk") : strategy;
 
   updateEstimatedCount(correctCount, currentChunkIndex + 1, chunks);
 
   return (
     <>
-      <ToastContainer position="bottom-right" autoClose={2500} />
+      <ToastContainer position="bottom-right" theme="dark" autoClose={5000} />
       <h1 className="text-4xl font-bold mb-5">
-        {mainWord.articles.length > 0 ? mainWord.articles.join("/") + " " : ""}
-        {mainWord.singular}
+        {strategy === "sk-de"
+          ? mainWord.translation.singular[0]
+          : `${mainWord.articles.length > 0 ? mainWord.articles.join("/") + " " : ""}
+        ${mainWord.singular}`}
       </h1>
 
-      {isButtonSelectForm ? (
+      {inputType === "buttons" ? (
         <ButtonSelectForm
           key={mainWord.singular}
           main={mainWord}
           others={others}
-          strategy="de-sk"
+          strategy={strategy}
           onCorrect={handleCorrect}
-          onIncorrect={() => handleIncorrect(mainWord)}
+          onIncorrect={() => handleIncorrect(mainWord, strategy)}
         />
       ) : (
         <InputForm
           key={mainWord.singular}
           main={mainWord}
-          strategy="de-sk"
+          strategy={strategy}
           onCorrect={handleCorrect}
-          onIncorrect={() => handleIncorrect(mainWord)}
+          onIncorrect={() => handleIncorrect(mainWord, strategy)}
         />
       )}
+
+      <Settings />
     </>
   );
 }

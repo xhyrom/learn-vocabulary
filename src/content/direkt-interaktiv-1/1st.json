@@ -1,738 +1,915 @@
 [
   {
     "singular": "Abend",
+    "note": null,
     "plural": "-e",
     "articles": ["der"],
     "translation": { "singular": ["večer"], "plural": null }
   },
   {
     "singular": "aber",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ale"], "plural": null }
   },
   {
     "singular": "ạcht",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["8"], "plural": null }
   },
   {
     "singular": "ạchtzehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["18"], "plural": null }
   },
   {
     "singular": "ạlt",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["starý"], "plural": null }
   },
   {
     "singular": "aber",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ale"], "plural": null }
   },
   {
     "singular": "Ạlter",
+    "note": null,
     "plural": "-",
     "articles": ["das"],
     "translation": { "singular": ["vek"], "plural": null }
   },
   {
     "singular": "Auf Wiedersehen!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Dovidenia!"], "plural": null }
   },
   {
     "singular": "auch",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["tiež, aj", "tiež", "aj"], "plural": null }
   },
   {
     "singular": "aus",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["z"], "plural": null }
   },
   {
     "singular": "bạld",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["skoro"], "plural": null }
   },
   {
     "singular": "Band",
+    "note": null,
     "plural": "-s",
     "articles": ["die"],
-    "translation": { "singular": ["(hudobná) skupina", "hudobná skupina"], "plural": null }
+    "translation": {
+      "singular": ["(hudobná) skupina", "hudobná skupina"],
+      "plural": null
+    }
   },
   {
     "singular": "beste Freundin",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["najlepšia kamarátka"], "plural": null }
   },
   {
     "singular": "Bis bald!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Do skorého videnia!"], "plural": null }
   },
   {
     "singular": "bịs",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["do"], "plural": null }
   },
   {
     "singular": "Bis zum nächsten Mal!",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": {
-      "singular": ["Do skorého stretnutia!"],
-      "plural": null
-    }
+    "translation": { "singular": ["Do skorého stretnutia!"], "plural": null }
   },
   {
     "singular": "Computerspiel",
+    "note": null,
     "plural": "-e",
     "articles": ["das"],
     "translation": { "singular": ["počítačová hra"], "plural": null }
   },
   {
     "singular": "drei",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["3"], "plural": null }
   },
   {
     "singular": "dreizehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["13"], "plural": null }
   },
   {
     "singular": "du",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ty"], "plural": null }
   },
   {
     "singular": "Einen schönen Tag noch!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Pekný zvyšok dňa!"], "plural": null }
   },
   {
     "singular": "eins",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["1"], "plural": null }
   },
   {
     "singular": "ẹlf",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["11"], "plural": null }
   },
   {
     "singular": "E-Mail",
+    "note": null,
     "plural": "-s",
     "articles": ["die", "das"],
     "translation": { "singular": ["e-mail"], "plural": null }
   },
   {
     "singular": "Ẹnglisch",
+    "note": null,
     "plural": "",
     "articles": ["das"],
     "translation": { "singular": ["angličtina"], "plural": null }
   },
   {
     "singular": "Er hört gern Musik.",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["Rád počúva hudbu."], "plural": null }
+    "translation": {
+      "singular": ["Rád počúva hudbu.", "On rád počúva hudbu."],
+      "plural": null
+    }
   },
   {
     "singular": "Er ist Fußballfanatiker.",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["Je futbalový fanatik."], "plural": null }
+    "translation": {
+      "singular": ["Je futbalový fanatik.", "On je futbalový fanatik."],
+      "plural": null
+    }
   },
   {
     "singular": "Er kommt aus Wien.",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Pochádza z Viedne."], "plural": null }
   },
   {
     "singular": "ẹr",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["on"], "plural": null }
   },
   {
     "singular": "Fạn",
+    "note": null,
     "plural": "-s",
     "articles": ["der"],
     "translation": { "singular": ["fanúšik"], "plural": null }
   },
   {
     "singular": "Flöte",
+    "note": null,
     "plural": "-n",
     "articles": ["die"],
     "translation": { "singular": ["flauta"], "plural": null }
   },
   {
     "singular": "Französisch",
+    "note": null,
     "plural": "",
     "articles": ["das"],
     "translation": { "singular": ["francúzština"], "plural": null }
   },
   {
     "singular": "Frau",
+    "note": null,
     "plural": "-en",
     "articles": ["die"],
     "translation": { "singular": ["pani"], "plural": null }
   },
   {
     "singular": "Freund",
+    "note": null,
     "plural": "-e",
     "articles": ["der"],
     "translation": { "singular": ["kamarát", "priateľ"], "plural": null }
   },
   {
     "singular": "Freundin",
+    "note": null,
     "plural": "-nen",
     "articles": ["die"],
     "translation": { "singular": ["kamarátka", "priateľka"], "plural": null }
   },
   {
     "singular": "fụ̈nf",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["5"], "plural": null }
   },
   {
     "singular": "fụ̈nfzehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["15"], "plural": null }
   },
   {
     "singular": "Fußball",
+    "note": null,
     "plural": "",
     "articles": ["der"],
     "translation": { "singular": ["futbal"], "plural": null }
   },
   {
-    "singular": "gehen, er geht",
+    "singular": "gehen",
+    "note": " er geht",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ísť"], "plural": null }
   },
   {
     "singular": "gẹrn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["rád/a", "rád", "rada"], "plural": null }
   },
   {
     "singular": "Gitạrre",
+    "note": null,
     "plural": "-n",
     "articles": ["die"],
     "translation": { "singular": ["gitara"], "plural": null }
   },
   {
     "singular": "gut",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["dobrý"], "plural": null }
   },
   {
     "singular": "Guten Abend!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Dobrý večer!"], "plural": null }
   },
   {
     "singular": "Guten Morgen!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Dobré ráno!"], "plural": null }
   },
   {
     "singular": "Guten Tag!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Dobrý deň!"], "plural": null }
   },
   {
     "singular": "Hallo!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Ahoj!"], "plural": null }
   },
   {
     "singular": "Hạndy",
+    "note": null,
     "plural": "-s",
     "articles": ["das"],
     "translation": { "singular": ["mobil"], "plural": null }
   },
   {
-    "singular": "heißen, er heißt",
+    "singular": "heißen",
+    "note": " er heißt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["volať sa"], "plural": null }
   },
   {
     "singular": "Hẹrr",
+    "note": null,
     "plural": "-en",
     "articles": ["der"],
     "translation": { "singular": ["pán"], "plural": null }
   },
   {
     "singular": "Hị!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Ahoj!"], "plural": null }
   },
   {
     "singular": "Họbby",
+    "note": null,
     "plural": "-s",
     "articles": ["das"],
-    "translation": { "singular": ["hobby", "záľuba", "koníček"], "plural": null }
+    "translation": {
+      "singular": ["hobby", "záľuba", "koníček"],
+      "plural": null
+    }
   },
   {
-    "singular": "hören, er hört",
+    "singular": "hören",
+    "note": " er hört",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["počúvať"], "plural": null }
   },
   {
     "singular": "chạtten",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["chatovať"], "plural": null }
   },
   {
     "singular": "ihr",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["vy"], "plural": null }
   },
   {
     "singular": "Ich gehe gern auf Konzerte.",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["Rád/a chodím na koncerty.", "Rád chodím na koncerty.", "Rada chodím na koncerty."], "plural": null }
+    "translation": {
+      "singular": [
+        "Rád/a chodím na koncerty.",
+        "Rád chodím na koncerty.",
+        "Rada chodím na koncerty."
+      ],
+      "plural": null
+    }
   },
   {
     "singular": "Ich heiße Jens.",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Volám sa Jens."], "plural": null }
   },
   {
     "singular": "ich",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["já"], "plural": null }
   },
   {
     "singular": "Ich wohne in Bratislava.",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["Bývam v Bratislave.", "Ja bývam v Bratislave."], "plural": null }
+    "translation": {
+      "singular": ["Bývam v Bratislave.", "Ja bývam v Bratislave."],
+      "plural": null
+    }
   },
   {
-    "singular": "im Internet surfen, er surft im Internet",
+    "singular": "im Internet surfen",
+    "note": " er surft im Internet",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["surfovať na internete"], "plural": null }
   },
   {
     "singular": "immer",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["vždy", "stále"], "plural": null }
   },
   {
     "singular": "in der Nähe (von...)",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["neďaleko (čoho)"], "plural": null }
   },
   {
     "singular": "in",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["v"], "plural": null }
   },
   {
     "singular": "Instrumẹnt",
+    "note": null,
     "plural": "-e",
     "articles": ["das"],
-    "translation": { "singular": ["(hudobný) nástroj", "hudobný nástroj"], "plural": null }
+    "translation": {
+      "singular": ["(hudobný) nástroj", "hudobný nástroj"],
+      "plural": null
+    }
   },
   {
     "singular": "ja",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ano"], "plural": null }
   },
   {
     "singular": "Jahr",
+    "note": null,
     "plural": "-e",
     "articles": ["das"],
     "translation": { "singular": ["rok"], "plural": null }
   },
   {
     "singular": "kein/keine/kein",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["žiadny/žiadna/žiadne"], "plural": null }
   },
   {
     "singular": "Klavier",
+    "note": null,
     "plural": "-e",
     "articles": ["das"],
     "translation": { "singular": ["klavír"], "plural": null }
   },
   {
-    "singular": "kọmmen (aus), er kommt",
+    "singular": "kọmmen (aus)",
+    "note": " er kommt",
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["tu: pochádzať (z)", "pochádzať (z)"], "plural": null }
+    "translation": {
+      "singular": [
+        "tu: pochádzať (z)",
+        "pochádzať (z)",
+        "pochádzať z",
+        "pochádzať"
+      ],
+      "plural": null
+    }
   },
   {
     "singular": "Konzẹrt",
+    "note": null,
     "plural": "-e",
     "articles": ["das"],
     "translation": { "singular": ["koncert"], "plural": null }
   },
   {
-    "singular": "lẹrnen, er lernt",
+    "singular": "lẹrnen",
+    "note": " er lernt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["učiť sa"], "plural": null }
   },
   {
-    "singular": "liegen, er liegt",
+    "singular": "liegen",
+    "note": " er liegt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ležať"], "plural": null }
   },
   {
     "singular": "Mach´s gut!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Maj sa dobre!"], "plural": null }
   },
   {
-    "singular": "mạchen, er macht",
+    "singular": "mạchen",
+    "note": " er macht",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["robiť"], "plural": null }
   },
   {
     "singular": "Mọrgen",
+    "note": null,
     "plural": "",
     "articles": ["der"],
     "translation": { "singular": ["ráno"], "plural": null }
   },
   {
     "singular": "Museum",
+    "note": null,
     "plural": "Museen",
     "articles": ["das"],
     "translation": { "singular": ["múzeum"], "plural": null }
   },
   {
     "singular": "Nachname",
+    "note": null,
     "plural": "-n",
     "articles": ["der"],
     "translation": { "singular": ["priezvisko"], "plural": null }
   },
   {
     "singular": "Name",
+    "note": null,
     "plural": "-n",
     "articles": ["der"],
     "translation": { "singular": ["meno"], "plural": null }
   },
   {
     "singular": "nein",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["nie"], "plural": null }
   },
   {
     "singular": "neun",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["9"], "plural": null }
   },
   {
     "singular": "neunzehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["19"], "plural": null }
   },
   {
     "singular": "nicht weit von",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["neďaleko (koho, čoho)"], "plural": null }
+    "translation": {
+      "singular": [
+        "neďaleko (koho, čoho)",
+        "neďaleko",
+        "neďaleko (koho)",
+        "neďaleko (čoho)",
+        "neďaleko koho",
+        "neďaleko čoho"
+      ],
+      "plural": null
+    }
   },
   {
     "singular": "nụll",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["0"], "plural": null }
   },
   {
-    "singular": "reisen, er reist",
+    "singular": "reisen",
+    "note": " er reist",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["cestovať"], "plural": null }
   },
   {
     "singular": "sẹ̣chs",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["6"], "plural": null }
   },
   {
     "singular": "sẹchzehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["16"], "plural": null }
   },
   {
-    "singular": "sein, er ist",
+    "singular": "sein",
+    "note": " er ist",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["být"], "plural": null }
   },
   {
     "singular": "Servus!",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Ahoj!"], "plural": null }
   },
   {
     "singular": "schön",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["pekný"], "plural": null }
   },
   {
-    "singular": "schreiben, er schreibt",
+    "singular": "schreiben",
+    "note": " er schreibt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["písať"], "plural": null }
   },
   {
     "singular": "Schule",
+    "note": null,
     "plural": "-n",
     "articles": ["die"],
     "translation": { "singular": ["škola"], "plural": null }
   },
   {
     "singular": "Sie gehen ins Museum.",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Idú do múzea."], "plural": null }
   },
   {
     "singular": "sie",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ona", "oni"], "plural": null }
   },
   {
     "singular": "Sie spielt Gitarre.",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["(Ona) Hrá na gitare.", "Hrá na gitare.", "Ona hrá na gitare."], "plural": null }
+    "translation": {
+      "singular": [
+        "(Ona) Hrá na gitare.",
+        "Hrá na gitare.",
+        "Ona hrá na gitare."
+      ],
+      "plural": null
+    }
   },
   {
     "singular": "sieben",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["7"], "plural": null }
   },
   {
     "singular": "siebzehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["17"], "plural": null }
   },
   {
     "singular": "Spiel",
+    "note": null,
     "plural": "-e",
     "articles": ["das"],
     "translation": { "singular": ["hra"], "plural": null }
   },
   {
-    "singular": "spielen, er spielt",
+    "singular": "spielen",
+    "note": " er spielt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["hrať"], "plural": null }
   },
   {
     "singular": "Spọrt",
+    "note": null,
     "plural": "",
     "articles": ["der"],
     "translation": {
-      "singular": ["šport; telocvik, telesná výchova", "šport", "telocvik", "telesná výchova"],
+      "singular": [
+        "šport; telocvik, telesná výchova",
+        "šport",
+        "telocvik",
+        "telesná výchova"
+      ],
       "plural": null
     }
   },
   {
-    "singular": "Sport treiben, er treibt Sport",
+    "singular": "Sport treiben",
+    "note": " er treibt Sport",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["športovať"], "plural": null }
   },
   {
     "singular": "Squash",
+    "note": null,
     "plural": "",
     "articles": ["das"],
     "translation": { "singular": ["squash"], "plural": null }
   },
   {
     "singular": "Tag",
+    "note": null,
     "plural": "-e",
     "articles": ["der"],
     "translation": { "singular": ["deň"], "plural": null }
   },
   {
-    "singular": "tạnzen, er tanzt",
+    "singular": "tạnzen",
+    "note": " er tanzt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["tancovať"], "plural": null }
   },
   {
     "singular": "Tschüs!",
+    "note": null,
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["Ahoj! (pri lúčení)", "Ahoj!"], "plural": null }
+    "translation": {
+      "singular": ["Ahoj! (pri lúčení)", "Ahoj!"],
+      "plural": null
+    }
   },
   {
     "singular": "ụnd",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["a"], "plural": null }
   },
   {
     "singular": "vier",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["4"], "plural": null }
   },
   {
     "singular": "viẹrzehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["14"], "plural": null }
   },
   {
     "singular": "Vorname",
+    "note": null,
     "plural": "-n",
     "articles": ["der"],
     "translation": { "singular": ["krstné meno"], "plural": null }
   },
   {
     "singular": "Wer bist du?",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Kto si?"], "plural": null }
   },
   {
     "singular": "wer",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["kto"], "plural": null }
   },
   {
     "singular": "Wie heißt du?",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Ako sa voláš?"], "plural": null }
   },
   {
     "singular": "wie",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["ako"], "plural": null }
   },
   {
     "singular": "Wiedersehen",
+    "note": null,
     "plural": "-",
     "articles": ["das"],
     "translation": { "singular": ["znovustretnutie"], "plural": null }
   },
   {
     "singular": "wir",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["my"], "plural": null }
   },
   {
     "singular": "wo",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["kde"], "plural": null }
   },
   {
     "singular": "Wo wohnst du?",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["Kde bývaš?"], "plural": null }
   },
   {
-    "singular": "wohnen, er wohnt",
+    "singular": "wohnen",
+    "note": " er wohnt",
     "plural": "",
     "articles": [],
     "translation": { "singular": ["bývať"], "plural": null }
   },
   {
     "singular": "Wohnort",
+    "note": null,
     "plural": "-e",
     "articles": ["der"],
     "translation": { "singular": ["bydlisko"], "plural": null }
   },
   {
     "singular": "Yoga",
+    "note": null,
     "plural": "",
     "articles": ["das", "der"],
     "translation": { "singular": ["joga"], "plural": null }
   },
   {
     "singular": "zehn",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["10"], "plural": null }
   },
   {
     "singular": "zwạnzig",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["20"], "plural": null }
   },
   {
     "singular": "zwei",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["2"], "plural": null }
   },
   {
     "singular": "zwölf",
+    "note": null,
     "plural": "",
     "articles": [],
     "translation": { "singular": ["12"], "plural": null }

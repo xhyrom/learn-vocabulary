@@ -40,7 +40,9 @@ export function ButtonSelectForm({
           validate(e, { main, others, strategy, onCorrect, onIncorrect })
         }
       >
-        {strategy === "sk-de" ? word.singular! : word.translation.singular[0]!}
+        {strategy === "sk-de"
+          ? `${word.articles.join("/") + " "}${word.singular!}`
+          : word.translation.singular[0]!}
       </Button>
     ));
 
@@ -56,7 +58,13 @@ function validate(
 
   switch (props.strategy) {
     case "sk-de":
-      if (event.currentTarget.textContent === props.main.singular) {
+      if (
+        (props.main.articles.length > 0 &&
+          props.main.articles
+            .map((article) => `${article} ${props.main.singular}`)
+            .some((w) => w === event.currentTarget.textContent?.trim())) ||
+        event.currentTarget.textContent?.trim() === props.main.singular.trim()
+      ) {
         props.onCorrect();
 
         event.currentTarget.classList.add("bg-green-500");
@@ -71,7 +79,7 @@ function validate(
     case "de-sk":
       if (
         props.main.translation.singular.some(
-          (t) => t === event.currentTarget.textContent,
+          (t) => t === event.currentTarget.textContent?.trim(),
         )
       ) {
         props.onCorrect();

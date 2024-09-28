@@ -1,0 +1,568 @@
+[
+  {
+    "singular": "Abonnement",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["predplatné"], "plural": null }
+  },
+  {
+    "singular": "am Ende des Schuljahres",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["na konci školského roka"], "plural": null }
+  },
+  {
+    "singular": "Argentinien",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Argentína"], "plural": null }
+  },
+  {
+    "singular": "Ạrmband",
+    "plural": "Armbänder",
+    "articles": ["das"],
+    "translation": { "singular": ["náramok"], "plural": null }
+  },
+  {
+    "singular": "arrogạnt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["arogantný"], "plural": null }
+  },
+  {
+    "singular": "Aussehen",
+    "note": " (j. č.)",
+    "plural": "",
+    "articles": ["das"],
+    "translation": {
+      "singular": ["vzhľad, zovňajšok", "vzhľad", "zovňajšok"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "besịchtigen",
+    "note": ", er besichtigt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["prehliadnuť si"], "plural": null }
+  },
+  {
+    "singular": "Beziehung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["vzťah"], "plural": null }
+  },
+  {
+    "singular": "Blume",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["kvet"], "plural": null }
+  },
+  {
+    "singular": "böse",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["zlý"], "plural": null }
+  },
+  {
+    "singular": "Das gefällt mir nicht.",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["To sa mi nepáči."], "plural": null }
+  },
+  {
+    "singular": "dịck",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["tučný"], "plural": null }
+  },
+  {
+    "singular": "doof",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["hlúpy, sprostý", "hlúpy", "sprostý"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ẹcht",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["pravý, skutočný, naozaj", "pravý", "skutočný", "naozaj"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Eigenschaft",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["vlastnosť"], "plural": null }
+  },
+  {
+    "singular": "einmal",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["raz"], "plural": null }
+  },
+  {
+    "singular": "fair",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["fér, slušný, čestný", "fér", "slušný", "čestný"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Fanatiker",
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["fanatik"], "plural": null }
+  },
+  {
+    "singular": "Fotografieren",
+    "note": " (j. č.)",
+    "plural": "",
+    "articles": ["das"],
+    "translation": { "singular": ["fotografovanie"], "plural": null }
+  },
+  {
+    "singular": "frẹch",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["drzý"], "plural": null }
+  },
+  {
+    "singular": "Freundesliste",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["zoznam priateľov"], "plural": null }
+  },
+  {
+    "singular": "gefạllen",
+    "note": ", er gefällt j-m (3. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["páčiť sa"], "plural": null }
+  },
+  {
+    "singular": "gehören",
+    "note": ", er gehört j-m (3. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["patriť"], "plural": null }
+  },
+  {
+    "singular": "Gutschein",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": { "singular": ["poukážka na nákup tovaru"], "plural": null }
+  },
+  {
+    "singular": "Hạndyfolie",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["obal na mobilný telefón"], "plural": null }
+  },
+  {
+    "singular": "hạ̈sslich",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["škaredý"], "plural": null }
+  },
+  {
+    "singular": "hẹlfen",
+    "note": ", er hilft j-m (3. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "pomáhať, pomôcť (niekomu)",
+        "pomáhať",
+        "pomôcť (niekomu)",
+        "pomôcť"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "hịlfsbereit",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["ochotný pomôcť"], "plural": null }
+  },
+  {
+    "singular": "hụ̈bsch",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["pekný, pôvabný", "pekný", "pôvabný"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "humorvoll",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vtipný"], "plural": null }
+  },
+  {
+    "singular": "Charạkter",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": { "singular": ["charakter"], "plural": null }
+  },
+  {
+    "singular": "insgesạmt",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["spolu, dovedna", "spolu", "dovedna"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Kalẹnder",
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["kalendár"], "plural": null }
+  },
+  {
+    "singular": "Klamọtte",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["oblečenie, háby", "oblečenie", "háby"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "klein",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["malý"], "plural": null }
+  },
+  {
+    "singular": "klịcken",
+    "note": ", er klickt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["kliknúť"], "plural": null }
+  },
+  {
+    "singular": "Kosmetik",
+    "note": " (j. č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["kozmetika"], "plural": null }
+  },
+  {
+    "singular": "Kosmetik-Set",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["kozmetický balíček"], "plural": null }
+  },
+  {
+    "singular": "Ladegerät",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["nabíjačka"], "plural": null }
+  },
+  {
+    "singular": "lạchen",
+    "note": ", er lacht",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["smiať sa"], "plural": null }
+  },
+  {
+    "singular": "laufen",
+    "note": ", er läuft",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["behať, utekať", "behať", "utekať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Lautsprecher",
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["reproduktor"], "plural": null }
+  },
+  {
+    "singular": "leer",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["prázdny"], "plural": null }
+  },
+  {
+    "singular": "lieben",
+    "note": ", er liebt",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["milovať, mať rád", "milovať", "mať rád"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "lụstig",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["veselý, zábavný", "veselý", "zábavný"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Märchen",
+    "plural": "-",
+    "articles": ["das"],
+    "translation": { "singular": ["rozprávka"], "plural": null }
+  },
+  {
+    "singular": "Medizin",
+    "note": " (j. č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["medicína"], "plural": null }
+  },
+  {
+    "singular": "Mode",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["móda"], "plural": null }
+  },
+  {
+    "singular": "Mụttertag",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": { "singular": ["Deň matiek"], "plural": null }
+  },
+  {
+    "singular": "originẹll",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["originálny, osobitý", "originálny", "osobitý"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "pẹr",
+    "note": " + podst. jm.",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["čím, prostredníctvom čoho", "čím", "prostredníctvom čoho"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "per E-Mail",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "e-mailom",
+        "prostredníctvom e-mailu",
+        "emailom",
+        "prostredníctvom emailu"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Persönlichkeit",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["osobnosť"], "plural": null }
+  },
+  {
+    "singular": "Problem",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["problém"], "plural": null }
+  },
+  {
+    "singular": "Prozẹnt",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["percento"], "plural": null }
+  },
+  {
+    "singular": "Rad fahren",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "bicyklovať sa, jazdiť na bicykli",
+        "bicyklovať sa",
+        "jazdiť na bicykli"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Radfahren",
+    "plural": "",
+    "articles": ["das"],
+    "translation": {
+      "singular": ["bicyklovanie (cyklistika)", "bicyklovanie", "cyklistika"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Reisen",
+    "note": " (j. č.)",
+    "plural": "",
+    "articles": ["das"],
+    "translation": { "singular": ["cestovanie"], "plural": null }
+  },
+  {
+    "singular": "Sẹlfie-Stange",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["tyč na selfie"], "plural": null }
+  },
+  {
+    "singular": "schẹnken",
+    "note": ", er schenkt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["darovať"], "plural": null }
+  },
+  {
+    "singular": "schịcken",
+    "note": ", er schickt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["poslať"], "plural": null }
+  },
+  {
+    "singular": "schlạnk",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["štíhly"], "plural": null }
+  },
+  {
+    "singular": "Schuljahr",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["školský rok"], "plural": null }
+  },
+  {
+    "singular": "Sofọrtbildkamera",
+    "plural": "-s",
+    "articles": ["die"],
+    "translation": { "singular": ["polaroid"], "plural": null }
+  },
+  {
+    "singular": "Spielkarte",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["hracia karta"], "plural": null }
+  },
+  {
+    "singular": "strẹng",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["prísny"], "plural": null }
+  },
+  {
+    "singular": "Süßigkeit",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["sladkosť, maškrta", "sladkosť", "maškrta"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "sympathisch",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["sympatický"], "plural": null }
+  },
+  {
+    "singular": "Tịcket",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["vstupenka"], "plural": null }
+  },
+  {
+    "singular": "T-Shirt",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["tričko"], "plural": null }
+  },
+  {
+    "singular": "ụnfair",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["neférový, nečestný", "neférový", "nečestný"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ụnsympathisch",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["nesympatický"], "plural": null }
+  },
+  {
+    "singular": "ụnzufrieden",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["nespokojný"], "plural": null }
+  },
+  {
+    "singular": "verschieden",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "rozdielny, rozmanitý, rôzny",
+        "rozdielny",
+        "rozmanitý",
+        "rôzny"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Wạld",
+    "plural": "Wälder",
+    "articles": ["der"],
+    "translation": { "singular": ["les"], "plural": null }
+  },
+  {
+    "singular": "Weihnachten",
+    "plural": "",
+    "articles": ["das"],
+    "translation": { "singular": ["Vianoce"], "plural": null }
+  },
+  {
+    "singular": "Wịtz",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": { "singular": ["vtip"], "plural": null }
+  },
+  {
+    "singular": "wịtzig",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vtipný"], "plural": null }
+  },
+  {
+    "singular": "Zeitschrift",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["časopis"], "plural": null }
+  }
+]

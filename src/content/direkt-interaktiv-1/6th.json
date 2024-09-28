@@ -1,0 +1,1026 @@
+[
+  {
+    "singular": "ạb|holen",
+    "note": ", er holt ab j-n (4. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "vyzdvihnúť, ísť po (niekoho)",
+        "vyzdvihnúť",
+        "ísť po (niekoho)"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "am liebsten",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["najradšej"], "plural": null }
+  },
+  {
+    "singular": "am Nachmittag",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["popoludní (kedy?)", "popoludní"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "am Vormittag",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["dopoludnia (kedy?)", "dopoludnia"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ạn|fangen",
+    "note": ", er fängt an",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["začať, začínať", "začať", "začínať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ạn|machen",
+    "note": ", er macht an",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["zapnúť, pustiť", "zapnúť", "pustiť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ạn|rufen",
+    "note": " er ruft an j-n (4. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["(za)volať", "zavolať", "volať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "auf|räumen",
+    "note": " er räumt auf",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["upratať, upratovať", "upratať", "upratovať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "auf|stehen",
+    "note": " er steht auf",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["vstať, vstávať", "vstať", "vstávať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "auf|wachen",
+    "note": " er wacht auf",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["prebudiť sa, zobudiť sa", "prebudiť sa", "zobudiť sa"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "aus|leeren",
+    "note": " er leert aus",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["vysypať, vyprázdniť", "vysypať", "vyprázdniť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "aus|räumen",
+    "note": " er räumt aus",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["vyprázdniť, odstrániť", "vyprázdniť", "odstrániť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "aus|sehen",
+    "note": " er sieht aus",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vyzerať"], "plural": null }
+  },
+  {
+    "singular": "aus|schalten",
+    "note": " er schaltet aus etw. (4. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vypnúť"], "plural": null }
+  },
+  {
+    "singular": "Bad",
+    "note": null,
+    "plural": "Bäder",
+    "articles": ["das"],
+    "translation": { "singular": ["kúpeľňa"], "plural": null }
+  },
+  {
+    "singular": "Badezimmer",
+    "note": null,
+    "plural": "-",
+    "articles": ["das"],
+    "translation": { "singular": ["kúpeľňa"], "plural": null }
+  },
+  {
+    "singular": "Berufsschule",
+    "note": null,
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["(odborná) učňovská škola", "učňovská škola"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Bẹtt",
+    "note": null,
+    "plural": "-en",
+    "articles": ["das"],
+    "translation": { "singular": ["posteľ"], "plural": null }
+  },
+  {
+    "singular": "Bịld",
+    "note": null,
+    "plural": "-er",
+    "articles": ["das"],
+    "translation": { "singular": ["obraz"], "plural": null }
+  },
+  {
+    "singular": "Blọgger",
+    "note": null,
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["bloger"], "plural": null }
+  },
+  {
+    "singular": "dabei",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["pri tom, pritom", "pri tom", "pritom"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Der Unterricht ist um 13 Uhr zu Ende.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Vyučovanie končí o 13.00."], "plural": null }
+  },
+  {
+    "singular": "",
+    "note": null,
+    "plural": "",
+    "articles": ["dienstags"],
+    "translation": { "singular": ["každý utorok"], "plural": null }
+  },
+  {
+    "singular": "dọnnerstags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každý štvrtok"], "plural": null }
+  },
+  {
+    "singular": "drehen",
+    "note": " er dreht",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["natáčať, točiť", "natáčať", "točiť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "dụmm",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["hlúpy"], "plural": null }
+  },
+  {
+    "singular": "dụrch",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["cez, skrz", "cez", "skrz"], "plural": null }
+  },
+  {
+    "singular": "dụschen",
+    "note": " er duscht",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["sprchovať (sa)", "sprchovať", "sprchovať sa"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Ẹcke",
+    "note": null,
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["roh"], "plural": null }
+  },
+  {
+    "singular": "ein|kaufen",
+    "note": " er kauft ein",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["nakupovať, nakúpiť", "nakupovať", "nakúpiť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ein|schalten",
+    "note": " er schaltet ein etw. (4. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["zapnúť"], "plural": null }
+  },
+  {
+    "singular": "ein|schlafen",
+    "note": " er schläft ein",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["zaspať"], "plural": null }
+  },
+  {
+    "singular": "Ẹnde",
+    "note": null,
+    "plural": "-n",
+    "articles": ["das"],
+    "translation": { "singular": ["koniec"], "plural": null }
+  },
+  {
+    "singular": "ẹndlich",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["konečne"], "plural": null }
+  },
+  {
+    "singular": "entdẹcken",
+    "note": " er entdeckt",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["objaviť, nájsť", "objaviť", "nájsť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "(sich) entschụldigen",
+    "note": " er entschuldigt (sich)",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["ospravedlniť (sa)", "ospravedlniť", "ospravedlniť sa"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Er sieht oft fern.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Pozerá často televíziu."], "plural": null }
+  },
+  {
+    "singular": "Er sieht super aus.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Vyzerá super."], "plural": null }
+  },
+  {
+    "singular": "erzählen",
+    "note": " er erzählt über + 4. p.  von + 3. p.",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["rozprávať"], "plural": null }
+  },
+  {
+    "singular": "Es ist Viertel vor acht.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Je trištvrte na osem."], "plural": null }
+  },
+  {
+    "singular": "Fạchschule",
+    "note": null,
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["odborná škola"], "plural": null }
+  },
+  {
+    "singular": "fẹrn|sehen",
+    "note": " er sieht fern",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["pozerať televíziu"], "plural": null }
+  },
+  {
+    "singular": "fẹrtig",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["hotový"], "plural": null }
+  },
+  {
+    "singular": "freitags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každý piatok"], "plural": null }
+  },
+  {
+    "singular": "Freizeitaktivität",
+    "note": null,
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["voľnočasová aktivita"], "plural": null }
+  },
+  {
+    "singular": "gegen",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["proti, okolo (časový údaj)", "proti", "okolo"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "hạlb",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["pol"], "plural": null }
+  },
+  {
+    "singular": "Họrror",
+    "note": " (j. č.)",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["horor"], "plural": null }
+  },
+  {
+    "singular": "Hurra!",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Hurá!"], "plural": null }
+  },
+  {
+    "singular": "Ich bin schon um die Ecke.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Už som za rohom."], "plural": null }
+  },
+  {
+    "singular": "Ich hab´ dich lieb.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "Mám ťa rád/rada. Milujem ťa.",
+        "Mám ťa rád.",
+        "Mám ťa rada.",
+        "Milujem ťa."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Ich muss noch Zähne putzen.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["Musím si ešte vyčistiť zuby."],
+      "plural": null
+    }
+  },
+  {
+    "singular": "ins Bett gehen",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["ísť do postele"], "plural": null }
+  },
+  {
+    "singular": "jọbben",
+    "note": " er jobbt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["brigádovať"], "plural": null }
+  },
+  {
+    "singular": "Kạmera",
+    "note": null,
+    "plural": "-s",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["kamera, fotoaparát", "kamera", "fotoaparát"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Kanal",
+    "note": null,
+    "plural": "Kanäle",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["program, kanál", "program", "kanál"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Kein Stress!",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Žiaden stres!"], "plural": null }
+  },
+  {
+    "singular": "Kịndergarten",
+    "note": null,
+    "plural": "Kindergärten",
+    "articles": ["der"],
+    "translation": { "singular": ["materská škola"], "plural": null }
+  },
+  {
+    "singular": "klịngeln",
+    "note": " er klingelt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["zvoniť"], "plural": null }
+  },
+  {
+    "singular": "kommentieren",
+    "note": " er kommentiert",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["komentovať"], "plural": null }
+  },
+  {
+    "singular": "Krạnkenhaus",
+    "note": null,
+    "plural": "Krankenhäuser",
+    "articles": ["das"],
+    "translation": { "singular": ["nemocnica"], "plural": null }
+  },
+  {
+    "singular": "lieb",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["milý, drahý", "milý", "drahý"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Lieblings- (kanal ...)",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["obľúbený (kanál)", "obľúbený kanál", "obľúbený"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Lieblingsfach",
+    "note": null,
+    "plural": "Lieblingsfächer",
+    "articles": ["das"],
+    "translation": { "singular": ["obľúbený predmet"], "plural": null }
+  },
+  {
+    "singular": "liken",
+    "note": " er likt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["lajkovať"], "plural": null }
+  },
+  {
+    "singular": "Mädchen",
+    "note": null,
+    "plural": "-",
+    "articles": ["das"],
+    "translation": { "singular": ["dievča"], "plural": null }
+  },
+  {
+    "singular": "mịt|nehmen",
+    "note": " er nimmt mit",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vziať so sebou"], "plural": null }
+  },
+  {
+    "singular": "Mịtternacht",
+    "note": null,
+    "plural": "Mitternächte",
+    "articles": ["die"],
+    "translation": { "singular": ["polnoc"], "plural": null }
+  },
+  {
+    "singular": "mịttwochs",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každú stredu"], "plural": null }
+  },
+  {
+    "singular": "montags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každý pondelok"], "plural": null }
+  },
+  {
+    "singular": "Mọrgenroutine",
+    "note": null,
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["ranná rutina"], "plural": null }
+  },
+  {
+    "singular": "mọrgens",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každé ráno"], "plural": null }
+  },
+  {
+    "singular": "müde",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["unavený"], "plural": null }
+  },
+  {
+    "singular": "Mụ̈lleimer",
+    "note": null,
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["odpadkový kôš"], "plural": null }
+  },
+  {
+    "singular": "Nachmittag",
+    "note": null,
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["odpoludnie, popoludnie", "odpoludnie", "popoludnie"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "nachmittags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každé popoludnie"], "plural": null }
+  },
+  {
+    "singular": "ohne",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["bez"], "plural": null }
+  },
+  {
+    "singular": "Pạrk",
+    "note": null,
+    "plural": "-s",
+    "articles": ["der"],
+    "translation": { "singular": ["park"], "plural": null }
+  },
+  {
+    "singular": "Pflịcht",
+    "note": null,
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["povinnosť"], "plural": null }
+  },
+  {
+    "singular": "posten",
+    "note": " er postet",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["postovať (príspevky)", "postovať", "postovať príspevky"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "pụtzen",
+    "note": " er putzt",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["(vy)čistiť", "čistiť", "vyčistiť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "sạmstags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každú sobotu"], "plural": null }
+  },
+  {
+    "singular": "saugen",
+    "note": " er saugt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vysávať"], "plural": null }
+  },
+  {
+    "singular": "Schạtz",
+    "note": null,
+    "plural": "Schätze",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["poklad, miláčik", "poklad", "miláčik"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "schlafen",
+    "note": " er schläft",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["zaspať"], "plural": null }
+  },
+  {
+    "singular": "(sich) schmịnken",
+    "note": " sie schminkt (sich)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["líčiť sa"], "plural": null }
+  },
+  {
+    "singular": "Sie bereiten das Abendessen zu.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "Pripravujú (varia) večeru.",
+        "Pripravujú večeru",
+        "Varia večeru"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie geht schlafen.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["(Ona) Ide spať.", "Ide spať", "Ona ide spať."],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie kauft alles ein.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "(Ona) Nakúpi všetko.",
+        "Nakúpi všetko.",
+        "Ona nakúpi všetko."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie leert den Mülleimer aus.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "(Ona) Vysype kôš. (Ona) Vynesie kôš.",
+        "Vysype kôš.",
+        "Vynesie kôš.",
+        "Ona vysype kôš.",
+        "Ona vynesie kôš."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie macht die Kamera an.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "(Ona) Zapne/pustí kameru.",
+        "Zapne kameru.",
+        "Pustí kameru.",
+        "Ona zapne kameru.",
+        "Ona pustí kameru."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie putzt das Bad.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "(Ona) Čistí/umýva kúpeľňu.",
+        "Čistí kúpeľňu.",
+        "Umýva kúpeľňu.",
+        "Ona čistí kúpeľňu.",
+        "Ona umýva kúpeľňu."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie putzt sich die Zähne.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["Čistí si zuby.", "Ona si čistí zuby."],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie räumt die Spülmaschine aus.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "Vyprázdni umývačku. Odloží z umývačky riad.",
+        "Vyprázdni umývačku.",
+        "Ona vyprázdni umývačku.",
+        "Ona odloží z umývačky riad.",
+        "Odloží z umývačky riad."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Sie saugt Staub.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "(Ona) Vysáva prach.",
+        "Vynesie prach.",
+        "Ona vynesie prach."
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "sich ạn|ziehen",
+    "note": " er zieht sich an",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["obliecť sa"], "plural": null }
+  },
+  {
+    "singular": "sich trẹffen",
+    "note": " er trifft sich",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["stretnúť sa"], "plural": null }
+  },
+  {
+    "singular": "sọnntags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každú nedeľu"], "plural": null }
+  },
+  {
+    "singular": "Spülmaschine",
+    "note": null,
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["umývačka riadu"], "plural": null }
+  },
+  {
+    "singular": "Staub",
+    "note": "(j. č.)",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["prach"], "plural": null }
+  },
+  {
+    "singular": "Training",
+    "note": null,
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["tréning"], "plural": null }
+  },
+  {
+    "singular": "Trẹnd",
+    "note": null,
+    "plural": "-s",
+    "articles": ["der"],
+    "translation": { "singular": ["trend"], "plural": null }
+  },
+  {
+    "singular": "Uhrzeit",
+    "note": null,
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["(presný) čas", "presný čas", "čas"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "um Mitternacht",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["o polnoci"], "plural": null }
+  },
+  {
+    "singular": "Ụnterricht",
+    "note": "(j. č.)",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["vyučovanie"], "plural": null }
+  },
+  {
+    "singular": "verbrịngen",
+    "note": " er verbringt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["stráviť"], "plural": null }
+  },
+  {
+    "singular": "vergẹssen",
+    "note": " er vergisst",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["zabudnúť"], "plural": null }
+  },
+  {
+    "singular": "-",
+    "note": null,
+    "plural": "",
+    "articles": ["der", "das Viertel,"],
+    "translation": { "singular": ["štvrť"], "plural": null }
+  },
+  {
+    "singular": "vlọggen",
+    "note": " er vloggt",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["natáčať vlog (videoblog)", "natáčať vlog"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "(sich) vor|bereiten",
+    "note": " er bereitet (sich) vor",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["pripravovať (sa)", "pripravovať sa"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Vormittag",
+    "note": null,
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["dopoludnie, predpoludnie", "dopoludnie", "predpoludnie"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "vormittags",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["každé dopoludnie"], "plural": null }
+  },
+  {
+    "singular": "Wẹcker",
+    "note": null,
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["budík"], "plural": null }
+  },
+  {
+    "singular": "weiter",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["ďalej"], "plural": null }
+  },
+  {
+    "singular": "Wẹltmeisterschaft",
+    "note": null,
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["majstrovstvá sveta"], "plural": null }
+  },
+  {
+    "singular": "wen",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["koho"], "plural": null }
+  },
+  {
+    "singular": "Wir treffen uns heute.",
+    "note": null,
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Stretneme sa dnes."], "plural": null }
+  },
+  {
+    "singular": "wịssen",
+    "note": " er weiß",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["vedieť (mať vedomosť)", "vedieť", "mať vedomosť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "zeigen",
+    "note": " er zeigt",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["ukázať"], "plural": null }
+  },
+  {
+    "singular": "zu|bereiten",
+    "note": " er bereitet zu",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["pripravovať (jedlo)", "pripravovať jedlo"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "zurụ̈ck|kommen",
+    "note": " er kommt zurück",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vrátiť sa"], "plural": null }
+  }
+]
