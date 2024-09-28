@@ -13,9 +13,13 @@
     "@astrojs/check": "^0.9.3",
     "@astrojs/preact": "^3.5.3",
     "@astrojs/svelte": "^5.7.1",
+    "@astrojs/tailwind": "^5.1.1",
+    "@xhyrom/colour-palette": "^0.1.0",
+    "@xhyrom/configs": "^0.1.1",
     "astro": "^4.15.9",
     "preact": "^10.24.1",
     "svelte": "^4.2.19",
+    "tailwindcss": "^3.4.13",
     "typescript": "^5.6.2"
   },
   "devDependencies": {

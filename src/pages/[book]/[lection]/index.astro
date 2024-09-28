@@ -1,6 +1,8 @@
 ---
-import Lection from "../../../components/Lection.tsx";
+import Layout from "../../../layouts/Layout.astro";
+import Lection from "../../../components/lection/Lection.tsx";
 import { type CollectionEntry, getCollection } from "astro:content";
+import Container from "../../../components/Container.astro";
 
 export async function getStaticPaths() {
   const dictionary = await getCollection("direkt");
@@ -25,6 +27,14 @@ interface Props {
 const { data } = Astro.props;
 ---
 
-yey
-
-<Lection client:load data={data} />
+<Layout title="lol">
+  <main class="h-full pb-4 text-white">
+    <div
+      class="flex h-full flex-col text-center items-center justify-center gap-y-6"
+    >
+      <Container>
+        <Lection client:only="preact" data={data} />
+      </Container>
+    </div>
+  </main>
+</Layout>

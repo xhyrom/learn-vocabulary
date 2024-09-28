@@ -8,7 +8,7 @@ const direktCollection = defineCollection({
       plural: z.string().optional().nullable(),
       articles: z.array(z.string()),
       translation: z.object({
-        singular: z.string(),
+        singular: z.array(z.string()),
         plural: z.string().optional().nullable(),
       }),
     }),
