@@ -9,6 +9,7 @@ export async function getStaticPaths() {
   const paths = [];
 
   for (const book of ["direkt-interaktiv-1"]) {
+    // @ts-expect-error
     const collection = await getCollection(book);
 
     paths.push({
