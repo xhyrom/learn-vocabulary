@@ -1,5 +1,6 @@
 import { useEffect, useState } from "preact/hooks";
 import type { FormProps } from "./forms/Form";
+import type { JSX } from "preact/jsx-runtime";
 
 export function Settings() {
   const [inputType, setInputType] = useState(
@@ -17,12 +18,14 @@ export function Settings() {
     localStorage.setItem("strategy", strategy);
   }, [strategy]);
 
-  const handleInputType = (event) => {
-    setInputType(event.target.value);
+  const handleInputType = (event: JSX.TargetedEvent<HTMLSelectElement>) => {
+    setInputType((event.target as HTMLSelectElement)!.value!);
   };
 
-  const handleStrategyChange = (event) => {
-    setStrategy(event.target.value);
+  const handleStrategyChange = (
+    event: JSX.TargetedEvent<HTMLSelectElement>,
+  ) => {
+    setStrategy((event.target as HTMLSelectElement)!.value!);
   };
 
   return (
