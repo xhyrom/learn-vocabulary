@@ -1,6 +1,6 @@
 import { z, defineCollection } from "astro:content";
 
-const direktInteraktiv1 = defineCollection({
+const direktCollection = defineCollection({
   type: "data",
   schema: z.array(
     z.object({
@@ -11,10 +11,10 @@ const direktInteraktiv1 = defineCollection({
         singular: z.string(),
         plural: z.string().optional().nullable(),
       }),
-    })
+    }),
   ),
 });
 
 export const collections = {
-  direktInteraktiv1: direktInteraktiv1,
+  direkt: direktCollection,
 };

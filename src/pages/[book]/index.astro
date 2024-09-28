@@ -1,0 +1,13 @@
+---
+export async function getStaticPaths() {
+  return ["direkt"].map((entry) => {
+    return {
+      params: {
+        book: entry,
+      },
+    };
+  });
+}
+---
+
+hm

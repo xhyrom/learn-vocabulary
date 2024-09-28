@@ -1,20 +1,30 @@
 ---
-import { getCollection } from 'astro:content';
+import Lection from "../../../components/Lection.tsx";
+import { type CollectionEntry, getCollection } from "astro:content";
 
 export async function getStaticPaths() {
-  const dictionary = await getCollection();
+  const dictionary = await getCollection("direkt");
 
   return dictionary.map((entry) => {
     return {
       params: {
-        id: entry.id,
+        book: entry.collection,
+        lection: entry.id,
       },
       props: {
-        words: entry.data.words,
+        data: entry.data as CollectionEntry<"direkt">,
       },
     };
   });
 }
+
+interface Props {
+  data: CollectionEntry<"direkt">;
+}
+
+const { data } = Astro.props;
 ---
 
 yey
+
+<Lection client:load data={data} />
