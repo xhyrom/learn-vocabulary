@@ -55,7 +55,7 @@ const { book, title, lections } = Astro.props;
             <Card
               title={lection.id}
               body={`${lection.words} words`}
-              href={`${book}/${lection.id}`}
+              href={`/${book}/${lection.id}`}
             />
           ))
         }
