@@ -17,6 +17,7 @@ export async function getStaticPaths() {
         book: book,
       },
       props: {
+        book: book,
         title: kebabCaseToTitleCase(book),
         lections: collection.map((l) => ({
           id: l.id,
@@ -30,6 +31,7 @@ export async function getStaticPaths() {
 }
 
 interface Props {
+  book: string;
   title: string;
   lections: {
     id: string;
@@ -37,7 +39,7 @@ interface Props {
   }[];
 }
 
-const { title, lections } = Astro.props;
+const { book, title, lections } = Astro.props;
 ---
 
 <Layout title={title}>
@@ -53,7 +55,7 @@ const { title, lections } = Astro.props;
             <Card
               title={lection.id}
               body={`${lection.words} words`}
-              href={`${Astro.url}/${lection.id}`}
+              href={`${book}/${lection.id}`}
             />
           ))
         }
