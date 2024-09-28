@@ -5,6 +5,9 @@ import { InputForm } from "./forms/InputForm";
 import { addStreak, setStreak } from "../../lib/streak";
 import { updateEstimatedCount } from "../../lib/count";
 
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
+
 interface Props {
   data: Word[];
 }
@@ -25,13 +28,6 @@ function getRandomOthers(data: Word[], exclude: Word[], count: number) {
 }
 
 const audio = new Audio("/audio/correct.wav");
-
-function handleIncorrect(setCorrectCount: Dispatch<SetStateAction<number>>) {
-  navigator.vibrate(200);
-  setCorrectCount(0);
-
-  setStreak(0);
-}
 
 export default function Lection({ data }: Props) {
   const [chunks, _] = useState(() => getRandomChunks(data, 5));
@@ -66,6 +62,17 @@ export default function Lection({ data }: Props) {
     addStreak(1);
   }
 
+  function handleIncorrect(word: Word) {
+    navigator.vibrate(200);
+
+    toast.error(
+      `The translation of ${word.singular} is ${word.translation.singular.join(" or ")}`,
+    );
+    setCorrectCount(0);
+
+    setStreak(0);
+  }
+
   const mainWord = currentChunk[correctCount]!;
   const others = getRandomOthers(data, [mainWord], 4);
 
@@ -75,14 +82,11 @@ export default function Lection({ data }: Props) {
 
   return (
     <>
-      <h1 className="text-6xl font-bold mb-5">
+      <ToastContainer position="bottom-right" autoClose={2500} />
+      <h1 className="text-4xl font-bold mb-5">
         {mainWord.articles.length > 0 ? mainWord.articles.join("/") + " " : ""}
         {mainWord.singular}
       </h1>
-      <p>
-        Chunk {currentChunkIndex + 1} of {chunks.length}
-      </p>
-      <p>Words left: {currentChunk.length - correctCount}</p>
 
       {isButtonSelectForm ? (
         <ButtonSelectForm
@@ -91,7 +95,7 @@ export default function Lection({ data }: Props) {
           others={others}
           strategy="de-sk"
           onCorrect={handleCorrect}
-          onIncorrect={() => handleIncorrect(setCorrectCount)}
+          onIncorrect={() => handleIncorrect(mainWord)}
         />
       ) : (
         <InputForm
@@ -99,7 +103,7 @@ export default function Lection({ data }: Props) {
           main={mainWord}
           strategy="de-sk"
           onCorrect={handleCorrect}
-          onIncorrect={() => handleIncorrect(setCorrectCount)}
+          onIncorrect={() => handleIncorrect(mainWord)}
         />
       )}
     </>

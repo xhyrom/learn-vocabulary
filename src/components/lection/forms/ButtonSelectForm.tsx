@@ -32,26 +32,19 @@ export function ButtonSelectForm({
   onCorrect,
   onIncorrect,
 }: ButtonSelectProps) {
-  return (
-    <div className="flex flex-wrap justify-center gap-6">
+  const buttons = [main, ...others]
+    .sort(() => Math.random() - 0.5)
+    .map((word) => (
       <Button
         onClick={(e) =>
           validate(e, { main, others, strategy, onCorrect, onIncorrect })
         }
       >
-        {strategy === "sk-de" ? main.singular : main.translation.singular[0]}
+        {strategy === "sk-de" ? word.singular! : word.translation.singular[0]!}
       </Button>
-      {others.map((e) => (
-        <Button
-          onClick={(e) =>
-            validate(e, { main, others, strategy, onCorrect, onIncorrect })
-          }
-        >
-          {strategy === "sk-de" ? e.singular : e.translation.singular[0]}
-        </Button>
-      ))}
-    </div>
-  );
+    ));
+
+  return <div className="flex flex-wrap justify-center gap-6">{buttons}</div>;
 }
 
 function validate(

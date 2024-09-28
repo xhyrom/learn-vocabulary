@@ -552,13 +552,7 @@
     "singular": "sie",
     "plural": "",
     "articles": [],
-    "translation": { "singular": ["ona"], "plural": null }
-  },
-  {
-    "singular": "sie",
-    "plural": "",
-    "articles": [],
-    "translation": { "singular": ["oni"], "plural": null }
+    "translation": { "singular": ["ona", "oni"], "plural": null }
   },
   {
     "singular": "Sie spielt Gitarre.",
