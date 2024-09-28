@@ -11,7 +11,6 @@
   "dependencies": {
     "@astrojs/check": "^0.9.3",
     "@astrojs/preact": "^3.5.3",
-    "@astrojs/svelte": "^5.7.1",
     "@astrojs/tailwind": "^5.1.1",
     "@xhyrom/colour-palette": "^0.1.0",
     "@xhyrom/configs": "^0.1.1",
