@@ -9,19 +9,22 @@ export interface ButtonSelectProps extends FormProps {
 export function Button({
   onClick,
   children,
+  href,
 }: {
-  onClick: (e: JSX.TargetedMouseEvent<HTMLElement>) => void;
+  onClick?: (e: JSX.TargetedMouseEvent<HTMLElement>) => void;
   children: JSX.Element | string;
+  href?: string;
 }) {
   return (
-    <button
+    <a
+      href={href}
       onClick={onClick}
       className={
         "broder-1 duration-400 flex items-center justify-center gap-x-3 rounded-lg border border-[#FFA500] bg-[#FFA500]/25 px-10 py-3 text-lg font-semibold text-white transition-colors ease-out hover:bg-[#FFA500]/40"
       }
     >
       {children}
-    </button>
+    </a>
   );
 }
 

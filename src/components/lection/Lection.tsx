@@ -1,5 +1,5 @@
 import type { Word } from "../../env";
-import { ButtonSelectForm } from "./forms/ButtonSelectForm";
+import { Button, ButtonSelectForm } from "./forms/ButtonSelectForm";
 import { useState, useEffect } from "preact/hooks";
 import { InputForm } from "./forms/InputForm";
 import { addStreak, setStreak } from "../../lib/streak";
@@ -50,7 +50,9 @@ export default function Lection({ data }: Props) {
 
     setCorrectCount((prev) => prev + 1);
 
+    console.log(correctCount + 1, currentChunk.length);
     if (correctCount + 1 === currentChunk.length) {
+      console.log("here");
       toast.success(`You've completed chunk ${currentChunkIndex + 1}! 🎉`);
 
       if (currentChunkIndex + 1 < chunks.length) {
@@ -82,7 +84,20 @@ export default function Lection({ data }: Props) {
     setStreak(0);
   }
 
-  const mainWord = currentChunk[correctCount]!;
+  const mainWord = currentChunk[correctCount];
+
+  if (!mainWord)
+    return (
+      <>
+        <ToastContainer position="bottom-right" theme="dark" autoClose={5000} />
+        <h1 className="text-4xl font-bold mb-5">
+          You have completed the lection!
+        </h1>
+
+        <Button onClick={() => window.history.back()}>Go back</Button>
+      </>
+    );
+
   const others = getRandomOthers(data, [mainWord], 4);
 
   let inputType = getInputType();
