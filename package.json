@@ -27,5 +27,8 @@
   "overrides": {
     "react": "npm:@preact/compat@latest",
     "react-dom": "npm:@preact/compat@latest"
+  },
+  "resolutions": {
+    "string-width": "4.2.3"
   }
 }
