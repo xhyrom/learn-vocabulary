@@ -1,0 +1,8 @@
+[providers]
+[providers.github]
+ssh = "git@github.com:xhyrom/learn-vocabulary.git"
+[providers.sourcehut]
+ssh = "git@git.sr.ht:~hyro/learn-vocabulary"
+primary = true
+[providers.codeberg]
+ssh = "git@codeberg.org:xHyroM/learn-vocabulary.git"
