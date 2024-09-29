@@ -66,6 +66,8 @@ function validate(
           props.main.articles
             .map((article) => `${article} ${props.main.singular}`)
             .some((w) => w === event.currentTarget.textContent?.trim())) ||
+        `${props.main.articles.join("/")} ${props.main.singular}` ===
+          event.currentTarget.textContent?.trim() ||
         event.currentTarget.textContent?.trim() === props.main.singular.trim()
       ) {
         props.onCorrect();
