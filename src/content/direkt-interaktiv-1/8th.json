@@ -1,0 +1,831 @@
+[
+  {
+    "singular": "Abteilung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["oddelenie"], "plural": null }
+  },
+  {
+    "singular": "Apotheke",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["lekáreň"], "plural": null }
+  },
+  {
+    "singular": "Aprịl",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["apríl"], "plural": null }
+  },
+  {
+    "singular": "Augụst",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["august"], "plural": null }
+  },
+  {
+    "singular": "(sich) aus|denken, er denkt sich aus",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vymyslieť si"], "plural": null }
+  },
+  {
+    "singular": "Bäckerei",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["pekáreň"], "plural": null }
+  },
+  {
+    "singular": "bekọmmen",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["dostať"], "plural": null }
+  },
+  {
+    "singular": "besọrgen",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["obstarať"], "plural": null }
+  },
+  {
+    "singular": "Bioladen",
+    "plural": "Bioläden",
+    "articles": ["der"],
+    "translation": { "singular": ["obchod s bioproduktmi"], "plural": null }
+  },
+  {
+    "singular": "Briefmarke",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["poštová známka"], "plural": null }
+  },
+  {
+    "singular": "Bühne",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["javisko, divadelná scéna", "javisko", "divadelná scéna"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Buchhandlung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["kníhkupectvo"], "plural": null }
+  },
+  {
+    "singular": "bụmmeln",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "prechádzať sa, potulovať sa",
+        "prechádzať sa",
+        "potulovať sa"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Bụs",
+    "plural": "-se",
+    "articles": ["der"],
+    "translation": { "singular": ["autobus"], "plural": null }
+  },
+  {
+    "singular": "Cẹnt",
+    "plural": "-s",
+    "articles": ["der"],
+    "translation": { "singular": ["cent"], "plural": null }
+  },
+  {
+    "singular": "danach",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["potom, po tom, za tým", "potom", "po tom", "za tým"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Delikatẹsse",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["lahôdka, delikatesa", "lahôdka", "delikatesa"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Dezẹmber",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["december"], "plural": null }
+  },
+  {
+    "singular": "dirẹkt",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["priamy, priamo", "priamy", "priamo"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Dom",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["dóm, katedrála", "dóm", "katedrála"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Dose",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": [
+        "plechovka, dóza, konzerva",
+        "plechovka",
+        "dóza",
+        "konzerva"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "drịtte",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["tretí"], "plural": null }
+  },
+  {
+    "singular": "Drogerie",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["drogéria"], "plural": null }
+  },
+  {
+    "singular": "ebenfalls",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": [
+        "taktiež, rovnako, podobne",
+        "taktiež",
+        "rovnako",
+        "podobne"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "eigen",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["vlastný, svoj", "vlastný", "svoj"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Einkaufsliste",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["nákupný zoznam"], "plural": null }
+  },
+  {
+    "singular": "Eisdiele",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": [
+        "zmrzlináreň/cukráreň, kde predávajú prevažne zmrzlinu",
+        "zmrzlináreň/cukráreň",
+        "kde predávajú prevažne zmrzlinu"
+      ],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Elektronik",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["elektronika"], "plural": null }
+  },
+  {
+    "singular": "entfẹrnt",
+    "note": "(sein)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["(byť) vzdialený"], "plural": null }
+  },
+  {
+    "singular": "Erdgeschoss",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["prízemie"], "plural": null }
+  },
+  {
+    "singular": "erste",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["prvý"], "plural": null }
+  },
+  {
+    "singular": "Etage",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["poschodie"], "plural": null }
+  },
+  {
+    "singular": "Fahrt mit dem Bus!",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Choďte autobusom!"], "plural": null }
+  },
+  {
+    "singular": "Februar",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["február"], "plural": null }
+  },
+  {
+    "singular": "Fẹstung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["pevnosť"], "plural": null }
+  },
+  {
+    "singular": "fịnden",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["nájsť"], "plural": null }
+  },
+  {
+    "singular": "Flạsche",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["fľaša"], "plural": null }
+  },
+  {
+    "singular": "Flughafen",
+    "plural": "Flughäfen",
+    "articles": ["der"],
+    "translation": { "singular": ["letisko"], "plural": null }
+  },
+  {
+    "singular": "frịsch",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["čerstvý"], "plural": null }
+  },
+  {
+    "singular": "Fuß",
+    "plural": "Füße",
+    "articles": ["der"],
+    "translation": { "singular": ["noha"], "plural": null }
+  },
+  {
+    "singular": "Garage",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["garáž"], "plural": null }
+  },
+  {
+    "singular": "Gạsse",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["(úzka) ulička"], "plural": null }
+  },
+  {
+    "singular": "Geburtshaus",
+    "plural": "Geburtshäuser",
+    "articles": ["das"],
+    "translation": { "singular": ["rodný dom"], "plural": null }
+  },
+  {
+    "singular": "gegenüber",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["naproti, oproti", "naproti", "oproti"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "gerade",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["práve, v tejto chvíli", "práve", "v tejto chvíli"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Geschạ̈ft",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["obchod"], "plural": null }
+  },
+  {
+    "singular": "Grạmm",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["gram"], "plural": null }
+  },
+  {
+    "singular": "Hauptbahnhof",
+    "plural": "Hauptbahnhöfe",
+    "articles": ["der"],
+    "translation": { "singular": ["hlavná stanica"], "plural": null }
+  },
+  {
+    "singular": "Haustechnik",
+    "note": "(j. č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["domáca technika"], "plural": null }
+  },
+  {
+    "singular": "họffen",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["dúfať, veriť", "dúfať", "veriť"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Hotẹl",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["hotel"], "plural": null }
+  },
+  {
+    "singular": "Jạnuar",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["január"], "plural": null }
+  },
+  {
+    "singular": "jọggen",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["behať"], "plural": null }
+  },
+  {
+    "singular": "Juli",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["júl"], "plural": null }
+  },
+  {
+    "singular": "Juni",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["jún"], "plural": null }
+  },
+  {
+    "singular": "Karriere",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["kariéra"], "plural": null }
+  },
+  {
+    "singular": "Kaufhaus",
+    "plural": "Kaufhäuser",
+    "articles": ["das"],
+    "translation": { "singular": ["obchodný dom"], "plural": null }
+  },
+  {
+    "singular": "Keks",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["keks, sušienka", "keks", "sušienka"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Kilo",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["kilo(gram)"], "plural": null }
+  },
+  {
+    "singular": "Kịnderraum",
+    "plural": "Kinderräume",
+    "articles": ["der"],
+    "translation": { "singular": ["detský kútik"], "plural": null }
+  },
+  {
+    "singular": "Kinosaal",
+    "plural": "Kinosäle",
+    "articles": ["der"],
+    "translation": { "singular": ["kinosála"], "plural": null }
+  },
+  {
+    "singular": "Kiọsk",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["stánok, kiosk", "stánok", "kiosk"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Kleidung",
+    "note": "(j. č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["oblečenie, odev", "oblečenie", "odev"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Konditorei",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["cukráreň"], "plural": null }
+  },
+  {
+    "singular": "Kụnde",
+    "plural": "-n",
+    "articles": ["der"],
+    "translation": { "singular": ["zákazník"], "plural": null }
+  },
+  {
+    "singular": "Laden",
+    "plural": "Läden",
+    "articles": ["der"],
+    "translation": { "singular": ["obchod"], "plural": null }
+  },
+  {
+    "singular": "Liter",
+    "plural": "-",
+    "articles": ["der", "das"],
+    "translation": { "singular": ["liter"], "plural": null }
+  },
+  {
+    "singular": "Mai",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["máj"], "plural": null }
+  },
+  {
+    "singular": "Mạrkt",
+    "plural": "Märkte",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["trh, trhovisko", "trh", "trhovisko"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Mạ̈rz",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["marec"], "plural": null }
+  },
+  {
+    "singular": "Medikamẹnt",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["liek"], "plural": null }
+  },
+  {
+    "singular": "Metzgerei",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["mäsiarstvo, mäsiareň", "mäsiarstvo", "mäsiareň"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "mịt|bringen",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["priniesť so sebou"], "plural": null }
+  },
+  {
+    "singular": "Mode",
+    "note": "(Damen-/Herren-/Kindermode)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["móda (dámska/pánska/detská)"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Mozartkugeln",
+    "note": "(mn. č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["Mozartove gule"], "plural": null }
+  },
+  {
+    "singular": "Mozartschnitten",
+    "note": "(mn. č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["Mozartove rezy"], "plural": null }
+  },
+  {
+    "singular": "Nachricht",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["správa"], "plural": null }
+  },
+  {
+    "singular": "neben",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["vedľa"], "plural": null }
+  },
+  {
+    "singular": "Novẹmber",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["november"], "plural": null }
+  },
+  {
+    "singular": "Oktober",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["október"], "plural": null }
+  },
+  {
+    "singular": "Pạckung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["balenie"], "plural": null }
+  },
+  {
+    "singular": "Parfüm",
+    "plural": "-e/-s",
+    "articles": ["das"],
+    "translation": { "singular": ["parfum"], "plural": null }
+  },
+  {
+    "singular": "Pizzeria",
+    "plural": "Pizzerien/Pizzerias",
+    "articles": ["die"],
+    "translation": { "singular": ["pizzeria"], "plural": null }
+  },
+  {
+    "singular": "Plan",
+    "plural": "Pläne",
+    "articles": ["der"],
+    "translation": { "singular": ["plán"], "plural": null }
+  },
+  {
+    "singular": "Pọst",
+    "note": "(j.č.)",
+    "plural": "",
+    "articles": ["die"],
+    "translation": { "singular": ["pošta"], "plural": null }
+  },
+  {
+    "singular": "probieren",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["ochutnať, vyskúšať", "ochutnať", "vyskúšať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Publikum",
+    "note": "(j. č.)",
+    "plural": "",
+    "articles": ["das"],
+    "translation": { "singular": ["publikum"], "plural": null }
+  },
+  {
+    "singular": "Reiseführer",
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["(cestovný) sprievodca"], "plural": null }
+  },
+  {
+    "singular": "Sạ̈nger",
+    "plural": "-",
+    "articles": ["der"],
+    "translation": { "singular": ["spevák"], "plural": null }
+  },
+  {
+    "singular": "Septẹmber",
+    "plural": "",
+    "articles": ["der"],
+    "translation": { "singular": ["september"], "plural": null }
+  },
+  {
+    "singular": "Shạmpoo",
+    "plural": "-s",
+    "articles": ["das"],
+    "translation": { "singular": ["šampón"], "plural": null }
+  },
+  {
+    "singular": "Schạchtel",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["škatuľa, krabička", "škatuľa", "krabička"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Schmụck",
+    "note": "(j. č.)",
+    "plural": "",
+    "articles": ["der"],
+    "translation": {
+      "singular": ["šperk, klenot", "šperk", "klenot"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Schuh",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": { "singular": ["topánka"], "plural": null }
+  },
+  {
+    "singular": "Schwịmmhalle",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["krytá plaváreň"], "plural": null }
+  },
+  {
+    "singular": "sich freuen",
+    "note": "er freut sich (auf + 4. p.)",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["tešiť sa (na čo)"], "plural": null }
+  },
+  {
+    "singular": "sọnst",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["inak, ináč", "inak", "ináč"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Souvenirshop",
+    "plural": "-s",
+    "articles": ["der"],
+    "translation": { "singular": ["obchod so suvenírmi"], "plural": null }
+  },
+  {
+    "singular": "Spielzeug",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["hračka"], "plural": null }
+  },
+  {
+    "singular": "Stadion",
+    "plural": "Stadien",
+    "articles": ["das"],
+    "translation": { "singular": ["štadión"], "plural": null }
+  },
+  {
+    "singular": "Star",
+    "plural": "-s",
+    "articles": ["der"],
+    "translation": { "singular": ["hviezda"], "plural": null }
+  },
+  {
+    "singular": "Straße",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["ulica"], "plural": null }
+  },
+  {
+    "singular": "Supermarkt",
+    "plural": "Supermärkte",
+    "articles": ["der"],
+    "translation": { "singular": ["supermarket"], "plural": null }
+  },
+  {
+    "singular": "Tafel",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["tabuľa, tabuľka", "tabuľa", "tabuľka"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Toilẹtte",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": {
+      "singular": ["toaleta, WC", "toaleta", "WC"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Trẹffpunkt",
+    "plural": "-e",
+    "articles": ["der"],
+    "translation": { "singular": ["miesto stretnutia"], "plural": null }
+  },
+  {
+    "singular": "Trilobit",
+    "plural": "-en",
+    "articles": ["der"],
+    "translation": { "singular": ["trilobit"], "plural": null }
+  },
+  {
+    "singular": "Tüte",
+    "plural": "-n",
+    "articles": ["die"],
+    "translation": { "singular": ["vrecko (papierové)"], "plural": null }
+  },
+  {
+    "singular": "übernạchten",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["prenocovať"], "plural": null }
+  },
+  {
+    "singular": "Ụntergeschoss",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["suterén"], "plural": null }
+  },
+  {
+    "singular": "Vọllkornbrot",
+    "plural": "-e",
+    "articles": ["das"],
+    "translation": { "singular": ["celozrnný chlieb"], "plural": null }
+  },
+  {
+    "singular": "vor|schlagen",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["navrhnúť, navrhovať", "navrhnúť", "navrhovať"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "werden",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["stať sa"], "plural": null }
+  },
+  {
+    "singular": "Wir denken uns etwas aus.",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Niečo (si) vymyslíme."], "plural": null }
+  },
+  {
+    "singular": "Wir fahren mit dem Zug.",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["Pôjdeme/Ideme vlakom."], "plural": null }
+  },
+  {
+    "singular": "Wohnung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["byt"], "plural": null }
+  },
+  {
+    "singular": "Zeitung",
+    "plural": "-en",
+    "articles": ["die"],
+    "translation": { "singular": ["noviny"], "plural": null }
+  },
+  {
+    "singular": "zu Fuß gehen",
+    "plural": "",
+    "articles": [],
+    "translation": {
+      "singular": ["ísť peši, pešo", "ísť peši", "pešo"],
+      "plural": null
+    }
+  },
+  {
+    "singular": "Zug",
+    "plural": "Züge",
+    "articles": ["der"],
+    "translation": { "singular": ["vlak"], "plural": null }
+  },
+  {
+    "singular": "zweite",
+    "plural": "",
+    "articles": [],
+    "translation": { "singular": ["druhý"], "plural": null }
+  }
+]
